@@ -1,26 +1,20 @@
 <product>
-<id>1000038371</id>
-<ecMallProductId>1000038371</ecMallProductId>
-<name><![CDATA[[크라운출판사] 화훼장식기능사 필기시험 총정리문제(2017)(8절) ( 책 , 도서 )]]></name>
-<basePrice>16000</basePrice>
-<taxType>TAX_FREE</taxType>
-<infoUrl><![CDATA[http://kdgmall.net/goods/goods_view.php?inflow=naverPay&goodsNo=1000038371]]></infoUrl>
-<imageUrl><![CDATA[http://www.kdgmall.xyz/book_image_2018/9788940625415.jpg]]></imageUrl>
-<status>ON_SALE</status>
-<supplementSupport>false</supplementSupport>
-<optionSupport>false</optionSupport>
-<shippingPolicy>
-<method>DELIVERY</method>
-<groupId>2</groupId>
-<conditionalFree>
-<basePrice>20000</basePrice>
-</conditionalFree>
-<feePayType>PREPAYED</feePayType>
-<feePrice>2500</feePrice>
-<feeType>CONDITIONAL_FREE</feeType>
-<surchargeByArea>
-<splitUnit>2</splitUnit>
-<area2Price>3000</area2Price>
-</surchargeByArea>
-</shippingPolicy>
+  <id>100</id>
+  <ecMallProductId>100</ecMallProductId>
+  <name>test</name>
+  <basePrice>10000</basePrice>
+  <taxType>TAX</taxType>
+  <infoUrl>http://fun-tree.com/files/goods/danbi7482/goodsimg/27880_simg2.jpg
+  </infoUrl>
+  <imageUrl>http://fun-tree.com/files/goods/danbi7482/goodsimg/27880_simg2.jpg
+  </imageUrl>
+  <single>
+    <quantity>1</quantity>
+  </single>
+  <shippingPolicy>
+    <groupId>100</groupId>
+    <feePayType>FREE</feePayType>
+    <feeType>FREE</feeType>
+    <feePrice>0</feePrice>
+  </shippingPolicy>
 </product>
