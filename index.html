@@ -1,59 +1,67 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Bitnami: Open Source. Simplified</title>
-<link href="bitnami.css" media="all" rel="Stylesheet" type="text/css" />
-</head>
-<body>
-<div id="container">
-  <div id="header">
-    <div id="bitnami">
-        <a href="/"><img alt="Bitnami" src="img/bitnami.png?1186088387" /></a>
+<!DOCTYPE html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>부트스트랩 101 템플릿</title>
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap-theme.min.css">
+    <style>
+      .container.marketing .row .col-lg-4{
+            margin-top:80px;
+      }
+    </style>
+
+  </head>
+  <body>
+    <!-- start 네비게이션 -->
+    <div class="navbar-wrapper">
+      <div class="container">
+        <nav class="navbar navbar-inverse navbar-static-top">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              <a class="navbar-brand" href="">Geonil's Blog</a>
+            </div>
+            <div id="navbar" class="navbar-collapse collapse">
+              <ul class="nav navbar-nav">
+                <li class="active"><a href="#" onclick="checkClick(1)">Home</a></li>
+                <li><a href="#" onclick="checkClick(2)">About</a></li>
+                <li><a href="#" onclick="checkClick(3)">Contact</a></li>
+                <li class="dropdown">
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Dropdown <span class="caret"></span></a>
+                  <ul class="dropdown-menu" role="menu">
+                    <li><a href="#">Action</a></li>
+                    <li><a href="#">Another action</a></li>
+                    <li><a href="#">Something else here</a></li>
+                    <li class="divider"></li>
+                    <li class="dropdown-header">Nav header</li>
+                    <li><a href="#">Separated link</a></li>
+                    <li><a href="#">One more separated link</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </nav>
+      </div>
     </div>
-  </div>
-    <div id="menu_launch_page">
-      <table cellpadding="0" cellspacing="0">
-        <tr>
-          <td><img src="img/tab1_welcome.png" alt="" /></td>
-          <td><a href="applications.html"><img src="img/tab2_welcome.png" alt="" /></a></td>
-        </tr>
-      </table>
-    </div>
-  <div id="lowerContainer">
-    <div id="content">
-        <div align="center">
-<table class="tableParagraph">
-<tr>
-<td class="container">
-<img align="left" src="img/wampstack.png" alt="Bitnami WAMP Stack"/>
-<p>We created the Bitnami Project to help spread the adoption of freely
-available, high quality  Open Source web applications. Bitnami aims to make
-it easier than ever to discover, download and install Open Source software such
-as document and content management systems, wikis and blogging software.<br/><br/>
+    <!-- end 네비게이션 -->
 
-You can learn more about Bitnami at <a href="https://bitnami.com">https://bitnami.com</a><br/><br/>
-
-The Bitnami WAMP Stack is an easy to install
-software platform that greatly simplifies the deployment of Open Source web
-stacks. It includes ready-to-run versions of
-Apache, MySQL and PHP. Bitnami WAMP Stack is
-distributed for free under the Apache 2.0 license.<br/><br/>
-To get started with Bitnami WAMP Stack we suggest the following:<br/><br/>
-
-
-<b>1.- <a target="_blank" href="https://docs.bitnami.com/installer/infrastructure/wamp/">Check our documentation</a></b>. The stack is self-contained and independent on your system, you can find all components in your installation directory: C:/Bitnami/wampstack-7.1.12-0<br/><br/>
-<b>2.- <a target="_blank" href="https://docs.bitnami.com/installer/infrastructure/wamp/#how-to-start-or-stop-the-servers">Start the servers.</a></b> Open the graphical "Manager" tool in your installation directory to start &amp; stop the installed servers. You can also use "ctlscript.sh" from the command line prompt. <br/><br/>
-<b>3.- <a target="_blank" href="https://docs.bitnami.com/installer/infrastructure/wamp/#add-applications-amp">Add more apps.</a></b> Download and install any Bitnami application module to run on top of this Stack.<br/><br/>
-<b>4.- <a target="_blank" href="https://docs.bitnami.com/installer/infrastructure/wamp/#how-to-create-a-custom-php-application">Deploy your own project</a></b>.
-</p>
-</td>
-</tr>
-</table>
-        </div>
-        <br/><br/>
-   </div>
-  </div>
+    <div>
+    {% for post in images_list %}
+      {{ post.title }}
+      <img src="{{ post.photo.url }}" alt="사진입니다"/>
+    {% endfor%}
 </div>
-</body>
+
+  </body>
 </html>
