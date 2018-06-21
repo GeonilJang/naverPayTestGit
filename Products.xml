@@ -27,6 +27,8 @@
 </surchargeByArea>
 </shippingPolicy>
 <option>
+
+
 <optionItem>
 <type>SELECT</type>
 <name><![CDATA[컬러/옵션]]></name>
@@ -47,22 +49,18 @@
 <text><![CDATA[남성용 스카이블루 세트 ]]></text>
 </value>
 </optionItem>
-<optionItem>
-<type>SELECT</type>
-<name><![CDATA[옵션]]></name>
-<value>
-<id>S_3f17c7be73797d792a4a325e74a59f</id>
-<text><![CDATA[FREE]]></text>
-</value>
-</optionItem>
+
 <optionItem>
 <type>SELECT</type>
 <name><![CDATA[사이즈]]></name>
 <value>
-<id>S_035f819a11e9257d75af49bf921c2c</id>
-<text><![CDATA[]]></text>
+<id>S_591ea59a663c3500ea545561390785</id>
+<text><![CDATA[FREE]]></text>
 </value>
 </optionItem>
+
+
+
 <combination>
 <manageCode>option5825</manageCode>
 <options>
@@ -75,6 +73,9 @@
 </options>
 <price>0</price>
 </combination>
+
+
+
 </option>
 </product>
 </products>
