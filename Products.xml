@@ -1,42 +1,80 @@
 <products>
-  <product>
-    <id>100</id>
-    <ecMallProductId>100</ecMallProductId>
-    <name>test</name>
-    <basePrice>10000</basePrice>
-    <taxType>TAX</taxType>
-    <infoUrl>http://fun-tree.com/files/goods/danbi7482/goodsimg/27880_simg2.jpg
-    </infoUrl>
-    <imageUrl>http://fun-tree.com/files/goods/danbi7482/goodsimg/27880_simg2.jpg
-    </imageUrl>
-    <single>
-      <quantity>1</quantity>
-    </single>
-    <shippingPolicy>
-      <groupId>100</groupId>
-      <feePayType>FREE</feePayType>
-      <feeType>FREE</feeType>
-      <feePrice>0</feePrice>
-    </shippingPolicy>
-  </product>
-  <product>
-    <id>102</id>
-    <ecMallProductId>100</ecMallProductId>
-    <name>test</name>
-    <basePrice>10000</basePrice>
-    <taxType>TAX</taxType>
-    <infoUrl>http://fun-tree.com/files/goods/danbi7482/goodsimg/27880_simg2.jpg
-    </infoUrl>
-    <imageUrl>http://fun-tree.com/files/goods/danbi7482/goodsimg/27880_simg2.jpg
-    </imageUrl>
-    <single>
-      <quantity>1</quantity>
-    </single>
-    <shippingPolicy>
-      <groupId>100</groupId>
-      <feePayType>FREE</feePayType>
-      <feeType>FREE</feeType>
-      <feePrice>0</feePrice>
-    </shippingPolicy>
-  </product>
+<product>
+<id>1000001236</id>
+<ecMallProductId>1000001236</ecMallProductId>
+<name><![CDATA[[여성용/남성용] 스누피 잠옷 파자마 세트 (2 color) *안대 무료 증정*]]></name>
+<basePrice>19500</basePrice>
+<taxType>TAX</taxType>
+<infoUrl><![CDATA[http://mantogirl.com/goods/goods_view.php?inflow=naverPay&goodsNo=1000001236]]></infoUrl>
+<imageUrl><![CDATA[http://mantogirl.com/data/goods/18/05/20/1000001236/1000001236_main_028.gif]]></imageUrl>
+<status>ON_SALE</status>
+<supplementSupport>false</supplementSupport>
+<optionSupport>true</optionSupport>
+<returnShippingFee>2500</returnShippingFee>
+<exchangeShippingFee>5000</exchangeShippingFee>
+<shippingPolicy>
+<method>DELIVERY</method>
+<groupId>2</groupId>
+<conditionalFree>
+<basePrice>70000</basePrice>
+</conditionalFree>
+<feePayType>PREPAYED</feePayType>
+<feePrice>2500</feePrice>
+<feeType>CONDITIONAL_FREE</feeType>
+<surchargeByArea>
+<splitUnit>2</splitUnit>
+<area2Price>3000</area2Price>
+</surchargeByArea>
+</shippingPolicy>
+<option>
+<optionItem>
+<type>SELECT</type>
+<name><![CDATA[컬러]]></name>
+<value>
+<id>S_2250f831c432b4c0c3f80f5acdde80</id>
+<text><![CDATA[여성용 화이트 세트]]></text>
+</value>
+<value>
+<id>S_bcfdca9cecf7f05127b3938e3195e1</id>
+<text><![CDATA[여성용 스카이블루 세트]]></text>
+</value>
+<value>
+<id>S_fe1989eee73c51937b155fb2c8a3be</id>
+<text><![CDATA[남성용 화이트 세트]]></text>
+</value>
+<value>
+<id>S_004fec57184b23dd86a35f8043f8df</id>
+<text><![CDATA[남성용 스카이블루 세트 ]]></text>
+</value>
+</optionItem>
+<optionItem>
+<type>SELECT</type>
+<name><![CDATA[옵션]]></name>
+<value>
+<id>S_3f17c7be73797d792a4a325e74a59f</id>
+<text><![CDATA[FREE]]></text>
+</value>
+</optionItem>
+<optionItem>
+<type>SELECT</type>
+<name><![CDATA[사이즈]]></name>
+<value>
+<id>S_591ea59a663c3500ea545561390785</id>
+<text><![CDATA[]]></text>
+</value>
+</optionItem>
+<combination>
+<manageCode>option5827</manageCode>
+<options>
+<name><![CDATA[컬러/옵션]]></name>
+<id>S_fe1989eee73c51937b155fb2c8a3be</id>
+</options>
+<options>
+<name><![CDATA[사이즈]]></name>
+<id>S_591ea59a663c3500ea545561390785</id>
+</options>
+<price>1000</price>
+</combination>
+</option>
+</product>
 </products>
