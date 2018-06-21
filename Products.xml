@@ -31,7 +31,7 @@
 <type>SELECT</type>
 <name><![CDATA[컬러/옵션]]></name>
 <value>
-<id>S_2250f831c432b4c0c3f80f5acdde80</id>
+<id>S_d6c68e1ade5bd0787d27cd8695e1a4</id>
 <text><![CDATA[여성용 화이트 세트]]></text>
 </value>
 <value>
@@ -39,11 +39,7 @@
 <text><![CDATA[여성용 스카이블루 세트]]></text>
 </value>
 <value>
-<<<<<<< HEAD
-<id>S_fe1989eee73c51937b155fb2c8a3be</id>
-=======
 <id>S_749e06b205fb88dc2f16cafcebb49f</id>
->>>>>>> 19f6e6bae3876f271f5d23336a71e0f18780c948
 <text><![CDATA[남성용 화이트 세트]]></text>
 </value>
 <value>
@@ -63,25 +59,21 @@
 <type>SELECT</type>
 <name><![CDATA[사이즈]]></name>
 <value>
-<<<<<<< HEAD
-<id>S_591ea59a663c3500ea545561390785</id>
-=======
 <id>S_035f819a11e9257d75af49bf921c2c</id>
->>>>>>> 19f6e6bae3876f271f5d23336a71e0f18780c948
 <text><![CDATA[]]></text>
 </value>
 </optionItem>
 <combination>
-<manageCode>option5827</manageCode>
+<manageCode>option5825</manageCode>
 <options>
 <name><![CDATA[컬러/옵션]]></name>
-<id>S_fe1989eee73c51937b155fb2c8a3be</id>
+<id>S_d6c68e1ade5bd0787d27cd8695e1a4</id>
 </options>
 <options>
 <name><![CDATA[사이즈]]></name>
 <id>S_591ea59a663c3500ea545561390785</id>
 </options>
-<price>1000</price>
+<price>0</price>
 </combination>
 </option>
 </product>
