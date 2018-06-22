@@ -11,6 +11,7 @@
 <supplementSupport>false</supplementSupport>
 <optionSupport>true</optionSupport>
 <shippingPolicy>
+  
 <method>DELIVERY</method>
 <groupId>2</groupId>
 <conditionalFree>
