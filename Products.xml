@@ -11,6 +11,7 @@
 <supplementSupport>false</supplementSupport>
 <optionSupport>true</optionSupport>
 <shippingPolicy>
+
 <method>DELIVERY</method>
 <groupId>2</groupId>
 <conditionalFree>
@@ -62,6 +63,7 @@
 <text><![CDATA[]]></text>
 </value>
 </optionItem>
+
 <combination>
 <manageCode>option17203</manageCode>
 <options>
@@ -70,6 +72,7 @@
 </options>
 <price>0</price>
 </combination>
+
 </option>
 </product>
 </products>
