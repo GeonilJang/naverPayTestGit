@@ -1,51 +1,61 @@
-<products>
-<product>
-<id>1000000296</id>
-<ecMallProductId>1000000296</ecMallProductId>
-<name><![CDATA[고단백 델리황]]></name>
-<basePrice>3850</basePrice>
-<taxType>TAX</taxType>
-<infoUrl><![CDATA[http://mall.drdiary.co.kr/goods/goods_view.php?inflow=naverPay&goodsNo=1000000296]]></infoUrl>
-<imageUrl><![CDATA[http://mall.drdiary.co.kr/data/goods/18/06/26/1000000296/1000000296_main_096.jpg]]></imageUrl>
-<status>ON_SALE</status>
-<supplementSupport>false</supplementSupport>
-<optionSupport>true</optionSupport>
-<shippingPolicy>
-<method>DELIVERY</method>
-<groupId>2</groupId>
-<conditionalFree>
-<basePrice>75000</basePrice>
-</conditionalFree>
-<feePayType>PREPAYED</feePayType>
-<feePrice>2500</feePrice>
-<feeType>CONDITIONAL_FREE</feeType>
-<surchargeByArea>
-<splitUnit>3</splitUnit>
-<area2Price>3000</area2Price>
-<area3Price></area3Price>
-</surchargeByArea>
-</shippingPolicy>
-<option>
-<optionItem>
-<type>SELECT</type>
-<name><![CDATA[맛]]></name>
-<value>
-<id>S_2ee0c1ce7a41be6cd5e877b470e71e</id>
-<text><![CDATA[오리지널]]></text>
-</value>
-<value>
-<id>S_250e4f4aacd91fdad8bdde4949e5b6</id>
-<text><![CDATA[버터]]></text>
-</value>
-</optionItem>
-<combination>
-<manageCode>option977</manageCode>
+<response>
+<item id="2700">
+<name>
+<![CDATA[
+아이폰 X을 감싸는 특별한 센스. <strong>UAG 리미티드 에디션 카모 케이스</strong>
+]]>
+</name>
+<url>
+http://store.earlyadopter.co.kr/shop/goods/goods_view.php?inflow=naverCheckout&goodsno=2700
+</url>
+<description>
+<![CDATA[
+<img src="/shop/lib/meditor/../../data/editor/e36536908c81b6a2.png">
+]]>
+</description>
+<image>
+<![CDATA[
+http://store.earlyadopter.co.kr/shop/data/goods/1526026015348l0.jpg
+]]>
+</image>
+<thumb>
+<![CDATA[
+http://store.earlyadopter.co.kr/shop/data/goods/1526026015916s0.jpg
+]]>
+</thumb>
+<price>41800</price>
+<quantity>10000</quantity>
 <options>
-<name><![CDATA[맛]]></name>
-<id>S_2ee0c1ce7a41be6cd5e877b470e71e</id>
-</options>
-<price>0</price>
-</combination>
+<option name="기종">
+<select>
+<![CDATA[ /iPhone X ]]>
+</select>
+<select>
+<![CDATA[ iPhone /iPhone X6s/7/8 ]]>
+</select>
+<select>
+<![CDATA[ iPhone 6s+/7+/8+ ]]>
+</select>
+<select>
+<![CDATA[ iPhone 6s/7/8 ]]>
+</select>
 </option>
-</product>
-</products>
+<option name="컬러">
+<select>
+<![CDATA[ Camo Black ]]>
+</select>
+<select>
+<![CDATA[ Camo White ]]>
+</select>
+</option>
+</options>
+<category>
+<first>
+<![CDATA[ SMART DEVICE ]]>
+</first>
+<second>
+<![CDATA[ PHONE CASE ]]>
+</second>
+</category>
+</item>
+</response>
