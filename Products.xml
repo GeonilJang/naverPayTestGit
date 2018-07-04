@@ -1,53 +1,62 @@
-<response>
-<item id="2700">
-<name>
-<![CDATA[아이폰 X을 감싸는 특별한 센스. <strong>UAG 리미티드 에디션 카모 케이스</strong>]]>
-</name>
-<url>
-http://store.earlyadopter.co.kr/shop/goods/goods_view.php?inflow=naverCheckout&goodsno=2700
-</url>
-<description>
-<![CDATA[<img src="/shop/lib/meditor/../../data/editor/e36536908c81b6a2.png">]]>
-</description>
-<image>
-<![CDATA[http://store.earlyadopter.co.kr/shop/data/goods/1526026015348l0.jpg]]>
-</image>
-<thumb>
-<![CDATA[http://store.earlyadopter.co.kr/shop/data/goods/1526026015916s0.jpg]]>
-</thumb>
-<price>41800</price>
-<quantity>10000</quantity>
+<products>
+<product>
+<id>1000000535</id>
+<ecMallProductId>1000000535</ecMallProductId>
+<name><![CDATA[짐스틱 오리지날 업그레이드 2.0 모음상품 튜빙밴드 운동스틱]]></name>
+<basePrice>89100</basePrice>
+<taxType>TAX</taxType>
+<infoUrl><![CDATA[http://eurostarz.co.kr/goods/goods_view.php?inflow=naverPay&goodsNo=1000000535]]></infoUrl>
+<imageUrl><![CDATA[http://eurostarz.co.kr/data/goods/18/06/24//1000000535/1000000535_main_017.jpg]]></imageUrl>
+<status>ON_SALE</status>
+<supplementSupport>false</supplementSupport>
+<optionSupport>true</optionSupport>
+<returnShippingFee>2500</returnShippingFee>
+<exchangeShippingFee>5000</exchangeShippingFee>
+<shippingPolicy>
+<method>DELIVERY</method>
+<groupId>4</groupId>
+<feePayType>FREE</feePayType>
+<feePrice>0</feePrice>
+<feeType>FREE</feeType>
+<surchargeByArea>
+<splitUnit>2</splitUnit>
+<area2Price>5000</area2Price>
+</surchargeByArea>
+</shippingPolicy>
+<option>
+<optionItem>
+<type>SELECT</type>
+<name><![CDATA[옵션]]></name>
+<value>
+<id>S_cd27b51eae24dd4684f5237081687a</id>
+<text><![CDATA[그린 1단계 (노인 및 어린이용)]]></text>
+</value>
+<value>
+<id>S_ba96dc09ab1f38e4c62f33a5bce6ee</id>
+<text><![CDATA[블루 2단계 (일반성인남여)]]></text>
+</value>
+<value>
+<id>S_8ae583bbd66ed9f170fede928e2898</id>
+<text><![CDATA[블랙 3단계 (남성 및 운동선수)]]></text>
+</value>
+<value>
+<id>S_965359b283a603c840e5159efbc1bd</id>
+<text><![CDATA[실버 4단계 (남성 및 운동선수)]]></text>
+</value>
+<value>
+<id>S_4a15d5429a17ed89a44a1aa67b72c1</id>
+<text><![CDATA[골드 5단계 (운동선수용)]]></text>
+</value>
+</optionItem>
+<combination>
+<manageCode>option4578</manageCode>
+<stockQuantity>99</stockQuantity>
 <options>
-<option name="기종">
-<select>
-<![CDATA[ /iPhone X ]]>
-</select>
-<select>
-<![CDATA[ iPhone /iPhone X6s/7/8 ]]>
-</select>
-<select>
-<![CDATA[ iPhone 6s+/7+/8+ ]]>
-</select>
-<select>
-<![CDATA[ iPhone 6s/7/8 ]]>
-</select>
-</option>
-<option name="컬러">
-<select>
-<![CDATA[ Camo Black ]]>
-</select>
-<select>
-<![CDATA[ Camo White ]]>
-</select>
-</option>
+<name><![CDATA[옵션]]></name>
+<id>S_8ae583bbd66ed9f170fede928e2898</id>
 </options>
-<category>
-<first>
-<![CDATA[ SMART DEVICE ]]>
-</first>
-<second>
-<![CDATA[ PHONE CASE ]]>
-</second>
-</category>
-</item>
-</response>
+<price>9900</price>
+</combination>
+</option>
+</product>
+</products>
