@@ -1,61 +1,42 @@
 <products>
 <product>
-<id>1000000535</id>
-<ecMallProductId>1000000535</ecMallProductId>
-<name><![CDATA[짐스틱 오리지날 업그레이드 2.0 모음상품 튜빙밴드 운동스틱]]></name>
-<basePrice>89100</basePrice>
+<id>1000000041</id>
+<ecMallProductId>1000000041</ecMallProductId>
+<name><![CDATA[레드파인 집성목 각재 75x75mm 원하는 크기 재단]]></name>
+<basePrice>1700</basePrice>
 <taxType>TAX</taxType>
-<infoUrl><![CDATA[http://eurostarz.co.kr/goods/goods_view.php?inflow=naverPay&goodsNo=1000000535]]></infoUrl>
-<imageUrl><![CDATA[http://eurostarz.co.kr/data/goods/18/06/24//1000000535/1000000535_main_017.jpg]]></imageUrl>
+<infoUrl><![CDATA[http://wootte.com/goods/goods_view.php?inflow=naverPay&goodsNo=1000000041]]></infoUrl>
+<imageUrl><![CDATA[http://www.wootte.com/data/goods/17/12/51/1000000041/1000000041_main_077.jpg]]></imageUrl>
 <status>ON_SALE</status>
 <supplementSupport>false</supplementSupport>
 <optionSupport>true</optionSupport>
-<returnShippingFee>2500</returnShippingFee>
-<exchangeShippingFee>5000</exchangeShippingFee>
 <shippingPolicy>
 <method>DELIVERY</method>
-<groupId>4</groupId>
-<feePayType>FREE</feePayType>
-<feePrice>0</feePrice>
-<feeType>FREE</feeType>
+<groupId>2</groupId>
+<conditionalFree>
+<basePrice>50000</basePrice>
+</conditionalFree>
+<feePayType>PREPAYED</feePayType>
+<feePrice>3000</feePrice>
+<feeType>CONDITIONAL_FREE</feeType>
 <surchargeByArea>
 <splitUnit>2</splitUnit>
-<area2Price>5000</area2Price>
+<area2Price>4000</area2Price>
 </surchargeByArea>
 </shippingPolicy>
 <option>
 <optionItem>
-<type>SELECT</type>
-<name><![CDATA[옵션]]></name>
-<value>
-<id>S_cd27b51eae24dd4684f5237081687a</id>
-<text><![CDATA[그린 1단계 (노인 및 어린이용)]]></text>
-</value>
-<value>
-<id>S_ba96dc09ab1f38e4c62f33a5bce6ee</id>
-<text><![CDATA[블루 2단계 (일반성인남여)]]></text>
-</value>
-<value>
-<id>S_8ae583bbd66ed9f170fede928e2898</id>
-<text><![CDATA[블랙 3단계 (남성 및 운동선수)]]></text>
-</value>
-<value>
-<id>S_965359b283a603c840e5159efbc1bd</id>
-<text><![CDATA[실버 4단계 (남성 및 운동선수)]]></text>
-</value>
-<value>
-<id>S_4a15d5429a17ed89a44a1aa67b72c1</id>
-<text><![CDATA[골드 5단계 (운동선수용)]]></text>
-</value>
+<type>INPUT</type>
+<name><![CDATA[사이즈]]></name>
 </optionItem>
+
 <combination>
-<manageCode>option4578</manageCode>
-<stockQuantity>99</stockQuantity>
+<manageCode>2617</manageCode>
 <options>
-<name><![CDATA[옵션]]></name>
-<id>S_8ae583bbd66ed9f170fede928e2898</id>
+<name><![CDATA[사이즈]]></name>
+<id>T26171</id>
 </options>
-<price>9900</price>
+<price>0</price>
 </combination>
 </option>
 </product>
