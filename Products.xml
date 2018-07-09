@@ -31,10 +31,10 @@
 </optionItem>
 
 <combination>
-<manageCode>2617</manageCode>
+<manageCode>option0</manageCode>
 <options>
 <name><![CDATA[사이즈]]></name>
-<id>T26171</id>
+<id>T1</id>
 </options>
 <price>0</price>
 </combination>
