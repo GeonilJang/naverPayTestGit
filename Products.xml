@@ -1,43 +1,82 @@
 <products>
 <product>
-<id>1000000041</id>
-<ecMallProductId>1000000041</ecMallProductId>
-<name><![CDATA[레드파인 집성목 각재 75x75mm 원하는 크기 재단]]></name>
-<basePrice>1700</basePrice>
+<id>1000000124</id>
+<ecMallProductId>1000000124</ecMallProductId>
+<name><![CDATA[[달프스] 1+1 벚꽃 수제 머랭쿠키]]></name>
+<basePrice>20000</basePrice>
 <taxType>TAX</taxType>
-<infoUrl><![CDATA[http://wootte.com/goods/goods_view.php?inflow=naverPay&goodsNo=1000000041]]></infoUrl>
-<imageUrl><![CDATA[http://www.wootte.com/data/goods/17/12/51/1000000041/1000000041_main_077.jpg]]></imageUrl>
+<infoUrl><![CDATA[http://dessertpick.com/goods/goods_view.php?inflow=naverPay&goodsNo=1000000124]]></infoUrl>
+<imageUrl><![CDATA[http://dessertpick.com/data/goods/17/06/26/1000000124/1000000124_main_025.jpg]]></imageUrl>
 <status>ON_SALE</status>
 <supplementSupport>false</supplementSupport>
 <optionSupport>true</optionSupport>
 <shippingPolicy>
 <method>DELIVERY</method>
-<groupId>2</groupId>
+<groupId>107</groupId>
 <conditionalFree>
-<basePrice>50000</basePrice>
+<basePrice>30000</basePrice>
 </conditionalFree>
 <feePayType>PREPAYED</feePayType>
 <feePrice>3000</feePrice>
 <feeType>CONDITIONAL_FREE</feeType>
-<surchargeByArea>
-<splitUnit>2</splitUnit>
-<area2Price>4000</area2Price>
-</surchargeByArea>
 </shippingPolicy>
 <option>
 <optionItem>
-<type>INPUT</type>
-<name><![CDATA[사이즈]]></name>
+<type>SELECT</type>
+<name><![CDATA[상품 선택]]></name>
+<value>
+<id>S_477181f1387d6e1c45add611fbb4c7</id>
+<text><![CDATA[01. 1+1 구매 (2통)]]></text>
+</value>
+</optionItem>
+<optionItem>
+<type>SELECT</type>
+<name><![CDATA[추가 단품 선택]]></name>
+<value>
+<id>S_1f1349e645e02c843c53fe48a785a9</id>
+<text><![CDATA[추가 단품 선택 안함[ 1+1 20,000원]]]></text>
+</value>
+<value>
+<id>S_5518102af36999ab979b4c1e7b746e</id>
+<text><![CDATA[01. 레드 추가]]></text>
+</value>
+<value>
+<id>S_cf536e10cb9567298a2fba391262c8</id>
+<text><![CDATA[02. 옐로우 추가]]></text>
+</value>
+<value>
+<id>S_258932ae39d83f5685ccaaf17aea60</id>
+<text><![CDATA[03. 그린 추가]]></text>
+</value>
+<value>
+<id>S_dd7e1e5c4e02c705fd5e36589c8424</id>
+<text><![CDATA[04. 블루 추가]]></text>
+</value>
+<value>
+<id>S_3701962056da95f90d52f473bf5180</id>
+<text><![CDATA[05. 퍼플 추가]]></text>
+</value>
+<value>
+<id>S_9f83c1e2d789bbff8bd053613ee31d</id>
+<text><![CDATA[06. 멀티 추가]]></text>
+</value>
 </optionItem>
 
 <combination>
-<manageCode>option0</manageCode>
+<manageCode>option10528</manageCode>
 <options>
-<name><![CDATA[사이즈]]></name>
-<id>T1</id>
+<name><![CDATA[상품 선택]]></name>
+<id>S_477181f1387d6e1c45add611fbb4c7</id>
 </options>
-<price>0</price>
+<options>
+<name><![CDATA[추가 단품 선택]]></name>
+<id>S_5518102af36999ab979b4c1e7b746e</id>
+</options>
+<price>10000</price>
 </combination>
+
+
+
 </option>
 </product>
 </products>
