@@ -2,7 +2,7 @@
 <product>
 <id>1000001885</id>
 <ecMallProductId>1000001885</ecMallProductId>
-<name><![CDATA[화이트조각케익상자1510 10개묶음 앞열림방식미니케익상자]]></name>
+<name><![CDATA[화이트조각케익상자1510 10개묶음 앞열림방식미니케익상자/]]></name>
 <basePrice>3500</basePrice>
 <taxType>TAX</taxType>
 <infoUrl><![CDATA[http://sweetpack.kr/goods/goods_view.php?inflow=naverPay&goodsNo=1000001885]]></infoUrl>
@@ -28,23 +28,22 @@
 </shippingPolicy>
 
 <option>
-<optionItem>
-<type>SELECT</type>
-<name><![CDATA[B급]]></name>
-<value>
-<id>S_c40a3b0c7cd762778047ecdc4cef30</id>
-<text><![CDATA[B급]]></text>
-</value>
-
-</optionItem>
-<combination>
-<manageCode>option243</manageCode>
-<options>
-<name><![CDATA[B급]]></name>
-<id>S_c40a3b0c7cd762778047ecdc4cef30</id>
-</options>
-<price>4000</price>
-</combination>
+  <optionItem>
+  <type>SELECT</type>
+    <name><![CDATA[B급]]></name>
+    <value>
+      <id>S_c40a3b0c7cd762778047ecdc4cef30</id>
+      <text><![CDATA[B급]]></text>
+    </value>
+  </optionItem>
+  <combination>
+  <manageCode>option243</manageCode>
+    <options>
+      <name><![CDATA[B급]]></name>
+      <id>S_c40a3b0c7cd762778047ecdc4cef30</id>
+    </options>
+  <price>4000</price>
+  </combination>
 </option>
 </product>
 </products>
