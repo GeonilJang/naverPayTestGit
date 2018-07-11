@@ -44,6 +44,7 @@
       <text><![CDATA[B급]]></text>
     </value>
   </optionItem>
+
   <combination>
   <manageCode>option244</manageCode>
     <options>
@@ -60,6 +61,7 @@
     </options>
   <price>4000</price>
   </combination>
+
 </option>
 </product>
 </products>
