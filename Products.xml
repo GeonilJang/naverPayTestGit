@@ -30,12 +30,28 @@
 <option>
   <optionItem>
   <type>SELECT</type>
+    <name><![CDATA[A급]]></name>
+    <value>
+      <id>S_c40a3b0c7cd762778047ecdc4cef301</id>
+      <text><![CDATA[A급]]></text>
+    </value>
+  </optionItem>
+  <optionItem>
+  <type>SELECT</type>
     <name><![CDATA[B급]]></name>
     <value>
       <id>S_c40a3b0c7cd762778047ecdc4cef30</id>
       <text><![CDATA[B급]]></text>
     </value>
   </optionItem>
+  <combination>
+  <manageCode>option244</manageCode>
+    <options>
+      <name><![CDATA[A급]]></name>
+      <id>S_c40a3b0c7cd762778047ecdc4cef301</id>
+    </options>
+  <price>0</price>
+  </combination>
   <combination>
   <manageCode>option243</manageCode>
     <options>
