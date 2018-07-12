@@ -1,68 +1,64 @@
 <products>
 <product>
-<id>1000001885</id>
-<ecMallProductId>1000001885</ecMallProductId>
-<name><![CDATA[화이트조각케익상자1510 10개묶음 앞열림방식미니케익상자/]]></name>
-<basePrice>3500</basePrice>
+<id>1000000006</id>
+<ecMallProductId>1000000006</ecMallProductId>
+<name><![CDATA[슈즈라이트 신발클립 야간 안전 발광클립]]></name>
+<basePrice>3000</basePrice>
 <taxType>TAX</taxType>
-<infoUrl><![CDATA[http://sweetpack.kr/goods/goods_view.php?inflow=naverPay&goodsNo=1000001885]]></infoUrl>
-<imageUrl><![CDATA[http://sweetpack.kr/data/goods/18/05/18/1000001885/1000001885_main_097.jpg]]></imageUrl>
-<stockQuantity>961</stockQuantity>
+<infoUrl><![CDATA[http://kridyya.co.kr/goods/goods_view.php?inflow=naverPay&goodsNo=1000000006]]></infoUrl>
+<imageUrl><![CDATA[http://image.auction.co.kr/itemimage/14/d9/13/14d913dd66.jpg]]></imageUrl>
 <status>ON_SALE</status>
-<supplementSupport>true</supplementSupport>
+<supplementSupport>false</supplementSupport>
 <optionSupport>true</optionSupport>
 <shippingPolicy>
 <method>DELIVERY</method>
 <groupId>2</groupId>
 <conditionalFree>
-<basePrice>60000</basePrice>
+<basePrice>50000</basePrice>
 </conditionalFree>
 <feePayType>PREPAYED</feePayType>
 <feePrice>2500</feePrice>
 <feeType>CONDITIONAL_FREE</feeType>
 <surchargeByArea>
-<splitUnit>3</splitUnit>
-<area2Price>3000</area2Price>
-<area3Price>7000</area3Price>
+<splitUnit>2</splitUnit>
+<area2Price>30000</area2Price>
 </surchargeByArea>
 </shippingPolicy>
-
 <option>
-  <optionItem>
-  <type>SELECT</type>
-    <name><![CDATA[A급]]></name>
-    <value>
-      <id>S_c40a3b0c7cd762778047ecdc4cef31</id>
-      <text><![CDATA[A급]]></text>
-    </value>
-  </optionItem>
-  <optionItem>
-  <type>SELECT</type>
-    <name><![CDATA[B급]]></name>
-    <value>
-      <id>S_c40a3b0c7cd762778047ecdc4cef30</id>
-      <text><![CDATA[B급]]></text>
-    </value>
-  </optionItem>
-
-  <combination>
-  <manageCode>option244</manageCode>
-    <options>
-      <name><![CDATA[A급]]></name>
-      <id>S_c40a3b0c7cd762778047ecdc4cef31</id>
-    </options>
-  <price>0</price>
-  </combination>
-  
-  <combination>
-  <manageCode>option243</manageCode>
-    <options>
-      <name><![CDATA[B급]]></name>
-      <id>S_c40a3b0c7cd762778047ecdc4cef30</id>
-    </options>
-  <price>4000</price>
-  </combination>
-
+<optionItem>
+<type>SELECT</type>
+<name><![CDATA[색상]]></name>
+<value>
+<id>S_c40a3b0c7cd762778047ecdc4cef30</id>
+<text><![CDATA[블루]]></text>
+</value>
+<value>
+<id>S_3e6685cf4b6910b59f19ff495d6648</id>
+<text><![CDATA[레드]]></text>
+</value>
+<value>
+<id>S_884fb6a260c068cb95937400098df5</id>
+<text><![CDATA[그린]]></text>
+</value>
+</optionItem>
+<combination>
+<manageCode>option24</manageCode>
+<stockQuantity>999</stockQuantity>
+<options>
+<name><![CDATA[색상]]></name>
+<id>S_3e6685cf4b6910b59f19ff495d6648</id>
+</options>
+<price>0</price>
+</combination>
+<combination>
+<manageCode>option23</manageCode>
+<stockQuantity>999</stockQuantity>
+<options>
+<name><![CDATA[색상]]></name>
+<id>S_c40a3b0c7cd762778047ecdc4cef30</id>
+</options>
+<price>0</price>
+</combination>
 </option>
 </product>
 </products>
