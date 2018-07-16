@@ -1,28 +1,22 @@
 <products>
-<product>
-<id>1000000024</id>
-<ecMallProductId>1000000024</ecMallProductId>
-<name><![CDATA[ST-180<br />리락쿠마 문구세트/소]]></name>
-<basePrice>1200</basePrice>
-<taxType>TAX</taxType>
-<infoUrl><![CDATA[http://teamworkkorea.com/goods/goods_view.php?inflow=naverPay&goodsNo=1000000024]]></infoUrl>
-<imageUrl><![CDATA[http://teamworkkorea.com/data/goods/18/06/26/1000000024/1000000024_main_039.jpg]]></imageUrl>
-<status>ON_SALE</status>
-<supplementSupport>false</supplementSupport>
-<optionSupport>false</optionSupport>
-<shippingPolicy>
-<method>DELIVERY</method>
-<groupId>2</groupId>
-<conditionalFree>
-<basePrice>50000</basePrice>
-</conditionalFree>
-<feePayType>PREPAYED</feePayType>
-<feePrice>2500</feePrice>
-<feeType>CONDITIONAL_FREE</feeType>
-<surchargeByArea>
-<splitUnit>2</splitUnit>
-<area2Price>3000</area2Price>
-</surchargeByArea>
-</shippingPolicy>
-</product>
+  <product>
+  		<id>55</id>
+  		<ecMallProductId>55</ecMallProductId>
+  		<name><![CDATA[스티키리프 동백 편지지]]></name>
+  		<basePrice>10000</basePrice>
+  		<taxType>TAX</taxType>
+  		<infoUrl>http://ai.esmplus.com/2lks8110604/160605/jnr5536.jpg
+  		</infoUrl>
+  		<imageUrl>http://ai.esmplus.com/2lks8110604/160605/jnr5536.jpg
+  		</imageUrl>
+  		<single>
+  			<quantity>1</quantity>
+  		</single>
+  		<shippingPolicy>
+  			<groupId>100</groupId>
+  			<feePayType>FREE</feePayType>
+  			<feeType>FREE</feeType>
+  			<feePrice>0</feePrice>
+  		</shippingPolicy>
+  	</product>
 </products>
