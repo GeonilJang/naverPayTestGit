@@ -1,15 +1,15 @@
 <products>
 <product>
-<id>1000000075</id>
-<ecMallProductId>1000000075</ecMallProductId>
-<name><![CDATA[대천명 홍삼액 순(順)]]></name>
-<basePrice>90000</basePrice>
+<id>1000000024</id>
+<ecMallProductId>1000000024</ecMallProductId>
+<name><![CDATA[ST-180<br />리락쿠마 문구세트/소]]></name>
+<basePrice>1200</basePrice>
 <taxType>TAX</taxType>
-<infoUrl><![CDATA[http://dinsam.com/goods/goods_view.php?inflow=naverPay&goodsNo=1000000075]]></infoUrl>
-<imageUrl><![CDATA[http://dinsam.com/data/goods//16/08/31/1000000075/1000000075_main_090.jpg]]></imageUrl>
+<infoUrl><![CDATA[http://teamworkkorea.com/goods/goods_view.php?inflow=naverPay&goodsNo=1000000024]]></infoUrl>
+<imageUrl><![CDATA[http://teamworkkorea.com/data/goods/18/06/26/1000000024/1000000024_main_039.jpg]]></imageUrl>
 <status>ON_SALE</status>
 <supplementSupport>false</supplementSupport>
-<optionSupport>true</optionSupport>
+<optionSupport>false</optionSupport>
 <shippingPolicy>
 <method>DELIVERY</method>
 <groupId>2</groupId>
@@ -19,40 +19,10 @@
 <feePayType>PREPAYED</feePayType>
 <feePrice>2500</feePrice>
 <feeType>CONDITIONAL_FREE</feeType>
+<surchargeByArea>
+<splitUnit>2</splitUnit>
+<area2Price>3000</area2Price>
+</surchargeByArea>
 </shippingPolicy>
-<option>
-<optionItem>
-<type>SELECT</type>
-<name><![CDATA[규격]]></name>
-<value>
-<id>S_8d951fbd27e690245dfc1331546127</id>
-<text><![CDATA[홍삼액 순(順)]]></text>
-</value>
-</optionItem>
-<optionItem>
-<type>SELECT</type>
-<name><![CDATA[상품선택]]></name>
-<value>
-<id>S_5427a06f69bed3d3c586bdbf84437e</id>
-<text><![CDATA[X 60포]]></text>
-</value>
-<value>
-<id>S_f677ec7faa168fceb11e505b399b33</id>
-<text><![CDATA[X 30포]]></text>
-</value>
-</optionItem>
-<combination>
-<manageCode>option53508</manageCode>
-<options>
-<name><![CDATA[규격]]></name>
-<id>S_8d951fbd27e690245dfc1331546127</id>
-</options>
-<options>
-<name><![CDATA[상품선택]]></name>
-<id>S_f677ec7faa168fceb11e505b399b33</id>
-</options>
-<price>-45000</price>
-</combination>
-</option>
 </product>
 </products>
