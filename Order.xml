@@ -1,93 +1,32 @@
 <order>
-<merchantId>enock</merchantId>
-<certiKey>C08B88D1-FAC3-44B7-BB98-4B9303E1B3B4</certiKey>
-<product>
-<id>1000000104</id>
-<ecMallProductId>1000000104</ecMallProductId>
-<name><![CDATA[(로지텍 Z323) Logitech Speaker System Z323]]></name>
-<basePrice>60000</basePrice>
-<taxType>TAX_FREE</taxType>
-<infoUrl><![CDATA[http://ncglobal4.godomall.com/goods/goods_view.php?inflow=naverPay&goodsNo=1000000104]]></infoUrl>
-<imageUrl><![CDATA[http://ncglobal4.godomall.com/data/goods/18/06/26/1000000104/1000000104_main_044.jpg]]></imageUrl>
-<option>
-<quantity>1</quantity>
-<selectedItem>
-<type>SELECT</type>
-<name><![CDATA[option1]]></name>
-<value>
-<id>S_cb3539ea8226320de87653b834b90b</id>
-<text><![CDATA[Black-Speaker]]></text>
-</value>
-</selectedItem>
-<selectedItem>
-<type>SELECT</type>
-<name><![CDATA[option2]]></name>
-<value>
-<id>S_a7c528f29c019ab034ca9bc7070732</id>
-<text><![CDATA[One Size]]></text>
-</value>
-</selectedItem>
-<manageCode>option293</manageCode>
-<price>0</price>
-</option>
-<shippingPolicy>
-<groupId>2</groupId>
-<method>DELIVERY</method>
-<conditionalFree>
-<basePrice>1000000</basePrice>
-</conditionalFree>
-<feePayType>PREPAYED</feePayType>
-<feePrice>19900</feePrice>
-<feeType>CONDITIONAL_FREE</feeType>
-</shippingPolicy>
-</product>
-<product>
-<id>1000000104</id>
-<ecMallProductId>1000000104</ecMallProductId>
-<name><![CDATA[(로지텍 Z323) Logitech Speaker System Z323]]></name>
-<basePrice>60000</basePrice>
-<taxType>TAX_FREE</taxType>
-<infoUrl><![CDATA[http://ncglobal4.godomall.com/goods/goods_view.php?inflow=naverPay&goodsNo=1000000104]]></infoUrl>
-<imageUrl><![CDATA[http://ncglobal4.godomall.com/data/goods/18/06/26/1000000104/1000000104_main_044.jpg]]></imageUrl>
-<option>
-<quantity>1</quantity>
-<selectedItem>
-<type>SELECT</type>
-<name><![CDATA[option1]]></name>
-<value>
-<id>S_7d102f56a8f5c4a8afbe26a1bbfe0c</id>
-<text><![CDATA[Speaker + Bluetooth Audio Adapter]]></text>
-</value>
-</selectedItem>
-<selectedItem>
-<type>SELECT</type>
-<name><![CDATA[option2]]></name>
-<value>
-<id>S_a7c528f29c019ab034ca9bc7070732</id>
-<text><![CDATA[One Size]]></text>
-</value>
-</selectedItem>
-<manageCode>option294</manageCode>
-<price>26300</price>
-</option>
-<shippingPolicy>
-<groupId>2</groupId>
-<method>DELIVERY</method>
-<conditionalFree>
-<basePrice>1000000</basePrice>
-</conditionalFree>
-<feePayType>PREPAYED</feePayType>
-<feePrice>19900</feePrice>
-<feeType>CONDITIONAL_FREE</feeType>
-</shippingPolicy>
-</product>
-<backUrl><![CDATA[http://ncglobal4.godomall.com/goods/goods_view.php?inflow=naverPay&goodsNo=1000000104]]></backUrl>
-<interface>
-<salesCode></salesCode>
-<cpaInflowCode></cpaInflowCode>
-<mileageInflowCode></mileageInflowCode>
-<naverInflowCode></naverInflowCode>
-<saClickId></saClickId>
-<merchantCustomCode1>1807021256168853</merchantCustomCode1>
-</interface>
+  <merchantId></merchantId>
+  <certiKey></certiKey>
+  <backUrl>http://localhost/NaverPayVersion2/NaverPayButton2.html</backUrl>
+  <interface>
+    <salesCode>naver_salesCode</salesCode>
+    <cpaInflowCode>naver_InflowCode</cpaInflowCode>
+    <mileageInflowCode>naver_mileageInflowCode</mileageInflowCode>
+    <naverInflowCode>naver_InflowCode</naverInflowCode>
+    <saClickId>naver_saClickId</saClickId>
+  </interface>
+  <product>
+    <id>naver001</id>
+    <ecMallProductId>naver001</ecMallProductId>
+    <name>
+      <![CDATA[예쁜원피스]]>
+    </name>
+    <basePrice>1000000</basePrice>
+    <taxType>TAX</taxType>
+    <infoUrl>http://localhost/NaverPayVersion2/NaverPayButton2.html</infoUrl>
+    <imageUrl>http://t1.daumcdn.net/liveboard/shopping/2bcedcc885bc46089eb0137d60aaee85.JPG</imageUrl>
+    <single>
+      <quantity>1</quantity>
+    </single>
+    <shippingPolicy>
+      <groupId>100</groupId>
+      <feePayType>FREE</feePayType>
+      <feeType>FREE</feeType>
+      <feePrice>0</feePrice>
+    </shippingPolicy>
+  </product>
 </order>
