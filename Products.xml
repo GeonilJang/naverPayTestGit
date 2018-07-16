@@ -1,14 +1,12 @@
 <products>
   <product>
-  		<id>55</id>
-  		<ecMallProductId>55</ecMallProductId>
-  		<name><![CDATA[스티키리프 동백 편지지]]></name>
-  		<basePrice>10000</basePrice>
+  		<id>naver001</id>
+  		<ecMallProductId>naver001</ecMallProductId>
+  		<name><![CDATA[예쁜원피스]]></name>
+  		<basePrice>1000000</basePrice>
   		<taxType>TAX</taxType>
-  		<infoUrl>http://ai.esmplus.com/2lks8110604/160605/jnr5536.jpg
-  		</infoUrl>
-  		<imageUrl>http://ai.esmplus.com/2lks8110604/160605/jnr5536.jpg
-  		</imageUrl>
+      <infoUrl>http://localhost/NaverPayVersion2/NaverPayButton2.html</infoUrl>
+      <imageUrl>http://t1.daumcdn.net/liveboard/shopping/2bcedcc885bc46089eb0137d60aaee85.JPG</imageUrl>
   		<single>
   			<quantity>1</quantity>
   		</single>
