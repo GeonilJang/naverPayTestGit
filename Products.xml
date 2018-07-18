@@ -14,11 +14,6 @@
 <option>
 
 <optionItem>
-<type>INPUT</type>
-<name><![CDATA[입력옵션]]></name>
-</optionItem>
-
-<optionItem>
 <type>SELECT</type>
 <name><![CDATA[사이즈선택]]></name>
 <value>
@@ -47,6 +42,11 @@
 </value>
 </optionItem>
 
+<optionItem>
+<type>INPUT</type>
+<name><![CDATA[입력옵션]]></name>
+</optionItem>
+
 <combination>
 <manageCode>optionCode01</manageCode>
 <options>
@@ -72,6 +72,7 @@
 </options>
 <options>
 <name><![CDATA[입력옵션]]></name>
+<id>input_option</id>
 </options>
 <price>0</price>
 </combination>
