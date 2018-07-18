@@ -43,6 +43,9 @@
 <optionItem>
 <type>INPUT</type>
 <name><![CDATA[입력옵션]]></name>
+<value>
+<id>input_option</id>
+</value>
 </optionItem>
 
 <combination>
