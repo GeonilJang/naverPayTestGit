@@ -10,6 +10,7 @@
 <status>ON_SALE</status>
 <supplementSupport>false</supplementSupport>
 <optionSupport>true</optionSupport>
+
 <option>
 <optionItem>
 <type>SELECT</type>
