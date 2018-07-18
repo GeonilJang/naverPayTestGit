@@ -54,16 +54,90 @@
 
 
 
+  $data .= '<shippingPolicy>';
+  <method>DELIVERY</method>
+  <feeType>CHARGE_BY_QUANTITY</feeType>
+  <feePayType>PREPAYED</feePayType>
+  <feePrice>2500</feePrice>
+  <conditionalFree>
+  <basePrice>30000</basePrice>
+  </conditionalFree>
+  <chargeByQuantity>
+  <type>RANGE</type>
+  <range>
+  <type>2</type>
+  <range2From>3</range2From>
+  <range2FeePrice>2500</range2FeePrice>
+  </range>
+  </chargeByQuantity>
 
 
-
-
+  <method>DELIVERY</method>
+  <feeType>CHARGE_BY_QUANTITY</feeType>
+  <feePayType>PREPAYED</feePayType>
+  <feePrice>2500</feePrice>
+  <conditionalFree>
+  <basePrice>30000</basePrice>
+  </conditionalFree>
+  <chargeByQuantity>
+  <type>RANGE</type>
+  <range>
+  <type>2</type>
+  <range2From>3</range2From>
+  <range2FeePrice>2500</range2FeePrice>
+  </range>
+  </chargeByQuantity>
 
 
 
 <order>
 <merchantId></merchantId>
 <certiKey></certiKey>
+
+<product>
+<id>naver001</id>
+<ecMallProductId>naver001</ecMallProductId>
+<name>
+<![CDATA[예쁜블루원피스]]>
+</name>
+<basePrice>1000000</basePrice>
+<taxType>TAX</taxType>
+<infoUrl>http://localhost/NaverPayVersion2/NaverPayButton2.html</infoUrl>
+<imageUrl>http://t1.daumcdn.net/liveboard/shopping/2bcedcc885bc46089eb0137d60aaee85.JPG</imageUrl>
+<supplement>
+<id>additional</id>
+<name><![CDATA[추가 구성품(시계)]]></name>
+<price>20000</price>
+<quantity>1</quantity>
+</supplement>
+<single>
+<quantity>4</quantity>
+</single>
+
+<shippingPolicy>
+<groupId>100</groupId>
+<method>DELIVERY</method>
+<feePayType>PREPAYED</feePayType>
+<feePrice>2500</feePrice>
+<feeType>CHARGE_BY_QUANTITY</feeType>
+<chargeByQuantity>
+<type>RANGE</type>
+<range>
+<type>3</type>
+<range2From>4</range2From>
+<range2FeePrice>3000</range2FeePrice>
+<range3From>8</range3From>
+<range3FeePrice>5000</range3FeePrice>
+</range>
+</chargeByQuantity>
+<surchargeByArea>
+<splitUnit>3</splitUnit>
+<area2Price>3000</area2Price>
+<area3Price>3500</area3Price>
+</surchargeByArea>
+</shippingPolicy>
+</product>
+
 <product>
 <id>naver002</id>
 <ecMallProductId>naver002</ecMallProductId>
@@ -130,7 +204,7 @@
 </value>
 </selectedItem>
 <manageCode>optionCode02</manageCode>
-<price>0</price>
+<price>20000</price>
 </option>
 <shippingPolicy>
 <groupId>2</groupId>
