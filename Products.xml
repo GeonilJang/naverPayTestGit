@@ -10,7 +10,6 @@
 <status>ON_SALE</status>
 <supplementSupport>false</supplementSupport>
 <optionSupport>true</optionSupport>
-
 <option>
 <optionItem>
 <type>SELECT</type>
@@ -44,6 +43,9 @@
 <optionItem>
 <type>INPUT</type>
 <name><![CDATA[입력옵션]]></name>
+<value>
+<id>input_option</id>
+</value>
 </optionItem>
 
 <combination>
@@ -58,6 +60,7 @@
 </options>
 <price>0</price>
 </combination>
+
 <combination>
 <manageCode>optionCode02</manageCode>
 <options>
@@ -74,7 +77,6 @@
 <price>0</price>
 </combination>
 </option>
-
 <shippingPolicy>
 <method>DELIVERY</method>
 <groupId>2</groupId>
