@@ -57,6 +57,7 @@
 </options>
 <price>0</price>
 </combination>
+
 <combination>
 <manageCode>optionCode02</manageCode>
 <options>
@@ -69,6 +70,7 @@
 </options>
 <options>
 <name><![CDATA[입력옵션]]></name>
+<id>input_option</id>
 </options>
 <price>0</price>
 </combination>
