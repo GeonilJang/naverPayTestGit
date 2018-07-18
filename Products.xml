@@ -40,6 +40,9 @@
             <![CDATA[red]]>
           </text>
         </value>
+        <value>
+          <id>input_option</id>
+        </value>
       </optionItem>
       <combination>
         <manageCode>optionCode01</manageCode>
