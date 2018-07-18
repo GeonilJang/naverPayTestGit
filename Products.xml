@@ -40,10 +40,12 @@
 </text>
 </value>
 </optionItem>
+
 <optionItem>
 <type>INPUT</type>
 <name><![CDATA[입력옵션]]></name>
 </optionItem>
+
 <combination>
 <manageCode>optionCode01</manageCode>
 <options>
