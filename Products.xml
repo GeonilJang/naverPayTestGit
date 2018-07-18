@@ -1,87 +1,85 @@
 <products>
-  <product>
-    <id>naver002</id>
-    <ecMallProductId>naver002</ecMallProductId>
-    <name>
-      <![CDATA[예쁜원피스]]>
-    </name>
-    <basePrice>4500000</basePrice>
-    <taxType>TAX</taxType>
-    <infoUrl>http://localhost/NaverPayVersion2/NaverPayButton2.html</infoUrl>
-    <imageUrl>http://t1.daumcdn.net/liveboard/shopping/2bcedcc885bc46089eb0137d60aaee85.JPG</imageUrl>
-    <status>ON_SALE</status>
-    <supplementSupport>false</supplementSupport>
-    <optionSupport>true</optionSupport>
-    <option>
-      <optionItem>
-        <type>SELECT</type>
-        <name><![CDATA[사이즈선택]]></name>
-        <value>
-          <id>size_s</id>
-          <text>
-            <![CDATA[S]]>
-          </text>
-        </value>
-        <value>
-          <id>size_m</id>
-          <text>
-            <![CDATA[M]]>
-          </text>
-        </value>
-        <value>
-          <id>color_black</id>
-          <text>
-            <![CDATA[black]]>
-          </text>
-        </value>
-        <value>
-          <id>color_red</id>
-          <text>
-            <![CDATA[red]]>
-          </text>
-        </value>
-        <value>
-          <id>input_option</id>
-        </value>
-      </optionItem>
-      <combination>
-        <manageCode>optionCode01</manageCode>
-        <options>
-          <name><![CDATA[사이즈선택]]></name>
-          <id>size_m</id>
-        </options>
-        <options>
-          <name><![CDATA[색상선택]]></name>
-          <id>color_black</id>
-        </options>
-        <price>0</price>
-      </combination>
-      <combination>
-        <manageCode>optionCode02</manageCode>
-        <options>
-          <name><![CDATA[사이즈선택]]></name>
-          <id>size_s</id>
-        </options>
-        <options>
-          <name><![CDATA[색상선택]]></name>
-          <id>color_red</id>
-        </options>
-        <options>
-          <name><![CDATA[입력옵션]]></name>
-          <id>input_option</id>
-        </options>
-        <price>0</price>
-      </combination>
-    </option>
-    <shippingPolicy>
-      <method>DELIVERY</method>
-      <groupId>2</groupId>
-      <conditionalFree>
-        <basePrice>10000</basePrice>
-      </conditionalFree>
-      <feePayType>PREPAYED</feePayType>
-      <feePrice>2500</feePrice>
-      <feeType>CONDITIONAL_FREE</feeType>
-    </shippingPolicy>
-  </product>
+<product>
+<id>naver002</id>
+<ecMallProductId>naver002</ecMallProductId>
+<name><![CDATA[예쁜원피스]]></name>
+<basePrice>4500000</basePrice>
+<taxType>TAX</taxType>
+<infoUrl>http://localhost/NaverPayVersion2/NaverPayButton2.html</infoUrl>
+<imageUrl>http://t1.daumcdn.net/liveboard/shopping/2bcedcc885bc46089eb0137d60aaee85.JPG</imageUrl>
+<status>ON_SALE</status>
+<supplementSupport>false</supplementSupport>
+<optionSupport>true</optionSupport>
+<option>
+<optionItem>
+<type>SELECT</type>
+<name><![CDATA[사이즈선택]]></name>
+<value>
+<id>size_s</id>
+<text>
+<![CDATA[S]]>
+</text>
+</value>
+<value>
+<id>size_m</id>
+<text>
+<![CDATA[M]]>
+</text>
+</value>
+<value>
+<id>color_black</id>
+<text>
+<![CDATA[black]]>
+</text>
+</value>
+<value>
+<id>color_red</id>
+<text>
+<![CDATA[red]]>
+</text>
+</value>
+<value>
+<id>input_option</id>
+</value>
+</optionItem>
+<combination>
+<manageCode>optionCode01</manageCode>
+<options>
+<name><![CDATA[사이즈선택]]></name>
+<id>size_m</id>
+</options>
+<options>
+<name><![CDATA[색상선택]]></name>
+<id>color_black</id>
+</options>
+<price>0</price>
+</combination>
+<combination>
+<manageCode>optionCode02</manageCode>
+<options>
+<name><![CDATA[사이즈선택]]></name>
+<id>size_s</id>
+</options>
+<options>
+<name><![CDATA[색상선택]]></name>
+<id>color_red</id>
+</options>
+<options>
+<name><![CDATA[입력옵션]]></name>
+<id>input_option</id>
+</options>
+<price>0</price>
+</combination>
+</option>
+<shippingPolicy>
+<method>DELIVERY</method>
+<groupId>2</groupId>
+<conditionalFree>
+<basePrice>10000</basePrice>
+</conditionalFree>
+<feePayType>PREPAYED</feePayType>
+<feePrice>2500</feePrice>
+<feeType>CONDITIONAL_FREE</feeType>
+</shippingPolicy>
+</product>
 </products>
