@@ -1,25 +1,22 @@
 <products>
-<product>
-<id>1</id>
-<ecMallProductId>1</ecMallProductId>
-<name><![CDATA[Mini Ion Applicator 2]]></name>
-<basePrice>69000</basePrice>
-<taxType>TAX</taxType>
-<infoUrl><![CDATA[http://mylukutr7105.godomall.com/goods/goods_view.php?inflow=naverPay&goodsNo=1]]></infoUrl>
-<imageUrl><![CDATA[http://mylukutr7105.godomall.com/data/goods/16/04/25/1/1489540578759s0.jpg]]></imageUrl>
-<status>ON_SALE</status>
-<supplementSupport>false</supplementSupport>
-<optionSupport>false</optionSupport>
-<shippingPolicy>
-<method>DELIVERY</method>
-<groupId>4</groupId>
-<feePayType>FREE</feePayType>
-<feePrice>0</feePrice>
-<feeType>FREE</feeType>
-<surchargeByArea>
-<splitUnit>2</splitUnit>
-<area2Price>3500</area2Price>
-</surchargeByArea>
-</shippingPolicy>
-</product>
+  <product>
+    <id>naver001</id>
+    <ecMallProductId>naver001</ecMallProductId>
+    <name>
+      <![CDATA[예쁜원피스]]>
+    </name>
+    <basePrice>1000000</basePrice>
+    <taxType>TAX</taxType>
+    <infoUrl>http://localhost/NaverPayVersion2/NaverPayButton2.html</infoUrl>
+    <imageUrl>http://t1.daumcdn.net/liveboard/shopping/2bcedcc885bc46089eb0137d60aaee85.JPG</imageUrl>
+    <single>
+      <quantity>1</quantity>
+    </single>
+    <shippingPolicy>
+      <groupId>100</groupId>
+      <feePayType>FREE</feePayType>
+      <feeType>FREE</feeType>
+      <feePrice>0</feePrice>
+    </shippingPolicy>
+  </product>
 </products>
