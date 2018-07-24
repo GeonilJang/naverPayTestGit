@@ -80,9 +80,6 @@
       <optionItem>
         <type>INPUT</type>
         <name><![CDATA[입력옵션]]></name>
-        <value>
-          <id>input_option</id>
-        </value>
       </optionItem>
       <combination>
         <manageCode>optionCode01</manageCode>
@@ -108,7 +105,6 @@
         </options>
         <options>
           <name><![CDATA[입력옵션]]></name>
-          <id>input_option</id>
         </options>
         <price>20000</price>
       </combination>
