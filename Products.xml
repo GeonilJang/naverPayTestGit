@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <products>
 <product>
-<id>8080</id>
-<ecMallProductId>8080</ecMallProductId>
-<name><![CDATA[알루미늄 블라인드50mm 우드 6505 엔틱브라운]]></name>
-<basePrice>41000</basePrice>
+<id>2215</id>
+<ecMallProductId>2215</ecMallProductId>
+<name><![CDATA[롤스크린 양면암막방염 화이트<br>당일발송]]></name>
+<basePrice>16000</basePrice>
 <taxType>TAX</taxType>
-<infoUrl><![CDATA[http://sblind.co.kr/goods/goods_view.php?inflow=naverPay&goodsNo=3794]]></infoUrl>
-<imageUrl><![CDATA[http://sblind.co.kr/data/goods/14/06/06/3794/1447759893417s0.jpg]]></imageUrl>
+<infoUrl><![CDATA[http://sblind.co.kr/goods/goods_view.php?inflow=naverPay&goodsNo=2215]]></infoUrl>
+<imageUrl><![CDATA[http://sblind.co.kr/data/goods/12/08/02/2215/1457450847832s0.jpg]]></imageUrl>
 <status>ON_SALE</status>
 <supplementSupport>false</supplementSupport>
 <optionSupport>true</optionSupport>
@@ -21,7 +21,6 @@
 <feePrice>5000</feePrice>
 <feeType>CONDITIONAL_FREE</feeType>
 </shippingPolicy>
-
 <option>
 <optionItem>
 <type>SELECT</type>
@@ -39,7 +38,9 @@
 <text><![CDATA[손잡이 좌/우 (2개 주문시)]]></text>
 </value>
 </optionItem>
-
+<optionItem>
+<name><![CDATA[ 블라인드 ]]></name>
+</optionItem>
 <optionItem>
 <type>SELECT</type>
 <name><![CDATA[방문설치 상담신청]]></name>
@@ -52,25 +53,21 @@
 <text><![CDATA[방문설치 상담신청 선택안함]]></text>
 </value>
 </optionItem>
-<optionItem>
-<type>INPUT</type>
-<name><![CDATA[블라인드]]></name>
-</optionItem>
-
 <combination>
-<manageCode>option8886</manageCode>
+<manageCode>option8671</manageCode>
 <options>
 <name><![CDATA[손잡이방향]]></name>
 <id>S_8a3f80381ba5ecf07a9aa31fc81960</id>
 </options>
 <options>
 <name><![CDATA[방문설치 상담신청]]></name>
-<id>S_05f956f9a1470c4aa241fa0b332b3b</id>
+<id>S_872f85e2674f7c6cc8b4eb13e45a8c</id>
 </options>
 <options>
-<name><![CDATA[블라인드]]></name>
+<name><![CDATA[ 블라인드 ]]></name>
+<id>S_872f85e2674f7c6cc8b4eb13e45a8c</id>
 </options>
-<price>41000</price>
+<price>54400</price>
 </combination>
 </option>
 </product>
