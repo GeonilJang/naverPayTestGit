@@ -60,6 +60,14 @@
 </value>
 </optionItem>
 
+<optionItem>
+<type>INPUT</type>
+<name><![CDATA[ 테스트 ]]></name>
+<value>
+<id>T114288</id>
+</value>
+</optionItem>
+
 
 
 <combination>
@@ -75,6 +83,10 @@
 <options>
 <name><![CDATA[ 블라인드 ]]></name>
 <id>T114288</id>
+</options>
+<options>
+<name><![CDATA[ 테스트 ]]></name>
+<id>T114299</id>
 </options>
 <price>41000</price>
 </combination>
