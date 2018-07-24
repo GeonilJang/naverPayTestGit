@@ -77,10 +77,12 @@
 
 <options>
 <name><![CDATA[ 블라인드 ]]></name>
+<id>11</id>
 </options>
 
 <options>
 <name><![CDATA[ 블라인드2 ]]></name>
+<id>12</id>
 </options>
 
 <price>41000</price>
