@@ -55,6 +55,9 @@
 <optionItem>
 <type>INPUT</type>
 <name><![CDATA[ 블라인드 ]]></name>
+<value>
+<id>T114288</id>
+</value>
 </optionItem>
 
 
