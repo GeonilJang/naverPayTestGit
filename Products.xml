@@ -1,20 +1,65 @@
 <?xml version="1.0" encoding="utf-8"?>
 <products>
   <product>
+    <id>naver001</id>
+    <ecMallProductId>naver001</ecMallProductId>
+    <name>
+      <![CDATA[예쁜블루원피스]]>
+    </name>
+    <basePrice>1000000</basePrice>
+    <taxType>TAX</taxType>
+    <infoUrl>http://localhost/NaverPayVersion2/NaverPayButton2.html</infoUrl>
+    <imageUrl>http://t1.daumcdn.net/liveboard/shopping/2bcedcc885bc46089eb0137d60aaee85.JPG</imageUrl>
+    <supplement>
+      <id>additional</id>
+      <name>
+        <![CDATA[추가 구성품(시계)]]>
+      </name>
+      <price>20000</price>
+    </supplement>
+    <shippingPolicy>
+      <groupId>100</groupId>
+      <method>DELIVERY</method>
+      <feePayType>PREPAYED</feePayType>
+      <feePrice>2500</feePrice>
+      <feeType>CHARGE_BY_QUANTITY</feeType>
+      <chargeByQuantity>
+        <type>RANGE</type>
+        <range>
+          <type>3</type>
+          <range2From>4</range2From>
+          <range2FeePrice>3000</range2FeePrice>
+          <range3From>8</range3From>
+          <range3FeePrice>5000</range3FeePrice>
+        </range>
+      </chargeByQuantity>
+      <surchargeByArea>
+        <splitUnit>3</splitUnit>
+        <area2Price>3000</area2Price>
+        <area3Price>3500</area3Price>
+      </surchargeByArea>
+    </shippingPolicy>
+  </product>
+
+  <product>
     <id>naver002</id>
     <ecMallProductId>naver002</ecMallProductId>
-    <name><![CDATA[예쁜원피스]]></name>
+    <name>
+      <![CDATA[예쁜원피스]]>
+    </name>
     <basePrice>4500000</basePrice>
     <taxType>TAX</taxType>
     <infoUrl>http://localhost/NaverPayVersion2/NaverPayButton2.html</infoUrl>
     <imageUrl>http://t1.daumcdn.net/liveboard/shopping/2bcedcc885bc46089eb0137d60aaee85.JPG</imageUrl>
     <status>ON_SALE</status>
-    <supplementSupport>false</supplementSupport>
+    <supplementSupport>true</supplementSupport>
     <optionSupport>true</optionSupport>
     <option>
       <optionItem>
         <type>SELECT</type>
-        <name><![CDATA[사이즈선택]]></name>
+        <name>
+          <![CDATA[사이즈선택]]>
+        </name>
         <value>
           <id>size_s</id>
           <text>
@@ -42,16 +87,25 @@
       </optionItem>
       <optionItem>
         <type>INPUT</type>
-        <name><![CDATA[입력옵션]]></name>
+        <name>
+          <![CDATA[입력옵션]]>
+        </name>
+        <value>
+          <id>input_option</id>
+        </value>
       </optionItem>
       <combination>
         <manageCode>optionCode01</manageCode>
         <options>
-          <name><![CDATA[사이즈선택]]></name>
+          <name>
+            <![CDATA[사이즈선택]]>
+          </name>
           <id>size_m</id>
         </options>
         <options>
-          <name><![CDATA[색상선택]]></name>
+          <name>
+            <![CDATA[색상선택]]>
+          </name>
           <id>color_black</id>
         </options>
         <price>0</price>
@@ -59,18 +113,24 @@
       <combination>
         <manageCode>optionCode02</manageCode>
         <options>
-          <name><![CDATA[사이즈선택]]></name>
+          <name>
+            <![CDATA[사이즈선택]]>
+          </name>
           <id>size_s</id>
         </options>
         <options>
-          <name><![CDATA[색상선택]]></name>
+          <name>
+            <![CDATA[색상선택]]>
+          </name>
           <id>color_red</id>
         </options>
         <options>
-          <name><![CDATA[입력옵션]]></name>
+          <name>
+            <![CDATA[입력옵션]]>
+          </name>
           <id>input_option</id>
         </options>
-        <price>0</price>
+        <price>20000</price>
       </combination>
     </option>
     <shippingPolicy>
@@ -82,6 +142,11 @@
       <feePayType>PREPAYED</feePayType>
       <feePrice>2500</feePrice>
       <feeType>CONDITIONAL_FREE</feeType>
+      <surchargeByArea>
+        <splitUnit>3</splitUnit>
+        <area2Price>3000</area2Price>
+        <area3Price>3500</area3Price>
+      </surchargeByArea>
     </shippingPolicy>
   </product>
 </products>
