@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <products>
 <product>
-<id>132</id>
-<ecMallProductId></ecMallProductId>
+<id>8080</id>
+<ecMallProductId>8080</ecMallProductId>
 <name><![CDATA[알루미늄 블라인드50mm 우드 6505 엔틱브라운]]></name>
 <basePrice>41000</basePrice>
 <taxType>TAX</taxType>
@@ -58,13 +58,6 @@
 <name><![CDATA[ 블라인드 ]]></name>
 </optionItem>
 
-<optionItem>
-<type>INPUT</type>
-<name><![CDATA[ 테스트 ]]></name>
-</optionItem>
-
-
-
 <combination>
 <manageCode>option8885</manageCode>
 <options>
@@ -77,9 +70,6 @@
 </options>
 <options>
 <name><![CDATA[ 블라인드 ]]></name>
-</options>
-<options>
-<name><![CDATA[ 테스트 ]]></name>
 </options>
 
 <price>41000</price>
