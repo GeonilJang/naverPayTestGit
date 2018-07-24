@@ -1,12 +1,12 @@
 <products>
 <product>
-<id>3794</id>
-<ecMallProductId>3794</ecMallProductId>
-<name><![CDATA[알루미늄 블라인드50mm 우드 6505 엔틱브라운]]></name>
-<basePrice>41000</basePrice>
+<id>4297</id>
+<ecMallProductId>4297</ecMallProductId>
+<name><![CDATA[콤비롤스크린 암막 조커 원톤 아이보리<br>당일발송]]></name>
+<basePrice>30000</basePrice>
 <taxType>TAX</taxType>
-<infoUrl><![CDATA[http://sblind.co.kr/goods/goods_view.php?inflow=naverPay&goodsNo=3794]]></infoUrl>
-<imageUrl><![CDATA[http://sblind.co.kr/data/goods/14/06/06/3794/1447759893417s0.jpg]]></imageUrl>
+<infoUrl><![CDATA[http://sblind.co.kr/goods/goods_view.php?inflow=naverPay&goodsNo=4297]]></infoUrl>
+<imageUrl><![CDATA[http://sblind.co.kr/data/goods/15/10/28/4297/1457460112683s0.jpg]]></imageUrl>
 <status>ON_SALE</status>
 <supplementSupport>false</supplementSupport>
 <optionSupport>true</optionSupport>
@@ -21,24 +21,24 @@
 <feeType>CONDITIONAL_FREE</feeType>
 </shippingPolicy>
 
+
 <option>
 <optionItem>
 <type>SELECT</type>
 <name><![CDATA[손잡이방향]]></name>
 <value>
-<id>S_8a3f80381ba5ecf07a9aa31fc81960</id>
-<text><![CDATA[손잡이 좌]]></text>
+<id>S_04710ce2c2b72128d836d6bf075d00</id>
+<text><![CDATA[투명손잡이 좌]]></text>
 </value>
 <value>
-<id>S_d518ef712e29af6276a884637fdfa3</id>
-<text><![CDATA[손잡이 우]]></text>
+<id>S_7378a3b3170ced9a28236ef32b1bcf</id>
+<text><![CDATA[투명손잡이 우]]></text>
 </value>
 <value>
-<id>S_15cdaf640f8dfda3009540cc3cffc4</id>
-<text><![CDATA[손잡이 좌/우 (2개 주문시)]]></text>
+<id>S_8d00147e5c67e756fde73466738d68</id>
+<text><![CDATA[투명손잡이 좌/우 (2개 주문시)]]></text>
 </value>
 </optionItem>
-
 <optionItem>
 <type>SELECT</type>
 <name><![CDATA[방문설치 상담신청]]></name>
@@ -51,24 +51,15 @@
 <text><![CDATA[방문설치 상담신청 선택안함]]></text>
 </value>
 </optionItem>
-
 <optionItem>
 <type>INPUT</type>
 <name><![CDATA[ 블라인드 ]]></name>
 </optionItem>
-
-<optionItem>
-<type>INPUT</type>
-<name><![CDATA[ 테스트 ]]></name>
-</optionItem>
-
-
-
 <combination>
-<manageCode>option8885</manageCode>
+<manageCode>option4010</manageCode>
 <options>
 <name><![CDATA[손잡이방향]]></name>
-<id>S_8a3f80381ba5ecf07a9aa31fc81960</id>
+<id>S_04710ce2c2b72128d836d6bf075d00</id>
 </options>
 <options>
 <name><![CDATA[방문설치 상담신청]]></name>
@@ -77,11 +68,11 @@
 <options>
 <name><![CDATA[ 블라인드 ]]></name>
 </options>
-<options>
-<name><![CDATA[ 테스트 ]]></name>
-</options>
-<price>41000</price>
+<price>30000</price>
 </combination>
 </option>
+
+
+
 </product>
 </products>
