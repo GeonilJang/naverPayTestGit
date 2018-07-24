@@ -52,14 +52,13 @@
 <text><![CDATA[방문설치 상담신청 선택안함]]></text>
 </value>
 </optionItem>
-
 <optionItem>
 <type>INPUT</type>
-<name><![CDATA[ 블라인드 ]]></name>
+<name><![CDATA[블라인드]]></name>
 </optionItem>
 
 <combination>
-<manageCode>option8885</manageCode>
+<manageCode>option8886</manageCode>
 <options>
 <name><![CDATA[손잡이방향]]></name>
 <id>S_8a3f80381ba5ecf07a9aa31fc81960</id>
@@ -69,9 +68,8 @@
 <id>S_05f956f9a1470c4aa241fa0b332b3b</id>
 </options>
 <options>
-<name><![CDATA[ 블라인드 ]]></name>
+<name><![CDATA[블라인드]]></name>
 </options>
-
 <price>41000</price>
 </combination>
 </option>
