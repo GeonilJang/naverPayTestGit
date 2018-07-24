@@ -57,7 +57,10 @@
 <type>INPUT</type>
 <name><![CDATA[ 블라인드 ]]></name>
 </optionItem>
-
+<optionItem>
+<type>INPUT</type>
+<name><![CDATA[ 테스트 ]]></name>
+</optionItem>
 
 
 
@@ -73,6 +76,9 @@
 </options>
 <options>
 <name><![CDATA[ 블라인드 ]]></name>
+</options>
+<options>
+<name><![CDATA[ 테스트 ]]></name>
 </options>
 <price>41000</price>
 </combination>
