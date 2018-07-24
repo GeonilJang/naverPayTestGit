@@ -1,22 +1,70 @@
 <products>
-  <product>
-    <id>naver001</id>
-    <ecMallProductId>naver001</ecMallProductId>
-    <name>
-      <![CDATA[예쁜원피스]]>
-    </name>
-    <basePrice>1000000</basePrice>
-    <taxType>TAX</taxType>
-    <infoUrl>http://localhost/NaverPayVersion2/NaverPayButton2.html</infoUrl>
-    <imageUrl>http://t1.daumcdn.net/liveboard/shopping/2bcedcc885bc46089eb0137d60aaee85.JPG</imageUrl>
-    <single>
-      <quantity>1</quantity>
-    </single>
-    <shippingPolicy>
-      <groupId>100</groupId>
-      <feePayType>FREE</feePayType>
-      <feeType>FREE</feeType>
-      <feePrice>0</feePrice>
-    </shippingPolicy>
-  </product>
+<product>
+<id>3794</id>
+<ecMallProductId>3794</ecMallProductId>
+<name><![CDATA[알루미늄 블라인드50mm 우드 6505 엔틱브라운]]></name>
+<basePrice>41000</basePrice>
+<taxType>TAX</taxType>
+<infoUrl><![CDATA[http://sblind.co.kr/goods/goods_view.php?inflow=naverPay&goodsNo=3794]]></infoUrl>
+<imageUrl><![CDATA[http://sblind.co.kr/data/goods/14/06/06/3794/1447759893417s0.jpg]]></imageUrl>
+<status>ON_SALE</status>
+<supplementSupport>false</supplementSupport>
+<optionSupport>true</optionSupport>
+<shippingPolicy>
+<method>DELIVERY</method>
+<groupId>2</groupId>
+<conditionalFree>
+<basePrice>100000</basePrice>
+</conditionalFree>
+<feePayType>PREPAYED</feePayType>
+<feePrice>5000</feePrice>
+<feeType>CONDITIONAL_FREE</feeType>
+</shippingPolicy>
+
+<option>
+<optionItem>
+<type>SELECT</type>
+<name><![CDATA[손잡이방향]]></name>
+<value>
+<id>S_8a3f80381ba5ecf07a9aa31fc81960</id>
+<text><![CDATA[손잡이 좌]]></text>
+</value>
+<value>
+<id>S_d518ef712e29af6276a884637fdfa3</id>
+<text><![CDATA[손잡이 우]]></text>
+</value>
+<value>
+<id>S_15cdaf640f8dfda3009540cc3cffc4</id>
+<text><![CDATA[손잡이 좌/우 (2개 주문시)]]></text>
+</value>
+</optionItem>
+<optionItem>
+<type>SELECT</type>
+<name><![CDATA[방문설치 상담신청]]></name>
+<value>
+<id>S_05f956f9a1470c4aa241fa0b332b3b</id>
+<text><![CDATA[방문설치 상담신청]]></text>
+</value>
+<value>
+<id>S_872f85e2674f7c6cc8b4eb13e45a8c</id>
+<text><![CDATA[방문설치 상담신청 선택안함]]></text>
+</value>
+</optionItem>
+
+
+
+<combination>
+<manageCode>option8885</manageCode>
+<options>
+<name><![CDATA[손잡이방향]]></name>
+<id>S_8a3f80381ba5ecf07a9aa31fc81960</id>
+</options>
+<options>
+<name><![CDATA[방문설치 상담신청]]></name>
+<id>S_05f956f9a1470c4aa241fa0b332b3b</id>
+</options>
+<price>41000</price>
+</combination>
+</option>
+</product>
 </products>
