@@ -39,6 +39,7 @@
 </value>
 </optionItem>
 <optionItem>
+<type>INPUT</type>
 <name><![CDATA[ 블라인드 ]]></name>
 </optionItem>
 <optionItem>
