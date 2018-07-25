@@ -1,128 +1,67 @@
 <?xml version="1.0" encoding="utf-8"?>
 <products>
-  <product>
-    <id>naver001</id>
-    <ecMallProductId>naver001</ecMallProductId>
-    <name><![CDATA[예쁜블루원피스]]></name>
-    <basePrice>1000000</basePrice>
-    <taxType>TAX</taxType>
-    <infoUrl>http://localhost/NaverPayVersion2/NaverPayButton2.html</infoUrl>
-    <imageUrl>http://t1.daumcdn.net/liveboard/shopping/2bcedcc885bc46089eb0137d60aaee85.JPG</imageUrl>
-    <supplement>
-      <id>additional</id>
-      <name><![CDATA[추가 구성품(시계)]]></name>
-      <price>20000</price>
-    </supplement>
-    <shippingPolicy>
-      <groupId>100</groupId>
-      <method>DELIVERY</method>
-      <feePayType>PREPAYED</feePayType>
-      <feePrice>2500</feePrice>
-      <feeType>CHARGE_BY_QUANTITY</feeType>
-      <chargeByQuantity>
-        <type>RANGE</type>
-        <range>
-          <type>3</type>
-          <range2From>4</range2From>
-          <range2FeePrice>3000</range2FeePrice>
-          <range3From>8</range3From>
-          <range3FeePrice>5000</range3FeePrice>
-        </range>
-      </chargeByQuantity>
-      <surchargeByArea>
-        <splitUnit>3</splitUnit>
-        <area2Price>3000</area2Price>
-        <area3Price>3500</area3Price>
-      </surchargeByArea>
-    </shippingPolicy>
-  </product>
-
-  <product>
-    <id>naver002</id>
-    <ecMallProductId>naver002</ecMallProductId>
-    <name><![CDATA[예쁜원피스]]></name>
-    <basePrice>4500000</basePrice>
-    <taxType>TAX</taxType>
-    <infoUrl>http://localhost/NaverPayVersion2/NaverPayButton2.html</infoUrl>
-    <imageUrl>http://t1.daumcdn.net/liveboard/shopping/2bcedcc885bc46089eb0137d60aaee85.JPG</imageUrl>
-    <status>ON_SALE</status>
-    <supplementSupport>true</supplementSupport>
-    <optionSupport>true</optionSupport>
-    <option>
-      <optionItem>
-        <type>SELECT</type>
-        <name><![CDATA[사이즈선택]]></name>
-        <value>
-          <id>size_s</id>
-          <text>
-            <![CDATA[S]]>
-          </text>
-        </value>
-        <value>
-          <id>size_m</id>
-          <text>
-            <![CDATA[M]]>
-          </text>
-        </value>
-        <value>
-          <id>color_black</id>
-          <text>
-            <![CDATA[black]]>
-          </text>
-        </value>
-        <value>
-          <id>color_red</id>
-          <text>
-            <![CDATA[red]]>
-          </text>
-        </value>
-      </optionItem>
-      <optionItem>
-        <type>INPUT</type>
-        <name><![CDATA[입력옵션]]></name>
-      </optionItem>
-      <combination>
-        <manageCode>optionCode01</manageCode>
-        <options>
-          <name><![CDATA[사이즈선택]]></name>
-          <id>size_m</id>
-        </options>
-        <options>
-          <name><![CDATA[색상선택]]></name>
-          <id>color_black</id>
-        </options>
-        <price>0</price>
-      </combination>
-      <combination>
-        <manageCode>optionCode02</manageCode>
-        <options>
-          <name><![CDATA[사이즈선택]]></name>
-          <id>size_s</id>
-        </options>
-        <options>
-          <name><![CDATA[색상선택]]></name>
-          <id>color_red</id>
-        </options>
-        <options>
-          <name><![CDATA[입력옵션]]></name>
-        </options>
-        <price>20000</price>
-      </combination>
-    </option>
-    <shippingPolicy>
-      <method>DELIVERY</method>
-      <groupId>2</groupId>
-      <conditionalFree>
-        <basePrice>10000</basePrice>
-      </conditionalFree>
-      <feePayType>PREPAYED</feePayType>
-      <feePrice>2500</feePrice>
-      <feeType>CONDITIONAL_FREE</feeType>
-      <surchargeByArea>
-        <splitUnit>3</splitUnit>
-        <area2Price>3000</area2Price>
-        <area3Price>3500</area3Price>
-      </surchargeByArea>
-    </shippingPolicy>
-  </product>
+<product>
+<id>4298</id>
+<ecMallProductId>4298</ecMallProductId>
+<name><![CDATA[콤비롤스크린 암막 조커 원톤 화이트<br>당일발송]]></name>
+<basePrice>30000</basePrice>
+<taxType>TAX</taxType>
+<infoUrl><![CDATA[http://sblind.co.kr/goods/goods_view.php?inflow=naverPay&goodsNo=4298]]></infoUrl>
+<imageUrl><![CDATA[http://sblind.co.kr/data/goods/15/10/28/4298/1457460146514s0.jpg]]></imageUrl>
+<status>ON_SALE</status>
+<supplementSupport>false</supplementSupport>
+<optionSupport>true</optionSupport>
+<shippingPolicy>
+<method>DELIVERY</method>
+<groupId>2</groupId>
+<conditionalFree>
+<basePrice>100000</basePrice>
+</conditionalFree>
+<feePayType>PREPAYED</feePayType>
+<feePrice>5000</feePrice>
+<feeType>CONDITIONAL_FREE</feeType>
+</shippingPolicy>
+<option>
+<optionItem>
+<type>SELECT</type>
+<name><![CDATA[손잡이방향]]></name>
+<value>
+<id>S_04710ce2c2b72128d836d6bf075d00</id>
+<text><![CDATA[투명손잡이 좌]]></text>
+</value>
+<value>
+<id>S_7378a3b3170ced9a28236ef32b1bcf</id>
+<text><![CDATA[투명손잡이 우]]></text>
+</value>
+<value>
+<id>S_8d00147e5c67e756fde73466738d68</id>
+<text><![CDATA[투명손잡이 좌/우 (2개 주문시)]]></text>
+</value>
+</optionItem>
+<optionItem>
+<type>SELECT</type>
+<name><![CDATA[방문설치 상담신청]]></name>
+<value>
+<id>S_05f956f9a1470c4aa241fa0b332b3b</id>
+<text><![CDATA[방문설치 상담신청]]></text>
+</value>
+<value>
+<id>S_872f85e2674f7c6cc8b4eb13e45a8c</id>
+<text><![CDATA[방문설치 상담신청 선택안함]]></text>
+</value>
+</optionItem>
+<combination>
+<manageCode>option4004</manageCode>
+<options>
+<name><![CDATA[손잡이방향]]></name>
+<id>S_04710ce2c2b72128d836d6bf075d00</id>
+</options>
+<options>
+<name><![CDATA[방문설치 상담신청]]></name>
+<id>S_05f956f9a1470c4aa241fa0b332b3b</id>
+</options>
+<price>30000</price>
+</combination>
+</option>
+</product>
 </products>
