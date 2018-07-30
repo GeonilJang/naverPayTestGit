@@ -91,6 +91,9 @@
 <optionItem>
 <type>INPUT</type>
 <name><![CDATA[문구]]></name>
+<value>
+<id>T541913</id>
+</value>
 </optionItem>
 <combination>
 <manageCode>option3013</manageCode>
