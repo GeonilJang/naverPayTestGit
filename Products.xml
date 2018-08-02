@@ -61,6 +61,7 @@
 <text><![CDATA[18k 26호~30호(+60000원)(사이즈 입력란에 정확한 사이즈기재)]]></text>
 </value>
 </optionItem>
+
 <optionItem>
 <type>SELECT</type>
 <name><![CDATA[사이즈(여)]]></name>
