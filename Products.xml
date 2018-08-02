@@ -1,24 +1,143 @@
 <products>
 <product>
-<id>1000000011</id>
-<ecMallProductId>1000000011</ecMallProductId>
-<name><![CDATA[팬텀 4 시리즈 퀵 릴리즈 프로펠러]]></name>
-<basePrice>13000</basePrice>
+<id>1000000370</id>
+<ecMallProductId>1000000370</ecMallProductId>
+<name><![CDATA[(tr-6)14k,18k 에일린 커플링]]></name>
+<basePrice>729200</basePrice>
 <taxType>TAX</taxType>
-<infoUrl><![CDATA[http://dromeca.co.kr/goods/goods_view.php?inflow=naverPay&goodsNo=1000000011]]></infoUrl>
-<imageUrl><![CDATA[http://dromeca.co.kr/data/goods/18/04/17/1000000011/1000000011_main_099.jpg]]></imageUrl>
+<infoUrl><![CDATA[http://rubyjewelry.co.kr/goods/goods_view.php?inflow=naverPay&goodsNo=1000000370]]></infoUrl>
+<imageUrl><![CDATA[http://rubyjewelry.co.kr/data/goods/17/12/50/1000000370/1000000370_main_061.jpg]]></imageUrl>
 <status>ON_SALE</status>
 <supplementSupport>false</supplementSupport>
-<optionSupport>false</optionSupport>
+<optionSupport>true</optionSupport>
 <shippingPolicy>
 <method>DELIVERY</method>
-<groupId>1</groupId>
+<groupId>2</groupId>
 <conditionalFree>
-<basePrice>50000</basePrice>
+<basePrice>200000</basePrice>
 </conditionalFree>
 <feePayType>PREPAYED</feePayType>
 <feePrice>3000</feePrice>
 <feeType>CONDITIONAL_FREE</feeType>
+<surchargeByArea>
+<splitUnit>2</splitUnit>
+<area2Price>2000</area2Price>
+</surchargeByArea>
 </shippingPolicy>
+<option>
+<optionItem>
+<type>SELECT</type>
+<name><![CDATA[소재]]></name>
+<value>
+<id>S_ad3c60153227b59c579093cfef5ffb</id>
+<text><![CDATA[14k 남+여]]></text>
+</value>
+<value>
+<id>S_91561c106548b86a20a5f085f430f1</id>
+<text><![CDATA[18k 남+여(+382200원)]]></text>
+</value>
+</optionItem>
+<optionItem>
+<type>SELECT</type>
+<name><![CDATA[사이즈(남)]]></name>
+<value>
+<id>S_ab4586c7585eaa356bef020bdfeef5</id>
+<text><![CDATA[14k,18k 7호~21호(사이즈 입력란에 정확한 사이즈기재)]]></text>
+</value>
+<value>
+<id>S_a35351662966824608053d82c9f429</id>
+<text><![CDATA[14k 21.5호~25.5호(+21000원)(사이즈 입력란에 정확한 사이]]></text>
+</value>
+<value>
+<id>S_b43225ca6bd919a3284210d5cb9580</id>
+<text><![CDATA[14k 26호~30호(+42000원)(사이즈 입력란에 정확한 사이즈기재)]]></text>
+</value>
+<value>
+<id>S_4d20ebdcf59e55a922a27446efa645</id>
+<text><![CDATA[18k 21.5호~25.5호(+30000원)(사이즈 입력란에 정확한 사이]]></text>
+</value>
+<value>
+<id>S_eeff474b94b2336bd9611ce1d7b247</id>
+<text><![CDATA[18k 26호~30호(+60000원)(사이즈 입력란에 정확한 사이즈기재)]]></text>
+</value>
+</optionItem>
+<optionItem>
+<type>SELECT</type>
+<name><![CDATA[사이즈(여)]]></name>
+<value>
+<id>S_5013c060c8c3003303849052c032c6</id>
+<text><![CDATA[14k,18k 3호~16호(사이즈 입력란에 정확한 사이즈기재)]]></text>
+</value>
+<value>
+<id>S_81932743bdc35085eebf4df684b62c</id>
+<text><![CDATA[14k 16.5호~20.5호(+18000원)(사이즈 입력란에 정확한 사이]]></text>
+</value>
+<value>
+<id>S_f0650666215a0397fa180069973807</id>
+<text><![CDATA[14k 21호~25호(+36000원)(사이즈 입력란에 정확한 사이즈기재)]]></text>
+</value>
+<value>
+<id>S_b4ea9bc257ad7cf88f09af77ae1e96</id>
+<text><![CDATA[18k 16.5호~20.5호(+27000원)(사이즈 입력란에 정확한 사이]]></text>
+</value>
+<value>
+<id>S_4f63f7587ba0e13d74117288061861</id>
+<text><![CDATA[18k 21호~25호(+54000원)(사이즈 입력란에 정확한 사이즈기재)]]></text>
+</value>
+</optionItem>
+<optionItem>
+<type>SELECT</type>
+<name><![CDATA[케이스]]></name>
+<value>
+<id>S_1d120818e5cb83d3d58e1329288536</id>
+<text><![CDATA[무료케이스]]></text>
+</value>
+<value>
+<id>S_847236feed40d7a780982b85733a8d</id>
+<text><![CDATA[유료케이스(+5000원)]]></text>
+</value>
+</optionItem>
+
+
+<optionItem>
+<type>INPUT</type>
+<name><![CDATA[사이즈(남&amp;여)/색상]]></name>
+</optionItem>
+
+<optionItem>
+<type>INPUT</type>
+<name><![CDATA[이니셜각인/위or안바닥]]></name>
+</optionItem>
+
+<combination>
+<manageCode>option18256</manageCode>
+<options>
+<name><![CDATA[소재]]></name>
+<id>S_ad3c60153227b59c579093cfef5ffb</id>
+</options>
+<options>
+<name><![CDATA[사이즈(남)]]></name>
+<id>S_ab4586c7585eaa356bef020bdfeef5</id>
+</options>
+<options>
+<name><![CDATA[사이즈(여)]]></name>
+<id>S_5013c060c8c3003303849052c032c6</id>
+</options>
+<options>
+<name><![CDATA[케이스]]></name>
+<id>S_1d120818e5cb83d3d58e1329288536</id>
+</options>
+<options>
+<name><![CDATA[사이즈(남&amp;여)/색상]]></name>
+<id>T222</id>
+</options>
+<options>
+<name><![CDATA[이니셜각인/위or안바닥]]></name>
+<id>T223</id>
+</options>
+<price>0</price>
+</combination>
+</option>
+
 </product>
 </products>
