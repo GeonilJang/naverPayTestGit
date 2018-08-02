@@ -61,7 +61,6 @@
 <text><![CDATA[18k 26호~30호(+60000원)(사이즈 입력란에 정확한 사이즈기재)]]></text>
 </value>
 </optionItem>
-
 <optionItem>
 <type>SELECT</type>
 <name><![CDATA[사이즈(여)]]></name>
@@ -98,24 +97,14 @@
 <text><![CDATA[유료케이스(+5000원)]]></text>
 </value>
 </optionItem>
-
-
 <optionItem>
 <type>INPUT</type>
 <name><![CDATA[사이즈(남&amp;여)/색상]]></name>
-<value>
-<id>T222</id>
-</value>
 </optionItem>
-
 <optionItem>
 <type>INPUT</type>
 <name><![CDATA[이니셜각인/위or안바닥]]></name>
-<value>
-<id>T223</id>
-</value>
 </optionItem>
-
 <combination>
 <manageCode>option18256</manageCode>
 <options>
@@ -145,6 +134,5 @@
 <price>0</price>
 </combination>
 </option>
-
 </product>
 </products>
