@@ -102,11 +102,17 @@
 <optionItem>
 <type>INPUT</type>
 <name><![CDATA[사이즈(남&amp;여)/색상]]></name>
+<value>
+<id>T222</id>
+</value>
 </optionItem>
 
 <optionItem>
 <type>INPUT</type>
 <name><![CDATA[이니셜각인/위or안바닥]]></name>
+<value>
+<id>T223</id>
+</value>
 </optionItem>
 
 <combination>
