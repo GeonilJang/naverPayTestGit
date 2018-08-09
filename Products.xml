@@ -49,6 +49,10 @@
 <text><![CDATA[방문설치 상담신청 선택안함]]></text>
 </value>
 </optionItem>
+<optionItem>
+<type>INPUT</type>
+<name><![CDATA[ 블라인드 ]]></name>
+</optionItem>
 <combination>
 <manageCode>option8885</manageCode>
 <options>
@@ -62,6 +66,9 @@
 <optionItem>
 <type>INPUT</type>
 <name><![CDATA[ 블라인드 ]]></name>
+<value>
+<text><![CDATA[가로:100cm 세로:100cm]]></text>
+</value>
 </optionItem>
 <price>41000</price>
 </combination>
