@@ -54,10 +54,10 @@
 <name><![CDATA[ 블라인드 ]]></name>
 </optionItem>
 <combination>
-<manageCode>option8885</manageCode>
+<manageCode>option8887</manageCode>
 <options>
 <name><![CDATA[손잡이방향]]></name>
-<id>S_8a3f80381ba5ecf07a9aa31fc81960</id>
+<id>S_d518ef712e29af6276a884637fdfa3</id>
 </options>
 <options>
 <name><![CDATA[방문설치 상담신청]]></name>
@@ -67,7 +67,7 @@
 <type>INPUT</type>
 <name><![CDATA[ 블라인드 ]]></name>
 </optionItem>
-<price>41000</price>
+<price>51250</price>
 </combination>
 </option>
 </product>
