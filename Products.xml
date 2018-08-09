@@ -62,9 +62,6 @@
 <optionItem>
 <type>INPUT</type>
 <name><![CDATA[ 블라인드 ]]></name>
-<value>
-<text><![CDATA[가로:100cm 세로:100cm]]></text>
-</value>
 </optionItem>
 <price>41000</price>
 </combination>
