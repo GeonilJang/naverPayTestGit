@@ -1,230 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
 <order>
-  <merchantId></merchantId>
-  <certiKey></certiKey>
-  <backUrl>http://localhost/NaverPayVersion2/NaverPayButton2.html</backUrl>
-  <interface>
-    <salesCode>naver_salesCode</salesCode>
-    <cpaInflowCode>naver_InflowCode</cpaInflowCode>
-    <mileageInflowCode>naver_mileageInflowCode</mileageInflowCode>
-    <naverInflowCode>naver_InflowCode</naverInflowCode>
-    <saClickId>naver_saClickId</saClickId>
-  </interface>
-  <product>
-    <id>naver001</id>
-    <ecMallProductId>naver001</ecMallProductId>
-    <name>
-      <![CDATA[예쁜원피스]]>
-    </name>
-    <basePrice>1000000</basePrice>
-    <taxType>TAX</taxType>
-    <infoUrl>http://localhost/NaverPayVersion2/NaverPayButton2.html</infoUrl>
-    <imageUrl>http://t1.daumcdn.net/liveboard/shopping/2bcedcc885bc46089eb0137d60aaee85.JPG</imageUrl>
-    <option>
-      <shippingPolicy>
-        <groupId>100</groupId>
-        <feePayType>FREE</feePayType>
-        <feeType>FREE</feeType>
-        <feePrice>0</feePrice>
-      </shippingPolicy>
-    </product>
-  </order>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  $data .= '<shippingPolicy>';
-  <method>DELIVERY</method>
-  <feeType>CHARGE_BY_QUANTITY</feeType>
-  <feePayType>PREPAYED</feePayType>
-  <feePrice>2500</feePrice>
-  <conditionalFree>
-  <basePrice>30000</basePrice>
-  </conditionalFree>
-  <chargeByQuantity>
-  <type>RANGE</type>
-  <range>
-  <type>2</type>
-  <range2From>3</range2From>
-  <range2FeePrice>2500</range2FeePrice>
-  </range>
-  </chargeByQuantity>
-
-
-  <method>DELIVERY</method>
-  <feeType>CHARGE_BY_QUANTITY</feeType>
-  <feePayType>PREPAYED</feePayType>
-  <feePrice>2500</feePrice>
-  <conditionalFree>
-  <basePrice>30000</basePrice>
-  </conditionalFree>
-  <chargeByQuantity>
-  <type>RANGE</type>
-  <range>
-  <type>2</type>
-  <range2From>3</range2From>
-  <range2FeePrice>2500</range2FeePrice>
-  </range>
-  </chargeByQuantity>
-
-
-
-<order>
-<merchantId></merchantId>
-<certiKey></certiKey>
-
+<merchantId>beltluv</merchantId>
+<certiKey>62865E43-C83E-4779-96CD-C8217CF3CE58</certiKey>
 <product>
-<id>naver001</id>
-<ecMallProductId>naver001</ecMallProductId>
-<name>
-<![CDATA[예쁜블루원피스]]>
-</name>
-<basePrice>1000000</basePrice>
+<id>1000000025</id>
+<ecMallProductId>1000000025</ecMallProductId>
+<name><![CDATA[미세조절 기능 특허 가죽 벨트 LB3506]]></name>
+<basePrice>56000</basePrice>
 <taxType>TAX</taxType>
-<infoUrl>http://localhost/NaverPayVersion2/NaverPayButton2.html</infoUrl>
-<imageUrl>http://t1.daumcdn.net/liveboard/shopping/2bcedcc885bc46089eb0137d60aaee85.JPG</imageUrl>
+<infoUrl><![CDATA[https://beltluv.com:443/goods/goods_view.php?inflow=naverPay&goodsNo=1000000025]]></infoUrl>
+<imageUrl><![CDATA[http://beltluv.com/data/goods/18/08/32/1000000025/1000000025_main_051.jpg]]></imageUrl>
 <supplement>
-<id>additional</id>
-<name><![CDATA[추가 구성품(시계)]]></name>
-<price>20000</price>
+<id>addGoods_1000000025_1000000000</id>
+<name><![CDATA[쇼핑백(선물용)]]></name>
+<price>1000</price>
 <quantity>1</quantity>
 </supplement>
-<single>
-<quantity>4</quantity>
-</single>
-
+<option>
+<quantity>1</quantity>
+<selectedItem>
+<type>SELECT</type>
+<name><![CDATA[컬러]]></name>
+<value>
+<id>S_99b35977bd2dc75235704cdb1d1fb8</id>
+<text><![CDATA[다크브라운]]></text>
+</value>
+</selectedItem>
+<manageCode>option65</manageCode>
+<price>0</price>
+</option>
 <shippingPolicy>
-<groupId>100</groupId>
+<groupId>1</groupId>
 <method>DELIVERY</method>
-<feePayType>PREPAYED</feePayType>
-<feePrice>2500</feePrice>
-<feeType>CHARGE_BY_QUANTITY</feeType>
-<chargeByQuantity>
-<type>RANGE</type>
-<range>
-<type>3</type>
-<range2From>4</range2From>
-<range2FeePrice>3000</range2FeePrice>
-<range3From>8</range3From>
-<range3FeePrice>5000</range3FeePrice>
-</range>
-</chargeByQuantity>
+<feePayType>FREE</feePayType>
+<feePrice>0</feePrice>
+<feeType>FREE</feeType>
 <surchargeByArea>
-<splitUnit>3</splitUnit>
+<splitUnit>2</splitUnit>
 <area2Price>3000</area2Price>
-<area3Price>3500</area3Price>
 </surchargeByArea>
 </shippingPolicy>
 </product>
-
 <product>
-<id>naver002</id>
-<ecMallProductId>naver002</ecMallProductId>
-<name><![CDATA[예쁜원피스]]></name>
-<basePrice>4500000</basePrice>
+<id>1000000025</id>
+<ecMallProductId>1000000025</ecMallProductId>
+<name><![CDATA[미세조절 기능 특허 가죽 벨트 LB3506]]></name>
+<basePrice>56000</basePrice>
 <taxType>TAX</taxType>
-<infoUrl>http://localhost/NaverPayVersion2/NaverPayButton2.html</infoUrl>
-<imageUrl>http://t1.daumcdn.net/liveboard/shopping/2bcedcc885bc46089eb0137d60aaee85.JPG</imageUrl>
+<infoUrl><![CDATA[https://beltluv.com:443/goods/goods_view.php?inflow=naverPay&goodsNo=1000000025]]></infoUrl>
+<imageUrl><![CDATA[http://beltluv.com/data/goods/18/08/32/1000000025/1000000025_main_051.jpg]]></imageUrl>
+<supplement>
+<id>addGoods_1000000025_1000000000</id>
+<name><![CDATA[쇼핑백(선물용)]]></name>
+<price>1000</price>
+<quantity>1</quantity>
+</supplement>
 <option>
 <quantity>1</quantity>
 <selectedItem>
 <type>SELECT</type>
-<name><![CDATA[사이즈선택]]></name>
+<name><![CDATA[컬러]]></name>
 <value>
-<id>size_m</id>
-<text>
-<![CDATA[M]]>
-</text>
+<id>S_3d87f3bb0d389343d3a4c1fa34a222</id>
+<text><![CDATA[블랙]]></text>
 </value>
 </selectedItem>
-<selectedItem>
-<type>SELECT</type>
-<name><![CDATA[색상선택]]></name>
-<value>
-<id>color_black</id>
-<text>
-<![CDATA[black]]>
-</text>
-</value>
-</selectedItem>
-<manageCode>optionCode01</manageCode>
+<manageCode>option64</manageCode>
 <price>0</price>
 </option>
-<option>
-<quantity>1</quantity>
-<selectedItem>
-<type>SELECT</type>
-<name><![CDATA[사이즈선택]]></name>
-<value>
-<id>size_s</id>
-<text>
-<![CDATA[S]]>
-</text>
-</value>
-</selectedItem>
-<selectedItem>
-<type>SELECT</type>
-<name><![CDATA[색상선택]]></name>
-<value>
-<id>color_red</id>
-<text>
-<![CDATA[red]]>
-</text>
-</value>
-</selectedItem>
-<selectedItem>
-<type>INPUT</type>
-<name><![CDATA[입력옵션]]></name>
-<value>
-<id>input_option</id>
-<text>
-<![CDATA[빨리배송해줘요.]]>
-</text>
-</value>
-</selectedItem>
-<manageCode>optionCode02</manageCode>
-<price>20000</price>
-</option>
 <shippingPolicy>
-<groupId>2</groupId>
+<groupId>1</groupId>
 <method>DELIVERY</method>
-<conditionalFree>
-<basePrice>10000</basePrice>
-</conditionalFree>
-<feePayType>PREPAYED</feePayType>
-<feePrice>2500</feePrice>
-<feeType>CONDITIONAL_FREE</feeType>
+<feePayType>FREE</feePayType>
+<feePrice>0</feePrice>
+<feeType>FREE</feeType>
+<surchargeByArea>
+<splitUnit>2</splitUnit>
+<area2Price>3000</area2Price>
+</surchargeByArea>
 </shippingPolicy>
 </product>
-<backUrl>
-<![CDATA[http://localhost/NaverPayVersion2/NaverPayButton2.html]]>
-</backUrl>
+<backUrl><![CDATA[https://beltluv.com:443/goods/goods_view.php?inflow=naverPay&goodsNo=1000000025]]></backUrl>
 <interface>
 <salesCode></salesCode>
 <cpaInflowCode></cpaInflowCode>
 <mileageInflowCode></mileageInflowCode>
-<naverInflowCode></naverInflowCode>
+<naverInflowCode>ct=jm5vh2hp|ci=checkout|tr=myz|hk=c73d81de37c8eb603aa99cc189dd2607fc90292c|trx=</naverInflowCode>
 <saClickId></saClickId>
+<merchantCustomCode1>1809171453297356</merchantCustomCode1>
 </interface>
 </order>
