@@ -31,7 +31,7 @@
 <id>addGoods_1000000025_1000000000</id>
 <name><![CDATA[쇼핑백(선물용)]]></name>
 <price>1000</price>
-<stockQuantity>0</stockQuantity>
+<stockQuantity>100</stockQuantity>
 </supplement>
 <option>
 <optionItem>
