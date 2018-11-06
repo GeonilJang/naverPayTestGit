@@ -37,11 +37,6 @@
       <feePayType><![CDATA[ FREE ]]></feePayType>
       <feeType><![CDATA[ FREE ]]></feeType>
       <feePrice><![CDATA[ 0 ]]></feePrice>
-      <surchargeByArea>
-        <splitUnit><![CDATA[ 3 ]]></splitUnit>
-        <area2Price><![CDATA[ 0 ]]></area2Price>
-        <area3Price><![CDATA[ 0 ]]></area3Price>
-      </surchargeByArea>
     </shippingPolicy>
     <ecMallProductId><![CDATA[ 448643 ]]></ecMallProductId>
     <id><![CDATA[ 448643 ]]></id>
