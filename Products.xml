@@ -34,12 +34,12 @@
     <shippingPolicy>
       <groupId><![CDATA[ ]]></groupId>
       <method><![CDATA[ ]]></method>
-      <feePayType><![CDATA[ FREE ]]></feePayType>
-      <feeType><![CDATA[ FREE ]]></feeType>
-      <feePrice><![CDATA[ 0 ]]></feePrice>
+      <feePayType><![CDATA[FREE]]></feePayType>
+      <feeType><![CDATA[FREE]]></feeType>
+      <feePrice><![CDATA[0]]></feePrice>
     </shippingPolicy>
-    <ecMallProductId><![CDATA[ 448643 ]]></ecMallProductId>
-    <id><![CDATA[ 448643 ]]></id>
+    <ecMallProductId><![CDATA[448643]]></ecMallProductId>
+    <id><![CDATA[448643]]></id>
     <imageUrl><![CDATA[http://contents.sixshop.com/thumbnails/uploadedFiles/71523/product/image_1536061148666_750.jpg]]></imageUrl>
     <infoUrl><![CDATA[ https://www.addictedkorea.co.kr/product/ad447 ]]></infoUrl>
     <merchantProductId><![CDATA[ 0 ]]></merchantProductId>
