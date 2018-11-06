@@ -1,28 +1,55 @@
 <products>
-<product>
-<id>1000030632</id>
-<ecMallProductId>1000030632</ecMallProductId>
-<name><![CDATA[명진3켭코팅투톤고무장갑_L]]></name>
-<basePrice>1610</basePrice>
-<taxType>TAX</taxType>
-<infoUrl><![CDATA[http://wanstore.co.kr/goods/goods_view.php?inflow=naverPay&goodsNo=1000030632]]></infoUrl>
-<imageUrl><![CDATA[http://img1.wholesaledepot.co.kr/images/product/OH00011206_000.jpg]]></imageUrl>
-<status>ON_SALE</status>
-<supplementSupport>false</supplementSupport>
-<optionSupport>false</optionSupport>
-<returnShippingFee>2500</returnShippingFee>
-<exchangeShippingFee>5000</exchangeShippingFee>
-<shippingPolicy>
-<method>DELIVERY</method>
-<groupId>1</groupId>
-<feePayType>PREPAYED</feePayType>
-<feePrice>2500</feePrice>
-<feeType>CHARGE</feeType>
-<surchargeByArea>
-<splitUnit>3</splitUnit>
-<area2Price>3000</area2Price>
-<area3Price>6000</area3Price>
-</surchargeByArea>
-</shippingPolicy>
-</product>
+  <product>
+    <optionSupport><![CDATA[ true ]]></optionSupport>
+    <option>
+      <optionItem>
+        <type><![CDATA[ SELECT ]]></type>
+        <name><![CDATA[ 사이즈 ]]></name>
+        <value>
+          <id>  <![CDATA[ 448643optVal1414615 ]]></id>
+          <text><![CDATA[ XS ]]></text>
+        </value>
+      </optionItem>
+      <optionItem>
+        <type><![CDATA[ SELECT ]]></type>
+        <name><![CDATA[ 색상 ]]></name>
+        <value>
+          <id><![CDATA[ 448643optVal1414613 ]]></id>
+          <text><![CDATA[ 레드 ]]></text>
+        </value>
+      </optionItem>
+      <combination>
+        <options>
+          <name><![CDATA[ 색상 ]]></name>
+          <id><![CDATA[ 448643optVal1414613 ]]></id>
+        </options>
+        <options>
+          <name><![CDATA[ 사이즈 ]]></name>
+          <id><![CDATA[ 448643optVal1414615 ]]></id>
+        </options>
+        <manageCode><![CDATA[ 448643opt2803847 ]]></manageCode>
+        <price><![CDATA[ 0 ]]></price>
+      </combination>
+    </option>
+    <shippingPolicy>
+      <groupId><![CDATA[ ]]></groupId>
+      <method><![CDATA[ ]]></method>
+      <feePayType><![CDATA[ FREE ]]></feePayType>
+      <feeType><![CDATA[ FREE ]]></feeType>
+      <feePrice><![CDATA[ 0 ]]></feePrice>
+      <surchargeByArea>
+        <splitUnit><![CDATA[ 3 ]]></splitUnit>
+        <area2Price><![CDATA[ 0 ]]></area2Price>
+        <area3Price><![CDATA[ 0 ]]></area3Price>
+      </surchargeByArea>
+    </shippingPolicy>
+    <ecMallProductId><![CDATA[ 448643 ]]></ecMallProductId>
+    <id><![CDATA[ 448643 ]]></id>
+    <imageUrl><![CDATA[http://contents.sixshop.com/thumbnails/uploadedFiles/71523/product/image_1536061148666_750.jpg]]></imageUrl>
+    <infoUrl><![CDATA[ https://www.addictedkorea.co.kr/product/ad447 ]]></infoUrl>
+    <merchantProductId><![CDATA[ 0 ]]></merchantProductId>
+    <name><![CDATA[ [에딕티드] 콘트라스트 메쉬 삼각 팬티 ]]>
+    </name>
+    <basePrice><![CDATA[ 49800 ]]></basePrice>
+  </product>
 </products>
