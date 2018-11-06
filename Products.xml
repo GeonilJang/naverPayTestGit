@@ -1,21 +1,21 @@
 <products>
   <product>
-    <optionSupport><![CDATA[ true ]]></optionSupport>
+    <optionSupport>true</optionSupport>
     <option>
       <optionItem>
-        <type><![CDATA[ SELECT ]]></type>
-        <name><![CDATA[ 사이즈 ]]></name>
+        <type>SELECT</type>
+        <name>사이즈</name>
         <value>
-          <id>  <![CDATA[ 448643optVal1414615 ]]></id>
-          <text><![CDATA[ XS ]]></text>
+          <id>  448643optVal1414615 ]]></id>
+          <text>XS</text>
         </value>
       </optionItem>
       <optionItem>
-        <type><![CDATA[ SELECT ]]></type>
-        <name><![CDATA[ 색상 ]]></name>
+        <type>SELECT</type>
+        <name>색상</name>
         <value>
-          <id><![CDATA[ 448643optVal1414613 ]]></id>
-          <text><![CDATA[ 레드 ]]></text>
+          <id>448643optVal1414613</id>
+          <text>레드></text>
         </value>
       </optionItem>
       <combination>
