@@ -1,50 +1,55 @@
-<products>
-  <product>
-    <optionSupport>true</optionSupport>
-    <option>
-      <optionItem>
-        <type>SELECT</type>
-        <name>사이즈</name>
-        <value>
-          <id>  448643optVal1414615 ]]></id>
-          <text>XS</text>
-        </value>
-      </optionItem>
-      <optionItem>
-        <type>SELECT</type>
-        <name>색상</name>
-        <value>
-          <id>448643optVal1414613</id>
-          <text>레드></text>
-        </value>
-      </optionItem>
-      <combination>
-        <options>
-          <name><![CDATA[ 색상 ]]></name>
-          <id><![CDATA[ 448643optVal1414613 ]]></id>
-        </options>
-        <options>
-          <name><![CDATA[ 사이즈 ]]></name>
-          <id><![CDATA[ 448643optVal1414615 ]]></id>
-        </options>
-        <manageCode><![CDATA[ 448643opt2803847 ]]></manageCode>
-        <price><![CDATA[ 0 ]]></price>
-      </combination>
-    </option>
-    <shippingPolicy>
-      <groupId><![CDATA[ ]]></groupId>
-      <method><![CDATA[ ]]></method>
-      <feePayType><![CDATA[FREE]]></feePayType>
-      <feeType><![CDATA[FREE]]></feeType>
-      <feePrice><![CDATA[0]]></feePrice>
-    </shippingPolicy>
-    <ecMallProductId><![CDATA[448643]]></ecMallProductId>
-    <id><![CDATA[448643]]></id>
-    <imageUrl><![CDATA[http://contents.sixshop.com/thumbnails/uploadedFiles/71523/product/image_1536061148666_750.jpg]]></imageUrl>
-    <infoUrl><![CDATA[ https://www.addictedkorea.co.kr/product/ad447 ]]></infoUrl>
-    <merchantProductId><![CDATA[ 0 ]]></merchantProductId>
-    <name><![CDATA[ [에딕티드] 콘트라스트 메쉬 삼각 팬티 ]]>
-    </name>
-    <basePrice><![CDATA[ 49800 ]]></basePrice>
-  </product>
-</products>
+<order>
+<merchantId>coco0016</merchantId>
+<certiKey>6FB04A39-0619-4772-A5CA-82A70E64E7F8</certiKey>
+<product>
+<id>1000000004</id>
+<ecMallProductId>1000000004</ecMallProductId>
+<name><![CDATA[린다 3026 텐셀 볼륨 일체형캡 탑브라 3부 런닝 린다/3026/텐셀/볼륨/일체형캡/탑브라/3부/런닝]]></name>
+<basePrice>17646</basePrice>
+<taxType>TAX</taxType>
+<infoUrl><![CDATA[http://wlwjdqo116.godomall.com/goods/goods_view.php?inflow=naverPay&goodsNo=1000000004]]></infoUrl>
+<imageUrl><![CDATA[http://ssinwoo.com/Goodimage/1705-0253D5.jpg]]></imageUrl>
+<option>
+<quantity>1</quantity>
+<selectedItem>
+<type>SELECT</type>
+<name><![CDATA[사이즈]]></name>
+<value>
+<id>S_606e13c5746826067c704e28a1a0d9</id>
+<text><![CDATA[80L]]></text>
+</value>
+</selectedItem>
+<selectedItem>
+<type>SELECT</type>
+<name><![CDATA[색상]]></name>
+<value>
+<id>S_74b3581afd3133898671c1439dfd02</id>
+<text><![CDATA[블랙]]></text>
+</value>
+</selectedItem>
+<manageCode>option41</manageCode>
+<price>0</price>
+</option>
+<shippingPolicy>
+<groupId>1_0</groupId>
+<method>DELIVERY</method>
+<feePayType>PREPAYED</feePayType>
+<feePrice>2500</feePrice>
+<feeType>CHARGE</feeType>
+<surchargeByArea>
+<splitUnit>3</splitUnit>
+<area2Price>5000</area2Price>
+<area3Price>5000</area3Price>
+</surchargeByArea>
+</shippingPolicy>
+</product>
+<backUrl><![CDATA[http://wlwjdqo116.godomall.com/goods/goods_view.php?inflow=naverPay&goodsNo=1000000004]]></backUrl>
+<interface>
+<salesCode></salesCode>
+<cpaInflowCode></cpaInflowCode>
+<mileageInflowCode></mileageInflowCode>
+<naverInflowCode></naverInflowCode>
+<saClickId></saClickId>
+<merchantCustomCode1>1811121444545505</merchantCustomCode1>
+</interface>
+</order>
