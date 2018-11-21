@@ -6,12 +6,8 @@
     <![CDATA[ [듀럭스] 벨벳터치 럭셔리 월피니쉬 3L ]]>
   </name>
   <basePrice>45100</basePrice>
-  <infoUrl>
-    <![CDATA[http://www.diymart.co.kr/%EB%B2%BD%EC%A7%80%EC%9A%A9/read?id=63337]]>
-  </infoUrl>
-  <imageUrl>
-    <![CDATA[http://www.diymart.co.kr/app/dubu_shop/docs/imgs/product/63337/513_1.jpg]]>
-  </imageUrl>
+  <infoUrl><![CDATA[http://www.diymart.co.kr/%EB%B2%BD%EC%A7%80%EC%9A%A9/read?id=63337]]></infoUrl>
+  <imageUrl><![CDATA[http://www.diymart.co.kr/app/dubu_shop/docs/imgs/product/63337/513_1.jpg]]></imageUrl>
   <stockQuantity>99799</stockQuantity>
   <status>ON_SALE</status>
   <taxType>TAX</taxType>
