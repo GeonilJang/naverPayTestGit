@@ -1,73 +1,57 @@
-<products>
 <product>
-<id>1000000004</id>
-<ecMallProductId>1000000004</ecMallProductId>
-<name><![CDATA[린다 3026 텐셀 볼륨 일체형캡 탑브라 3부 런닝 린다/3026/텐셀/볼륨/일체형캡/탑브라/3부/런닝]]></name>
-<basePrice>17646</basePrice>
-<taxType>TAX</taxType>
-<infoUrl><![CDATA[http://wlwjdqo116.godomall.com/goods/goods_view.php?inflow=naverPay&goodsNo=1000000004]]></infoUrl>
-<imageUrl><![CDATA[http://ssinwoo.com/Goodimage/1705-0253D5.jpg]]></imageUrl>
-<status>ON_SALE</status>
-<supplementSupport>false</supplementSupport>
-<optionSupport>true</optionSupport>
-<shippingPolicy>
-<method>DELIVERY</method>
-<groupId>1_0</groupId>
-<feePayType>PREPAYED</feePayType>
-<feePrice>2500</feePrice>
-<feeType>CHARGE</feeType>
-<surchargeByArea>
-<splitUnit>3</splitUnit>
-<area2Price>5000</area2Price>
-<area3Price>5000</area3Price>
-</surchargeByArea>
-</shippingPolicy>
-<option>
-<optionItem>
-<type>SELECT</type>
-<name><![CDATA[사이즈]]></name>
-<value>
-<id>S_606e13c5746826067c704e28a1a0d9</id>
-<text><![CDATA[80L]]></text>
-</value>
-<value>
-<id>S_d4800d6a3443798152de65197bcff8</id>
-<text><![CDATA[85XL]]></text>
-</value>
-<value>
-<id>S_5f2136d5a003d69cb24f62813328e4</id>
-<text><![CDATA[902XL]]></text>
-</value>
-</optionItem>
-<optionItem>
-<type>SELECT</type>
-<name><![CDATA[색상]]></name>
-<value>
-<id>S_74b3581afd3133898671c1439dfd02</id>
-<text><![CDATA[블랙]]></text>
-</value>
-<value>
-<id>S_70b0dd8464257f5ab6e9e5b22634d8</id>
-<text><![CDATA[스킨]]></text>
-</value>
-<value>
-<id>S_b0cd16743ffc8e3a57e62b991cb404</id>
-<text><![CDATA[핑크]]></text>
-</value>
-</optionItem>
-<combination>
-<manageCode>option41</manageCode>
-<stockQuantity>999</stockQuantity>
-<options>
-<name><![CDATA[사이즈]]></name>
-<id>S_606e13c5746826067c704e28a1a0d9</id>
-</options>
-<options>
-<name><![CDATA[색상]]></name>
-<id>S_74b3581afd3133898671c1439dfd02</id>
-</options>
-<price>0</price>
-</combination>
-</option>
+  <id>63337</id>
+  <merchantProductId>63337</merchantProductId>
+  <ecMallProductId>diymart_dubu_shop_63337</ecMallProductId>
+  <name>
+    <![CDATA[ [듀럭스] 벨벳터치 럭셔리 월피니쉬 3L ]]>
+  </name>
+  <basePrice>45100</basePrice>
+  <infoUrl>
+    <![CDATA[
+http://www.diymart.co.kr/%EB%B2%BD%EC%A7%80%EC%9A%A9/read?id=63337
+]]>
+  </infoUrl>
+  <imageUrl>
+    <![CDATA[
+http://www.diymart.co.kr/app/dubu_shop/docs/imgs/product/63337/513_1.jpg
+]]>
+  </imageUrl>
+  <stockQuantity>99799</stockQuantity>
+  <status>ON_SALE</status>
+  <taxType>TAX</taxType>
+  <optionSupport>true</optionSupport>
+  <supplementSupport>false</supplementSupport>
+  <!-- 배송정책 정보 -->
+  <shippingPolicy>
+    <method>DELIVERY</method>
+    <feePayType>PREPAYED</feePayType>
+    <feeType>CONDITIONAL_FREE</feeType>
+    <feePrice>2500</feePrice>
+    <conditionalFree>
+      <basePrice>50000</basePrice>
+    </conditionalFree>
+  </shippingPolicy>
+
+  <option>
+    <optionItem>
+      <type>SELECT</type>
+      <name>
+        <![CDATA[용량]]>
+      </name>
+      <value>
+        <id>211992</id>
+        <text>
+          <![CDATA[3L]]>
+        </text>
+        <status>true</status>
+      </value>
+    </optionItem>
+    <optionItem>
+      <type>INPUT</type>
+      <name>
+        <![CDATA[색상명기재]]>
+      </name>
+    </optionItem>
+  </option>
+
 </product>
-</products>
