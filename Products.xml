@@ -19,8 +19,6 @@
     <taxType>TAX</taxType>
     <optionSupport>true</optionSupport>
     <supplementSupport>false</supplementSupport>
-    <!-- 배송정책 정보 -->
-
     <shippingPolicy>
       <method>DELIVERY</method>
       <feePayType>PREPAYED</feePayType>
@@ -53,8 +51,6 @@
           <status>true</status>
         </value>
       </optionItem>
-
     </option>
-
   </product>
 </products>
