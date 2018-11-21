@@ -29,6 +29,8 @@
       </conditionalFree>
     </shippingPolicy>
     <option>
+      <price>0</price>
+      <manageCode><![CDATA[211992_211993]]></manageCode>
       <optionItem>
         <type>SELECT</type>
         <name><![CDATA[용량]]></name>
