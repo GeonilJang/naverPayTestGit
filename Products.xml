@@ -1,40 +1,25 @@
+<products>
 <product>
-  <id>63337</id>
-  <merchantProductId>63337</merchantProductId>
-  <ecMallProductId>diymart_dubu_shop_63337</ecMallProductId>
-  <name><![CDATA[ [듀럭스] 벨벳터치 럭셔리 월피니쉬 3L ]]></name>
-  <basePrice>45100</basePrice>
-  <infoUrl><![CDATA[http://www.diymart.co.kr/%EB%B2%BD%EC%A7%80%EC%9A%A9/read?id=63337]]></infoUrl>
-  <imageUrl><![CDATA[http://www.diymart.co.kr/app/dubu_shop/docs/imgs/product/63337/513_1.jpg]]></imageUrl>
-  <stockQuantity>99799</stockQuantity>
-  <status>ON_SALE</status>
-  <taxType>TAX</taxType>
-  <optionSupport>true</optionSupport>
-  <supplementSupport>false</supplementSupport>
-  <shippingPolicy>
-    <method>DELIVERY</method>
-    <feePayType>PREPAYED</feePayType>
-    <feeType>CONDITIONAL_FREE</feeType>
-    <feePrice>2500</feePrice>
-    <conditionalFree>
-      <basePrice>50000</basePrice>
-    </conditionalFree>
-  </shippingPolicy>
-  <option>
-    <optionItem>
-      <type>SELECT</type>
-      <name><![CDATA[용량]]></name>
-      <value>
-        <id>211992</id>
-        <text>
-          <![CDATA[3L]]>
-        </text>
-        <status>true</status>
-      </value>
-    </optionItem>
-    <optionItem>
-      <type>INPUT</type>
-      <name><![CDATA[색상명기재]]></name>
-    </optionItem>
-  </option>
+<id>1000000041</id>
+<ecMallProductId>1000000041</ecMallProductId>
+<name><![CDATA[ 걸스드림 쿼드바이크 ]]></name>
+<basePrice>5300</basePrice>
+<taxType>TAX</taxType>
+<infoUrl><![CDATA[http://luvon.com/goods/goods_view.php?inflow=naverPay&goodsNo=1000000041]]></infoUrl>
+<imageUrl><![CDATA[http://imgs.luvon.co.kr/mall/data/goods/thumbnail/sluban/s599_01.jpg]]></imageUrl>
+<stockQuantity>150</stockQuantity>
+<status>ON_SALE</status>
+<supplementSupport>false</supplementSupport>
+<optionSupport>false</optionSupport>
+<shippingPolicy>
+<method>DELIVERY</method>
+<groupId>2</groupId>
+<conditionalFree>
+<basePrice>50000</basePrice>
+</conditionalFree>
+<feePayType>PREPAYED</feePayType>
+<feePrice>3000</feePrice>
+<feeType>CONDITIONAL_FREE</feeType>
+</shippingPolicy>
 </product>
+</products>
