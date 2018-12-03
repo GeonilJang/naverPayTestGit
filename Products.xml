@@ -45,7 +45,33 @@
 </value>
 </optionItem>
 
+<combination>
+<manageCode>option1154</manageCode>
+<stockQuantity>999</stockQuantity>
+<options>
+<name><![CDATA[사이즈]]></name>
+<id>S_c921aacf1ecc1e78a0dd360baf71b7</id>
+</options>
+<options>
+<name><![CDATA[색상]]></name>
+<id>S_4e29686d1d8441b7d7e1a806076f4b</id>
+</options>
+<price>0</price>
+</combination>
 
+<combination>
+<manageCode>option1151</manageCode>
+<stockQuantity>999</stockQuantity>
+<options>
+<name><![CDATA[사이즈]]></name>
+<id>S_1a76f67032cc029aee562bed260893</id>
+</options>
+<options>
+<name><![CDATA[색상]]></name>
+<id>S_74b3581afd3133898671c1439dfd02</id>
+</options>
+<price>0</price>
+</combination>
 </option>
 </product>
 </products>
