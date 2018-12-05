@@ -15,6 +15,10 @@
 <option>
 <optionItem>
 <name>가로X세로</name>
+<value>
+<id>200200</id>
+<text>200cm X 200cm</text>
+</value>
 </optionItem>
 <combination>
 <options>
