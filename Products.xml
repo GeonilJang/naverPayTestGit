@@ -17,11 +17,11 @@
 <name>가로 X 세로</name>
 </optionItem>
 <combination>
-<price>0</price>
 <options>
 <name>가로 X 세로</name>
 </options>
 <manageCode>61<manageCode>
+<price>0</price>
 </combination>
 </option>
 <shippingPolicy>
