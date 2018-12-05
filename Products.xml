@@ -7,18 +7,18 @@
 <taxType>TAX</taxType>
 <infoUrl><![CDATA[http://heinahome.co.kr/goods/goods_view.php?inflow=naverPay&goodsNo=1000000028]]></infoUrl>
 <imageUrl><![CDATA[/data/goods/18/11/48/1000000028/1000000028_main_059.jpg]]></imageUrl>
-<status>true</status>
+<status>ON_SALE</status>
 <supplementSupport>false</supplementSupport>
 <optionSupport>false</optionSupport>
 <returnShippingFee>2500</returnShippingFee>
 <exchangeShippingFee>5000</exchangeShippingFee>
 <option>
 <optionItem>
-<name>가로 X 세로</name>
+<name>가로X세로</name>
 </optionItem>
 <combination>
 <options>
-<name>가로 X 세로</name>
+<name>가로X세로</name>
 </options>
 <manageCode>61<manageCode>
 <price>0</price>
