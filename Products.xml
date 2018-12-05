@@ -12,8 +12,6 @@
 <optionSupport>true</optionSupport>
 <returnShippingFee>2500</returnShippingFee>
 <exchangeShippingFee>5000</exchangeShippingFee>
-
-
 <option>
 <optionItem>
 <name>가로X세로</name>
@@ -32,10 +30,6 @@
 <price>1000</price>
 </combination>
 </option>
-
-
-
-
 <shippingPolicy>
 <groupId>2</groupId>
 <conditionalFree>
