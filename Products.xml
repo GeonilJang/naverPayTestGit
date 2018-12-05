@@ -7,7 +7,7 @@
 <taxType>TAX</taxType>
 <infoUrl><![CDATA[http://heinahome.co.kr/goods/goods_view.php?inflow=naverPay&goodsNo=1000000028]]></infoUrl>
 <imageUrl><![CDATA[/data/goods/18/11/48/1000000028/1000000028_main_059.jpg]]></imageUrl>
-<status>ON_SALE</status>
+<status>true</status>
 <supplementSupport>false</supplementSupport>
 <optionSupport>false</optionSupport>
 <returnShippingFee>2500</returnShippingFee>
@@ -16,7 +16,6 @@
 <optionItem>
 <name>가로 X 세로</name>
 </optionItem>
-
 <combination>
 <price>0</price>
 <options>
