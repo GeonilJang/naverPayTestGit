@@ -18,11 +18,12 @@
 <name>가로X세로</name>
 </optionItem>
 <combination>
-<options>
-<name>가로X세로</name>
-</options>
 <manageCode>61<manageCode>
 <price>1000</price>
+<options>
+<name>가로X세로</name>
+<id>200200</id>
+</options>
 </combination>
 </option>
 <shippingPolicy>
