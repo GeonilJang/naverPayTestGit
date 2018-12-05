@@ -9,7 +9,7 @@
 <imageUrl><![CDATA[/data/goods/18/11/48/1000000028/1000000028_main_059.jpg]]></imageUrl>
 <status>ON_SALE</status>
 <supplementSupport>false</supplementSupport>
-<optionSupport>false</optionSupport>
+<optionSupport>true</optionSupport>
 <returnShippingFee>2500</returnShippingFee>
 <exchangeShippingFee>5000</exchangeShippingFee>
 <option>
@@ -21,7 +21,7 @@
 <name>가로X세로</name>
 </options>
 <manageCode>61<manageCode>
-<price>0</price>
+<price>1000</price>
 </combination>
 </option>
 <shippingPolicy>
