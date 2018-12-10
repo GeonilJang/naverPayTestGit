@@ -1,39 +1,116 @@
 <products>
 <product>
-<id>1000000028</id>
-<ecMallProductId>1000000028</ecMallProductId>
-<name><![CDATA[S 베이직 콤비]]></name>
-<basePrice>11000</basePrice>
+<id>1000000061</id>
+<ecMallProductId>1000000061</ecMallProductId>
+<name><![CDATA[숏도그 덧신 남성용(250-280mm)]]></name>
+<basePrice>1580</basePrice>
 <taxType>TAX</taxType>
-<infoUrl><![CDATA[http://heinahome.co.kr/goods/goods_view.php?inflow=naverPay&goodsNo=1000000028]]></infoUrl>
-<imageUrl><![CDATA[/data/goods/18/11/48/1000000028/1000000028_main_059.jpg]]></imageUrl>
+<infoUrl><![CDATA[http://daitdda.kr/goods/goods_view.php?inflow=naverPay&goodsNo=1000000061]]></infoUrl>
+<imageUrl><![CDATA[http://im2.wholesaledepot.co.kr/images/product/99888735478905121540789677.jpg]]></imageUrl>
 <status>ON_SALE</status>
 <supplementSupport>false</supplementSupport>
 <optionSupport>true</optionSupport>
-<returnShippingFee>2500</returnShippingFee>
-<exchangeShippingFee>5000</exchangeShippingFee>
+<shippingPolicy>
+<method>DELIVERY</method>
+<groupId>1</groupId>
+<feePayType>PREPAYED</feePayType>
+<feePrice>3000</feePrice>
+<feeType>CHARGE</feeType>
+</shippingPolicy>
 <option>
 <optionItem>
-<type>INPUT</type>
-<name>가로X세로</name>
+<type>SELECT</type>
+<name><![CDATA[옵션]]></name>
+<value>
+<id>S_84137adb604f8f123a14ca619a65f8</id>
+<text><![CDATA[숏도그남성 블랙]]></text>
+</value>
+<value>
+<id>S_9959855ca7be1fbd670a8636d099da</id>
+<text><![CDATA[숏도그남성 네이비]]></text>
+</value>
+<value>
+<id>S_7298e8a92ff1ddd1830864ee21d4f7</id>
+<text><![CDATA[숏도그남성 그린]]></text>
+</value>
+<value>
+<id>S_0fec193df616e03aa624a6318cd623</id>
+<text><![CDATA[숏도그남성 오렌지]]></text>
+</value>
+<value>
+<id>S_c837cf243525a77d2271286683a5a2</id>
+<text><![CDATA[숏도그남성 챠콜]]></text>
+</value>
 </optionItem>
 <combination>
-<manageCode>61</manageCode>
-<price>1000</price>
+<manageCode>option201</manageCode>
 <options>
-<name>가로X세로</name>
-<id>200200</id>
+<name><![CDATA[옵션]]></name>
+<id>S_9959855ca7be1fbd670a8636d099da</id>
 </options>
+<price>0</price>
 </combination>
 </option>
+</product>
+<product>
+<id>1000000064</id>
+<ecMallProductId>1000000064</ecMallProductId>
+<name><![CDATA[(30개묶음)귀여운 미니고양이 덧신 여성용(230-250mm)]]></name>
+<basePrice>25190</basePrice>
+<taxType>TAX</taxType>
+<infoUrl><![CDATA[http://daitdda.kr/goods/goods_view.php?inflow=naverPay&goodsNo=1000000064]]></infoUrl>
+<imageUrl><![CDATA[http://im2.wholesaledepot.co.kr/images/product/96466351032940761540789675.jpg]]></imageUrl>
+<status>ON_SALE</status>
+<supplementSupport>false</supplementSupport>
+<optionSupport>true</optionSupport>
 <shippingPolicy>
-<groupId>2</groupId>
-<conditionalFree>
-<basePrice>50000</basePrice>
-</conditionalFree>
+<method>DELIVERY</method>
+<groupId>1</groupId>
 <feePayType>PREPAYED</feePayType>
-<feePrice>2500</feePrice>
-<feeType>CONDITIONAL_FREE</feeType>
+<feePrice>3000</feePrice>
+<feeType>CHARGE</feeType>
 </shippingPolicy>
+<option>
+<optionItem>
+<type>SELECT</type>
+<name><![CDATA[옵션]]></name>
+<value>
+<id>S_06ac4590fc5c1741185c30ce75cbf2</id>
+<text><![CDATA[미니고양이 블랙]]></text>
+</value>
+<value>
+<id>S_7ff7bd94fce15ecce5fd0013d4a18a</id>
+<text><![CDATA[미니고양이 화이트]]></text>
+</value>
+<value>
+<id>S_26c73241e48e5791cdd40dbe6ce482</id>
+<text><![CDATA[미니고양이 오렌지]]></text>
+</value>
+<value>
+<id>S_69dc5ae0454b5df3bd1796809a4d21</id>
+<text><![CDATA[미니고양이 그레이]]></text>
+</value>
+<value>
+<id>S_64fd771c02b3cac9125738bddf522a</id>
+<text><![CDATA[미니고양이 핑크]]></text>
+</value>
+</optionItem>
+<combination>
+<manageCode>option219</manageCode>
+<options>
+<name><![CDATA[옵션]]></name>
+<id>S_64fd771c02b3cac9125738bddf522a</id>
+</options>
+<price>0</price>
+</combination>
+<combination>
+<manageCode>option217</manageCode>
+<options>
+<name><![CDATA[옵션]]></name>
+<id>S_26c73241e48e5791cdd40dbe6ce482</id>
+</options>
+<price>0</price>
+</combination>
+</option>
 </product>
 </products>
