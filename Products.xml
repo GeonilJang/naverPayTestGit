@@ -9,7 +9,7 @@
 <imageUrl><![CDATA[http://www.heinahome.co.kr/data/goods/18/11/48/1000000028/1000000028_main_059.jpg]]></imageUrl>
 <status>ON_SALE</status>
 <supplementSupport>false</supplementSupport>
-<optionSupport>false</optionSupport>
+<optionSupport>true</optionSupport>
 <returnShippingFee>2500</returnShippingFee>
 <exchangeShippingFee>5000</exchangeShippingFee>
 <shippingPolicy>
@@ -22,6 +22,7 @@
 <feePrice>2500</feePrice>
 <feeType>CONDITIONAL_FREE</feeType>
 </shippingPolicy>
+
 <option>
 <optionItem>
 <type>INPUT</type>
@@ -36,5 +37,6 @@
 <price>33000</price>
 </combination>
 </option>
+
 </product>
 </products>
