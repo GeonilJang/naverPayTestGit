@@ -1,17 +1,20 @@
 <products>
 <product>
-<id>1000612971</id>
-<ecMallProductId>1000612971</ecMallProductId>
-<name><![CDATA[MiniF MSNS-22 혼다 번호판 플레이트]]></name>
-<basePrice>24700</basePrice>
+<id>1000000028</id>
+<ecMallProductId>1000000028</ecMallProductId>
+<name><![CDATA[S 베이직 콤비]]></name>
+<basePrice>11000</basePrice>
 <taxType>TAX</taxType>
-<infoUrl><![CDATA[http://crunchprice.com/goods/goods_view.php?inflow=naverPay&goodsNo=1000612971]]></infoUrl>
-<imageUrl><![CDATA[http://shop-phinf.pstatic.net/20170323_93/nmp_14902387349928YFV5_JPEG/289221.jpg?type=m450]]></imageUrl>
+<infoUrl><![CDATA[http://heinahome.co.kr/goods/goods_view.php?inflow=naverPay&goodsNo=1000000028]]></infoUrl>
+<imageUrl><![CDATA[http://www.heinahome.co.kr/data/goods/18/11/48/1000000028/1000000028_main_059.jpg]]></imageUrl>
 <status>ON_SALE</status>
 <supplementSupport>false</supplementSupport>
-<optionSupport>true</optionSupport>
+<optionSupport>false</optionSupport>
+<returnShippingFee>2500</returnShippingFee>
+<exchangeShippingFee>5000</exchangeShippingFee>
 <shippingPolicy>
-<groupId>3023</groupId>
+<method>DELIVERY</method>
+<groupId>2</groupId>
 <conditionalFree>
 <basePrice>50000</basePrice>
 </conditionalFree>
@@ -22,15 +25,15 @@
 <option>
 <optionItem>
 <type>INPUT</type>
-<name><![CDATA[샘플번호 입력]]></name>
+<name>가로 X 세로</name>
 </optionItem>
 <combination>
-<manageCode>29297</manageCode>
+<manageCode>option290</manageCode>
 <options>
-<name><![CDATA[샘플번호 입력]]></name>
-<id>T2929738346</id>
+<name>가로 X 세로</name>
+<id>200200</id>
 </options>
-<price>0</price>
+<price>33000</price>
 </combination>
 </option>
 </product>
