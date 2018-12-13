@@ -25,7 +25,7 @@
 <option>
 <optionItem>
 <type>SELECT</type>
-<name><![CDATA[선택하세요]]></name>
+<name>선택하세요</name>
 <value>
 <id>212899</id>
 <text><![CDATA[75mm]]></text>
@@ -43,7 +43,7 @@
 </value>
 </optionItem>
 <combination>
-<manageCode><![CDATA[212901]]></manageCode>
+<manageCode><![CDATA[212900]]></manageCode>
 <stockQuantity>10000</stockQuantity>
 <price>500</price>
 <options>
