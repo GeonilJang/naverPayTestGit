@@ -17,10 +17,10 @@
     <optionSupport>false</optionSupport>
     <shippingPolicy>
       <groupId>10000</groupId>
+      <feePrice>2500</feePrice>
       <method>DELIVERY</method>
       <feePayType>PREPAYED</feePayType>
       <feeType>CONDITIONAL_FREE</feeType>
-      <feePrice>2500</feePrice>
       <conditionalFree>
         <basePrice>30000</basePrice>
       </conditionalFree>
