@@ -23,7 +23,7 @@
       <feeType>CONDITIONAL_FREE</feeType>
       <feePrice></feePrice>
       <conditionalFree>
-        <basePrice></basePrice>
+        <basePrice>30000</basePrice>
       </conditionalFree>
       <surchargeByArea>
         <apiSupport>true</apiSupport>
