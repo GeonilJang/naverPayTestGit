@@ -1,56 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
 <products>
-<product>
-<id>63578</id>
-<merchantProductId>63578</merchantProductId>
-<ecMallProductId>diymart_dubu_shop_63578</ecMallProductId>
-<name><![CDATA[원헤라/올퍼티,줄퍼티 작업시 막대에 간편하게 끼워서 사용]]></name>
-<basePrice>1500</basePrice>
-<infoUrl><![CDATA[http://www.diymart.co.kr/%ED%8A%B8%EB%A0%88%EC%9D%B4/read?id=63578]]></infoUrl>
-<imageUrl><![CDATA[http://www.diymart.co.kr/app/dubu_shop/docs/imgs/product/63578/321_1.jpg]]></imageUrl>
-<stockQuantity>10000</stockQuantity>
-<status>ON_SALE</status>
-<taxType>TAX</taxType>
-<optionSupport>true</optionSupport>
-<supplementSupport>false</supplementSupport>
-<!-- 배송정책 정보 -->
-<shippingPolicy>
-<method>DELIVERY</method>
-<feePayType>PREPAYED</feePayType>
-<feeType>CONDITIONAL_FREE</feeType>
-<feePrice>2500</feePrice>
-<conditionalFree>
-<basePrice>50000</basePrice>
-</conditionalFree>
-</shippingPolicy>
-<option>
-<optionItem>
-<type>SELECT</type>
-<name>선택하세요</name>
-<value>
-<id>212899</id>
-<text><![CDATA[75mm]]></text>
-<status>true</status>
-</value>
-<value>
-<id>212900</id>
-<text><![CDATA[110mm]]></text>
-<status>true</status>
-</value>
-<value>
-<id>212901</id>
-<text><![CDATA[160mm]]></text>
-<status>true</status>
-</value>
-</optionItem>
-<combination>
-<manageCode><![CDATA[212901]]></manageCode>
-<stockQuantity>10000</stockQuantity>
-<price>500</price>
-<options>
-<name><![CDATA[선택하세요]]></name>
-<id>212900</id>
-</options>
-</combination>
-</option>
-</product>
+  <product>
+    <id>j20170104174613</id>
+    <merchantProductId>j20170104174613</merchantProductId>
+    <ecMallProductId>j20170104174613</ecMallProductId>
+    <name>
+      <![CDATA[롤링핸즈 마터날 수분팩]]>
+    </name>
+    <taxType>TAX</taxType>
+    <infoUrl>
+      <![CDATA[https://www.ozbmoms.com/niabbs5/mall.php?inc=read&jcode=5&ca=0000000001&ca2=0000000001&ca3=0000000005&de=3&sp=]]>
+    </infoUrl>
+    <imageUrl>
+      <![CDATA[https://www.ozbmoms.com/niabbs5/upload/jepum2/2018121549442626.jpg]]>
+    </imageUrl>
+    <basePrice>60000</basePrice>
+    <optionSupport>false</optionSupport>
+    <shippingPolicy>
+      <groupId>10000</groupId>
+      <method>DELIVERY</method>
+      <feePayType>PREPAYED</feePayType>
+      <feeType>CONDITIONAL_FREE</feeType>
+      <feePrice></feePrice>
+      <conditionalFree>
+        <basePrice></basePrice>
+      </conditionalFree>
+      <surchargeByArea>
+        <apiSupport>true</apiSupport>
+      </surchargeByArea>
+    </shippingPolicy>
+  </product>
 </products>
