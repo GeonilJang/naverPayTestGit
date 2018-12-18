@@ -23,18 +23,18 @@
 <feeType>CONDITIONAL_FREE</feeType>
 </shippingPolicy>
 <option>
-  <optionItem>
-    <type>INPUT</type>
-    <name>가로</name>
-    </optionItem>
-  <combination>
-    <manageCode>option290</manageCode>
-    <options>
-    <name>가로</name>
-    <id>150100</id>
-    </options>
-    <price>11000</price>
-  </combination>
+<optionItem>
+<type>INPUT</type>
+<name>가로 X 세로</name>
+</optionItem>
+<combination>
+<manageCode>option290</manageCode>
+<options>
+<name>가로 X 세로</name>
+<id>150100</id>
+</options>
+<price>11000</price>
+</combination>
 </option>
 </product>
 </products>
