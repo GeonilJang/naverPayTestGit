@@ -25,12 +25,12 @@
 <option>
 <optionItem>
 <type>INPUT</type>
-<name><![CDATA[가로 X 세로]]></name>
+<name>가로 X 세로</name>
 </optionItem>
 <combination>
 <manageCode>option290</manageCode>
 <options>
-<name><![CDATA[가로 X 세로]]></name>
+<name>가로 X 세로</name>
 <id>150100</id>
 </options>
 <price>11000</price>
