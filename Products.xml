@@ -1,32 +1,40 @@
 <products>
-  <product>
-    <id>j20170104174613</id>
-    <merchantProductId>j20170104174613</merchantProductId>
-    <ecMallProductId>j20170104174613</ecMallProductId>
-    <name>
-      <![CDATA[롤링핸즈 마터날 수분팩]]>
-    </name>
-    <taxType>TAX</taxType>
-    <infoUrl>
-      <![CDATA[https://www.ozbmoms.com/niabbs5/mall.php?inc=read&jcode=5&ca=0000000001&ca2=0000000001&ca3=0000000005&de=3&sp=]]>
-    </infoUrl>
-    <imageUrl>
-      <![CDATA[https://www.ozbmoms.com/niabbs5/upload/jepum2/2018121549442626.jpg]]>
-    </imageUrl>
-    <basePrice>60000</basePrice>
-    <optionSupport>false</optionSupport>
-    <shippingPolicy>
-      <groupId>10000</groupId>
-      <feePrice>2500</feePrice>
-      <method>DELIVERY</method>
-      <feePayType>PREPAYED</feePayType>
-      <feeType>CONDITIONAL_FREE</feeType>
-      <conditionalFree>
-        <basePrice>30000</basePrice>
-      </conditionalFree>
-      <surchargeByArea>
-        <apiSupport>true</apiSupport>
-      </surchargeByArea>
-    </shippingPolicy>
-  </product>
+<product>
+<id>1000000028</id>
+<ecMallProductId>1000000028</ecMallProductId>
+<name><![CDATA[S 베이직 콤비]]></name>
+<basePrice>11000</basePrice>
+<taxType>TAX</taxType>
+<infoUrl><![CDATA[http://heinahome.co.kr/goods/goods_view.php?inflow=naverPay&goodsNo=1000000028]]></infoUrl>
+<imageUrl><![CDATA[http://www.heinahome.co.kr/data/goods/18/11/48/1000000028/1000000028_main_059.jpg]]></imageUrl>
+<status>ON_SALE</status>
+<supplementSupport>false</supplementSupport>
+<optionSupport>false</optionSupport>
+<returnShippingFee>2500</returnShippingFee>
+<exchangeShippingFee>5000</exchangeShippingFee>
+<shippingPolicy>
+<method>DELIVERY</method>
+<groupId>2</groupId>
+<conditionalFree>
+<basePrice>50000</basePrice>
+</conditionalFree>
+<feePayType>PREPAYED</feePayType>
+<feePrice>2500</feePrice>
+<feeType>CONDITIONAL_FREE</feeType>
+</shippingPolicy>
+<option>
+<optionItem>
+<type>INPUT</type>
+<name>가로 X 세로</name>
+</optionItem>
+<combination>
+<manageCode>option290</manageCode>
+<options>
+<name>가로 X 세로</name>
+<id>150100</id>
+</options>
+<price>11000</price>
+</combination>
+</option>
+</product>
 </products>
