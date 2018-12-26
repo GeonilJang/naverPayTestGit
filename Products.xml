@@ -1,39 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
 <products>
 <product>
-<id>1000000028</id>
-<ecMallProductId>1000000028</ecMallProductId>
-<name><![CDATA[S 베이직 콤비]]></name>
-<basePrice>11000</basePrice>
+<id>1000000007</id>
+<ecMallProductId>1000000007</ecMallProductId>
+<name><![CDATA[에메랄드 페더 디자인 데코 / 철제 금장 깃털]]></name>
+<basePrice>4500</basePrice>
 <taxType>TAX</taxType>
-<infoUrl><![CDATA[http://heinahome.co.kr/goods/goods_view.php?inflow=naverPay&goodsNo=1000000028]]></infoUrl>
-<imageUrl><![CDATA[http://www.heinahome.co.kr/data/goods/18/11/48/1000000028/1000000028_main_059.jpg]]></imageUrl>
+<infoUrl><![CDATA[http://page127.co.kr/goods/goods_view.php?inflow=naverPay&goodsNo=1000000007]]></infoUrl>
+<imageUrl><![CDATA[http://www.page127.co.kr/data/goods/18/12/51/1000000007/1000000007_main_02.jpg]]></imageUrl>
 <status>ON_SALE</status>
 <supplementSupport>false</supplementSupport>
 <optionSupport>true</optionSupport>
-<returnShippingFee>2500</returnShippingFee>
-<exchangeShippingFee>5000</exchangeShippingFee>
+<returnShippingFee>3000</returnShippingFee>
+<exchangeShippingFee>6000</exchangeShippingFee>
 <shippingPolicy>
 <method>DELIVERY</method>
-<groupId>2</groupId>
+<groupId>1</groupId>
 <conditionalFree>
 <basePrice>50000</basePrice>
 </conditionalFree>
 <feePayType>PREPAYED</feePayType>
-<feePrice>2500</feePrice>
+<feePrice>3000</feePrice>
 <feeType>CONDITIONAL_FREE</feeType>
+<surchargeByArea>
+<splitUnit>2</splitUnit>
+<area2Price>6000</area2Price>
+</surchargeByArea>
 </shippingPolicy>
 <option>
 <optionItem>
-<type>INPUT</type>
-<name>가로 X 세로</name>
+<type>SELECT</type>
+<name><![CDATA[선택]]></name>
+<value>
+<id>S_4f70f2789e589fd45abc18b2e10e2f</id>
+<text><![CDATA[Type A (Small)]]></text>
+</value>
+<value>
+<id>S_ff093d0e2e4cbb75c09506ec232bae</id>
+<text><![CDATA[Type A (Medium)]]></text>
+</value>
+<value>
+<id>S_79fadfbdf81337fa17e4eacec4e1a6</id>
+<text><![CDATA[Type A (Large)]]></text>
+</value>
+<value>
+<id>S_18dd040cae529af75da6c2dbb9b74d</id>
+<text><![CDATA[Type B (Small)]]></text>
+</value>
+<value>
+<id>S_777591bfc3f97da612dad57dd0347d</id>
+<text><![CDATA[Type B (Medium)]]></text>
+</value>
+<value>
+<id>S_ef757eff03ce3315f50f19b5e16216</id>
+<text><![CDATA[Type B (Large)]]></text>
+</value>
 </optionItem>
 <combination>
-<manageCode>option290</manageCode>
+<manageCode>option337</manageCode>
 <options>
-<name>가로 X 세로</name>
-<id>150100</id>
+<name><![CDATA[선택]]></name>
+<id>S_18dd040cae529af75da6c2dbb9b74d</id>
 </options>
-<price>11000</price>
+<price>0</price>
+</combination>
+<combination>
+<manageCode>option334</manageCode>
+<options>
+<name><![CDATA[선택]]></name>
+<id>S_4f70f2789e589fd45abc18b2e10e2f</id>
+</options>
+<price>0</price>
 </combination>
 </option>
 </product>
