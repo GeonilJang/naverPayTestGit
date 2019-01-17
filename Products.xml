@@ -1,28 +1,63 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <products>
 <product>
-<optionSupport><![CDATA[false]]></optionSupport>
+<optionSupport>
+<![CDATA[ false ]]>
+</optionSupport>
 <shippingPolicy>
-<groupId><![CDATA[]]></groupId>
-<method><![CDATA[]]></method>
-<feePayType><![CDATA[PREPAYED]]></feePayType>
-<feeType><![CDATA[CONDITIONAL_FREE]]></feeType>
-<feePrice><![CDATA[2500]]></feePrice>
+<groupId>
+<![CDATA[ ]]>
+</groupId>
+<method>
+<![CDATA[ ]]>
+</method>
+<feePayType>
+<![CDATA[ PREPAYED ]]>
+</feePayType>
+<feeType>
+<![CDATA[ CONDITIONAL_FREE ]]>
+</feeType>
+<feePrice>
+<![CDATA[ 2500 ]]>
+</feePrice>
 <conditionalFree>
-<basePrice><![CDATA[50000]]></basePrice>
+<basePrice>
+<![CDATA[ 50000 ]]>
+</basePrice>
 </conditionalFree>
 <surchargeByArea>
-<splitUnit><![CDATA[3]]></splitUnit>
-<area2Price><![CDATA[2500]]></area2Price>
-<area3Price><![CDATA[0]]></area3Price>
+<splitUnit>
+<![CDATA[ 3 ]]>
+</splitUnit>
+<area2Price>
+<![CDATA[ 2500 ]]>
+</area2Price>
+<area3Price>
+<![CDATA[ 0 ]]>
+</area3Price>
 </surchargeByArea>
 </shippingPolicy>
-<ecMallProductId><![CDATA[731168]]></ecMallProductId>
-<id><![CDATA[731168]]></id>
-<imageUrl><![CDATA[http://contents.sixshop.com/thumbnails/uploadedFiles/82750/product/image_1547364054751_750.jpg]]></imageUrl>
-<infoUrl><![CDATA[https://www.livingcreator.com/product/rubbergloves]]></infoUrl>
-<merchantProductId><![CDATA[0]]></merchantProductId>
-<name><![CDATA[다용도 수세미 실리콘장갑]]></name>
-<basePrice><![CDATA[19500]]></basePrice>
+<ecMallProductId>
+<![CDATA[ 731144 ]]>
+</ecMallProductId>
+<id>
+<![CDATA[ 731144 ]]>
+</id>
+<imageUrl>
+<![CDATA[
+http://contents.sixshop.com/thumbnails/uploadedFiles/82750/product/image_1547363574630_750.jpg
+]]>
+</imageUrl>
+<infoUrl>
+<![CDATA[ https://www.livingcreator.com/product/knife1 ]]>
+</infoUrl>
+<merchantProductId>
+<![CDATA[ 0 ]]>
+</merchantProductId>
+<name>
+<![CDATA[ 블럭나이프 ]]>
+</name>
+<basePrice>
+<![CDATA[ 1900 ]]>
+</basePrice>
 </product>
 </products>
