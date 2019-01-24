@@ -1,1 +1,34 @@
-working?????~~~~~~
+<?xml version="1.0" encoding="UTF-8"?>
+<order>
+  <product>
+    <id>733312</id>
+    <merchantProductId>0</merchantProductId>
+    <ecMallProductId>733312</ecMallProductId>
+    <name>앙고라반팔니트</name>
+    <basePrice>58000</basePrice>
+    <taxType>TAX</taxType>
+    <infoUrl>https://www.montdesong.com/product/untitled-40</infoUrl>
+    <imageUrl>http://contents.sixshop.com/thumbnails/uploadedFiles/83324/product/image_1547531421291_750.jpg</imageUrl>
+    <single>
+      <quantity>1</quantity>
+    </single>
+    <shippingPolicy>
+      <groupId></groupId>
+      <method></method>
+      <feePayType>PREPAYED</feePayType>
+      <feeType>CONDITIONAL_FREE</feeType>
+      <feePrice>3000</feePrice>
+      <conditionalFree>
+        <basePrice>70000</basePrice>
+      </conditionalFree>
+      <surchargeByArea>
+        <splitUnit>3</splitUnit>
+        <area2Price>2500</area2Price>
+        <area3Price>2500</area3Price>
+      </surchargeByArea>
+    </shippingPolicy>
+  </product>
+  <merchantId>lolly321</merchantId>
+  <certiKey>7A731560-F6B0-4F9E-95EB-B82171AA3339</certiKey>
+  <backUrl>https://www.montdesong.com/product/untitled-40</backUrl>
+</order>

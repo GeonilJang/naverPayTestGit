@@ -1,63 +1,41 @@
-<products>
-<product>
-<optionSupport>
-<![CDATA[ false ]]>
-</optionSupport>
-<shippingPolicy>
-<groupId>
-<![CDATA[ ]]>
-</groupId>
-<method>
-<![CDATA[ ]]>
-</method>
-<feePayType>
-<![CDATA[ PREPAYED ]]>
-</feePayType>
-<feeType>
-<![CDATA[ CONDITIONAL_FREE ]]>
-</feeType>
-<feePrice>
-<![CDATA[ 2500 ]]>
-</feePrice>
-<conditionalFree>
-<basePrice>
-<![CDATA[ 50000 ]]>
-</basePrice>
-</conditionalFree>
-<surchargeByArea>
-<splitUnit>
-<![CDATA[ 3 ]]>
-</splitUnit>
-<area2Price>
-<![CDATA[ 2500 ]]>
-</area2Price>
-<area3Price>
-<![CDATA[ 0 ]]>
-</area3Price>
-</surchargeByArea>
-</shippingPolicy>
-<ecMallProductId>
-<![CDATA[ 731144 ]]>
-</ecMallProductId>
-<id>
-<![CDATA[ 731144 ]]>
-</id>
-<imageUrl>
-<![CDATA[
-http://contents.sixshop.com/thumbnails/uploadedFiles/82750/product/image_1547363574630_750.jpg
-]]>
-</imageUrl>
-<infoUrl>
-<![CDATA[ https://www.livingcreator.com/product/knife1 ]]>
-</infoUrl>
-<merchantProductId>
-<![CDATA[ 0 ]]>
-</merchantProductId>
-<name>
-<![CDATA[ 블럭나이프 ]]>
-</name>
-<basePrice>
-<![CDATA[ 1900 ]]>
-</basePrice>
-</product>
-</products>
+<response>
+  <item id="3433">
+    <name>
+      <![CDATA[ 그랜드우성 ]]>
+    </name>
+    <url>
+      <![CDATA[http://jubangtech.co.krhttp://jubangtech.co.kr/mall/m_mall_detail.php?ps_goid=3433]]>
+    </url>
+    <description>
+      <![CDATA[
+        <div style=\"text-align: center;\"><div style=\"text-align: center;\"><div style=\"text-align: center;\"><div style=\"text-align: center;\"><div style=\"text-align: center;\"><div style=\"text-align: center;\"><div style=\"text-align: center;\"><div style=\"text-align: center;\"><div style=\"text-align: center;\"><div style=\"text-align: center;\"><div style=\"text-align: center;\"><div style=\"text-align: center;\"><div style=\"text-align: center;\"><div style=\"text-align: center;\"><div style=\"text-align: center;\"><div style=\"text-align: center;\"><div style=\"text-align: center;\"><div style=\"text-align: center;\"><div style=\"text-align: center;\"><div style=\"text-align: center;\"><div style=\"text-align: center;\"><div style=\"text-align: center;\"><div style=\"text-align: center;\"><div style=\"text-align: center;\"><div style=\"text-align: center;\"><div style=\"text-align: center;\"><div style=\"text-align: center;\"><div style=\"text-align: center;\"><div style=\"text-align: center;\"><div style=\"text-align: center;\"><div style=\"text-align: center;\"><div style=\"text-align: center;\"><div style=\"text-align: center;\"><div style=\"text-align: center;\"><img width=\"800\" height=\"1000\" style=\"border: currentColor; border-image: none;\" alt=\"1.jpg\" src=\"http://www.upsobank.co.kr/mall/cheditor/attach/acSv1CypdpNJ51.jpg\"></div><br></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>
+      ]]>
+    </description>
+    <image>
+      <![CDATA[http://jubangtech.co.krhttp://jubangtech.co.kr/mall/shop_image/201807/215_1%281%29.jpg]]>
+    </image>
+    <thumb>
+      <![CDATA[http://jubangtech.co.krhttp://jubangtech.co.kr/mall/shop_image/201807/215_1%281%29.jpg]]>
+    </thumb>
+    <price>1590000</price>
+    <quantity>100</quantity>
+    <category>
+      <first id="MJ01">
+        <![CDATA[ 서랍식 냉장고 ]]>
+      </first>
+      <second id="ML01">
+        <![CDATA[ 서랍식냉장고 ]]>
+      </second>
+    </category>
+    <options>
+      <option name="기계실위치">
+        <select>
+          <![CDATA[ 전면좌측 ]]>
+        </select>
+        <select>
+          <![CDATA[ 전면우측 ]]>
+        </select>
+      </option>
+    </options>
+  </item>
+</response>

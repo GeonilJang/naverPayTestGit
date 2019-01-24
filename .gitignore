@@ -1,6 +1,6 @@
 *.java
 *.class
-Order.xml
+*.XML
 java/
 기록보고/
 *.ftpconfig
