@@ -1,41 +1,66 @@
-<response>
-  <item id="3433">
-    <name>
-      <![CDATA[ 그랜드우성 ]]>
-    </name>
-    <url>
-      <![CDATA[http://jubangtech.co.krhttp://jubangtech.co.kr/mall/m_mall_detail.php?ps_goid=3433]]>
-    </url>
-    <description>
-      <![CDATA[
-        <div style=\"text-align: center;\"><div style=\"text-align: center;\"><div style=\"text-align: center;\"><div style=\"text-align: center;\"><div style=\"text-align: center;\"><div style=\"text-align: center;\"><div style=\"text-align: center;\"><div style=\"text-align: center;\"><div style=\"text-align: center;\"><div style=\"text-align: center;\"><div style=\"text-align: center;\"><div style=\"text-align: center;\"><div style=\"text-align: center;\"><div style=\"text-align: center;\"><div style=\"text-align: center;\"><div style=\"text-align: center;\"><div style=\"text-align: center;\"><div style=\"text-align: center;\"><div style=\"text-align: center;\"><div style=\"text-align: center;\"><div style=\"text-align: center;\"><div style=\"text-align: center;\"><div style=\"text-align: center;\"><div style=\"text-align: center;\"><div style=\"text-align: center;\"><div style=\"text-align: center;\"><div style=\"text-align: center;\"><div style=\"text-align: center;\"><div style=\"text-align: center;\"><div style=\"text-align: center;\"><div style=\"text-align: center;\"><div style=\"text-align: center;\"><div style=\"text-align: center;\"><div style=\"text-align: center;\"><img width=\"800\" height=\"1000\" style=\"border: currentColor; border-image: none;\" alt=\"1.jpg\" src=\"http://www.upsobank.co.kr/mall/cheditor/attach/acSv1CypdpNJ51.jpg\"></div><br></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>
-      ]]>
-    </description>
-    <image>
-      <![CDATA[http://jubangtech.co.krhttp://jubangtech.co.kr/mall/shop_image/201807/215_1%281%29.jpg]]>
-    </image>
-    <thumb>
-      <![CDATA[http://jubangtech.co.krhttp://jubangtech.co.kr/mall/shop_image/201807/215_1%281%29.jpg]]>
-    </thumb>
-    <price>1590000</price>
-    <quantity>100</quantity>
-    <category>
-      <first id="MJ01">
-        <![CDATA[ 서랍식 냉장고 ]]>
-      </first>
-      <second id="ML01">
-        <![CDATA[ 서랍식냉장고 ]]>
-      </second>
-    </category>
-    <options>
-      <option name="기계실위치">
-        <select>
-          <![CDATA[ 전면좌측 ]]>
-        </select>
-        <select>
-          <![CDATA[ 전면우측 ]]>
-        </select>
-      </option>
-    </options>
-  </item>
-</response>
+<products>
+<product>
+<id>1000000077</id>
+<ecMallProductId>1000000077</ecMallProductId>
+<name><![CDATA[코메론 줄자 KMC-74N 프로라인 노랑]]></name>
+<basePrice>4600</basePrice>
+<taxType>TAX</taxType>
+<infoUrl><![CDATA[http://amtool.co.kr/goods/goods_view.php?inflow=naverPay&goodsNo=1000000077]]></infoUrl>
+<imageUrl><![CDATA[http://www.amtool.co.kr/data/goods/19/01/03/1000000077/1000000077_main_03.jpg]]></imageUrl>
+<status>ON_SALE</status>
+<supplementSupport>false</supplementSupport>
+<optionSupport>true</optionSupport>
+<returnShippingFee>3000</returnShippingFee>
+<exchangeShippingFee>6000</exchangeShippingFee>
+<shippingPolicy>
+<method>DELIVERY</method>
+<groupId>1</groupId>
+<feePayType>PREPAYED</feePayType>
+<feePrice>2500</feePrice>
+<feeType>CHARGE</feeType>
+<surchargeByArea>
+<splitUnit>3</splitUnit>
+<area2Price>4000</area2Price>
+<area3Price>5000</area3Price>
+</surchargeByArea>
+</shippingPolicy>
+<option>
+<optionItem>
+<type>SELECT</type>
+<name><![CDATA[길이선택]]></name>
+<value>
+<id>S_5e5833fb96739ef0807d9204980a73</id>
+<text><![CDATA[KMC-74N (2M)]]></text>
+</value>
+<value>
+<id>S_1f86f162426608bb22b448b0299ec9</id>
+<text><![CDATA[KMC-74N (3.5M)]]></text>
+</value>
+<value>
+<id>S_9381f36dde5fc8f750dc7cf67ac742</id>
+<text><![CDATA[KMC-74N (5M)]]></text>
+</value>
+<value>
+<id>S_2734d5ee3032889d952d309d952866</id>
+<text><![CDATA[KMC-74N (7.5M)]]></text>
+</value>
+</optionItem>
+<combination>
+<manageCode>option136</manageCode>
+<options>
+<name><![CDATA[길이선택]]></name>
+<id>S_9381f36dde5fc8f750dc7cf67ac742</id>
+</options>
+<price>4900</price>
+</combination>
+<combination>
+<manageCode>option134</manageCode>
+<options>
+<name><![CDATA[길이선택]]></name>
+<id>S_5e5833fb96739ef0807d9204980a73</id>
+</options>
+<price>0</price>
+</combination>
+</option>
+</product>
+</products>
