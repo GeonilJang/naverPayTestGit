@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <products>
 <product>
 <id>1000000039</id>
@@ -313,10 +312,12 @@
 <id>S_10ce1fc3f90da6b8d62346f23604c7</id>
 </options>
 <options>
-<name><![CDATA[글씨필요시 추가 쓰고 톡주세요]]></name>
+<name><![CDATA[글씨필요시 &#039;추가&#039; 쓰고 톡주세요]]></name>
+<id>T37</id>
 </options>
 <options>
 <name><![CDATA[없을시 공란으로 남겨주세요]]></name>
+<id>T38</id>
 </options>
 <price>0</price>
 </combination>
