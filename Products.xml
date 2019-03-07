@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <products>
 <product>
 <id>1000000039</id>
@@ -12,8 +13,6 @@
 <optionSupport>true</optionSupport>
 <returnShippingFee>2600</returnShippingFee>
 <exchangeShippingFee>5200</exchangeShippingFee>
-
-
 <shippingPolicy>
 <method>DELIVERY</method>
 <groupId>2</groupId>
@@ -29,7 +28,6 @@
 <area3Price>5000</area3Price>
 </surchargeByArea>
 </shippingPolicy>
-
 <option>
 <optionItem>
 <type>SELECT</type>
@@ -44,7 +42,7 @@
 </value>
 <value>
 <id>S_24e184b5eed5c9dc25e75084c0cf83</id>
-<text><![CDATA[3.흑��� 커튼 패턴]]></text>
+<text><![CDATA[3.흑백 커튼 패턴]]></text>
 </value>
 </optionItem>
 <optionItem>
@@ -303,7 +301,6 @@
 <type>INPUT</type>
 <name><![CDATA[없을시 공란으로 남겨주세요]]></name>
 </optionItem>
-
 <combination>
 <manageCode>option13344</manageCode>
 <stockQuantity>999</stockQuantity>
@@ -321,20 +318,14 @@
 </options>
 <options>
 <name><![CDATA[글씨필요시 추가 쓰고 톡주세요]]></name>
+<id>T37</id>
 </options>
 <options>
 <name><![CDATA[없을시 공란으로 남겨주세요]]></name>
+<id>T38</id>
 </options>
-<price>1</price>
+<price>0</price>
 </combination>
-
-
-
 </option>
-
-
-
-
-
 </product>
 </products>
