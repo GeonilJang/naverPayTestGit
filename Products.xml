@@ -41,7 +41,7 @@
 </value>
 <value>
 <id>S_24e184b5eed5c9dc25e75084c0cf83</id>
-<text><![CDATA[3.흑백 커튼 패턴]]></text>
+<text><![CDATA[3.흑��� 커튼 패턴]]></text>
 </value>
 </optionItem>
 <optionItem>
@@ -295,10 +295,12 @@
 <optionItem>
 <type>INPUT</type>
 <name><![CDATA[글씨필요시 추가 쓰고 톡주세요]]></name>
+<id>T37</id>
 </optionItem>
 <optionItem>
 <type>INPUT</type>
 <name><![CDATA[없을시 공란으로 남겨주세요]]></name>
+<id>T38</id>
 </optionItem>
 <combination>
 <manageCode>option13344</manageCode>
@@ -317,9 +319,11 @@
 </options>
 <options>
 <name><![CDATA[글씨필요시 추가 쓰고 톡주세요]]></name>
+<id>T37</id>
 </options>
 <options>
 <name><![CDATA[없을시 공란으로 남겨주세요]]></name>
+<id>T38</id>
 </options>
 <price>0</price>
 </combination>
