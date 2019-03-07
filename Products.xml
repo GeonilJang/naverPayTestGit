@@ -1,12 +1,12 @@
 <products>
 <product>
-<id>1000000039</id>
-<ecMallProductId>1000000039</ecMallProductId>
-<name><![CDATA[B&W 패턴 핸드폰 케이스1]]></name>
+<id>1000000034</id>
+<ecMallProductId>1000000034</ecMallProductId>
+<name><![CDATA[극지방 동물 라인 핸드폰 케이스 2]]></name>
 <basePrice>16000</basePrice>
 <taxType>TAX</taxType>
-<infoUrl><![CDATA[http://snappingfingers.co.kr/goods/goods_view.php?inflow=naverPay&goodsNo=1000000039]]></infoUrl>
-<imageUrl><![CDATA[http://www.snappingfingers.co.kr/data/goods/19/02/08/1000000039/1000000039_main_053.png]]></imageUrl>
+<infoUrl><![CDATA[http://snappingfingers.co.kr/goods/goods_view.php?inflow=naverPay&goodsNo=1000000034]]></infoUrl>
+<imageUrl><![CDATA[http://www.snappingfingers.co.kr/data/goods/19/02/08/1000000034/1000000034_main_068.png]]></imageUrl>
 <status>ON_SALE</status>
 <supplementSupport>false</supplementSupport>
 <optionSupport>true</optionSupport>
@@ -32,16 +32,16 @@
 <type>SELECT</type>
 <name><![CDATA[디자인]]></name>
 <value>
-<id>S_7e706fe8485755dac15f621a06f682</id>
-<text><![CDATA[1.흑백 구름 패턴]]></text>
+<id>S_8ba96b33b15fa2e6c1b6b3ea63f6cb</id>
+<text><![CDATA[1.황제 펭귄 무리 패턴]]></text>
 </value>
 <value>
-<id>S_f68d1f95524b351e5e1887c04e0cff</id>
-<text><![CDATA[2.흑백 그물 패턴]]></text>
+<id>S_23590493ddd5c89c4dafc8a8c55f37</id>
+<text><![CDATA[2.물개 무리 패턴]]></text>
 </value>
 <value>
-<id>S_24e184b5eed5c9dc25e75084c0cf83</id>
-<text><![CDATA[3.흑백 커튼 패턴]]></text>
+<id>S_58f16176fa8ba4c021ce510eff8066</id>
+<text><![CDATA[3.벨루가 무리 패턴]]></text>
 </value>
 </optionItem>
 <optionItem>
@@ -297,11 +297,11 @@
 <name><![CDATA[없을시 공란으로 남겨주세요]]></name>
 </optionItem>
 <combination>
-<manageCode>option13344</manageCode>
+<manageCode>option10944</manageCode>
 <stockQuantity>999</stockQuantity>
 <options>
 <name><![CDATA[디자인]]></name>
-<id>S_7e706fe8485755dac15f621a06f682</id>
+<id>S_8ba96b33b15fa2e6c1b6b3ea63f6cb</id>
 </options>
 <options>
 <name><![CDATA[재질]]></name>
@@ -312,12 +312,12 @@
 <id>S_10ce1fc3f90da6b8d62346f23604c7</id>
 </options>
 <options>
-<name><![CDATA[글씨필요시 &#039;추가&#039; 쓰고 톡주세요]]></name>
-<id>T37</id>
+<name><![CDATA[글씨필요시 추가 쓰고 톡주세요]]></name>
+<id>T27</id>
 </options>
 <options>
 <name><![CDATA[없을시 공란으로 남겨주세요]]></name>
-<id>T38</id>
+<id>T28</id>
 </options>
 <price>0</price>
 </combination>
