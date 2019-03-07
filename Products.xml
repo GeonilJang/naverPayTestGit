@@ -295,10 +295,12 @@
 <optionItem>
 <type>INPUT</type>
 <name><![CDATA[글씨필요시 추가 쓰고 톡주세요]]></name>
+<id>T37</id>
 </optionItem>
 <optionItem>
 <type>INPUT</type>
 <name><![CDATA[없을시 공란으로 남겨주세요]]></name>
+<id>T38</id>
 </optionItem>
 <combination>
 <manageCode>option13344</manageCode>
