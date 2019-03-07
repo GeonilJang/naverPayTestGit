@@ -300,7 +300,6 @@
 <type>INPUT</type>
 <name><![CDATA[없을시 공란으로 남겨주세요]]></name>
 </optionItem>
-
 <combination>
 <manageCode>option13344</manageCode>
 <stockQuantity>999</stockQuantity>
@@ -324,8 +323,6 @@
 </options>
 <price>0</price>
 </combination>
-
-
 </option>
 </product>
 </products>
