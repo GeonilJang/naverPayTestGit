@@ -12,6 +12,8 @@
 <optionSupport>true</optionSupport>
 <returnShippingFee>2600</returnShippingFee>
 <exchangeShippingFee>5200</exchangeShippingFee>
+
+
 <shippingPolicy>
 <method>DELIVERY</method>
 <groupId>2</groupId>
@@ -27,6 +29,7 @@
 <area3Price>5000</area3Price>
 </surchargeByArea>
 </shippingPolicy>
+
 <option>
 <optionItem>
 <type>SELECT</type>
