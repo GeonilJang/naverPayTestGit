@@ -300,6 +300,7 @@
 <type>INPUT</type>
 <name><![CDATA[없을시 공란으로 남겨주세요]]></name>
 </optionItem>
+
 <combination>
 <manageCode>option13344</manageCode>
 <stockQuantity>999</stockQuantity>
@@ -316,7 +317,7 @@
 <id>S_10ce1fc3f90da6b8d62346f23604c7</id>
 </options>
 <options>
-<name><![CDATA[글씨필요시 &#039;추가&#039; 쓰고 톡주세요]]></name>
+<name><![CDATA[글씨필요시 추가 쓰고 톡주세요]]></name>
 <id>T37</id>
 </options>
 <options>
@@ -325,6 +326,10 @@
 </options>
 <price>0</price>
 </combination>
+
+
+
+
 </option>
 </product>
 </products>
