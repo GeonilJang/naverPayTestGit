@@ -1,326 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
 <products>
-<product>
-<id>1000000034</id>
-<ecMallProductId>1000000034</ecMallProductId>
-<name><![CDATA[극지방 동물 라인 핸드폰 케이스 2]]></name>
-<basePrice>16000</basePrice>
-<taxType>TAX</taxType>
-<infoUrl><![CDATA[http://snappingfingers.co.kr/goods/goods_view.php?inflow=naverPay&goodsNo=1000000034]]></infoUrl>
-<imageUrl><![CDATA[http://www.snappingfingers.co.kr/data/goods/19/02/08/1000000034/1000000034_main_068.png]]></imageUrl>
-<status>ON_SALE</status>
-<supplementSupport>false</supplementSupport>
-<optionSupport>true</optionSupport>
-<returnShippingFee>2600</returnShippingFee>
-<exchangeShippingFee>5200</exchangeShippingFee>
-<shippingPolicy>
-<method>DELIVERY</method>
-<groupId>2</groupId>
-<conditionalFree>
-<basePrice>100000</basePrice>
-</conditionalFree>
-<feePayType>PREPAYED</feePayType>
-<feePrice>2600</feePrice>
-<feeType>CONDITIONAL_FREE</feeType>
-<surchargeByArea>
-<splitUnit>3</splitUnit>
-<area2Price>5000</area2Price>
-<area3Price>5000</area3Price>
-</surchargeByArea>
-</shippingPolicy>
-<option>
-<optionItem>
-<type>SELECT</type>
-<name><![CDATA[디자인]]></name>
-<value>
-<id>S_8ba96b33b15fa2e6c1b6b3ea63f6cb</id>
-<text><![CDATA[1.황제 펭귄 무리 패턴]]></text>
-</value>
-<value>
-<id>S_23590493ddd5c89c4dafc8a8c55f37</id>
-<text><![CDATA[2.물개 무리 패턴]]></text>
-</value>
-<value>
-<id>S_58f16176fa8ba4c021ce510eff8066</id>
-<text><![CDATA[3.벨루가 무리 패턴]]></text>
-</value>
-</optionItem>
-<optionItem>
-<type>SELECT</type>
-<name><![CDATA[재질]]></name>
-<value>
-<id>S_1a0bebed1fa6ce3f533fb18d22acb1</id>
-<text><![CDATA[젤리 케이스]]></text>
-</value>
-<value>
-<id>S_16b76f2aca163129c2888ce5fcefb3</id>
-<text><![CDATA[무광 하드 케이스]]></text>
-</value>
-<value>
-<id>S_7c49c09f1d8eb3a40fd54f85db2850</id>
-<text><![CDATA[유광 하드 케이스]]></text>
-</value>
-<value>
-<id>S_4cf1e2bda52395ff5d5ffc56c170f5</id>
-<text><![CDATA[카드 케이스]]></text>
-</value>
-</optionItem>
-<optionItem>
-<type>SELECT</type>
-<name><![CDATA[기종]]></name>
-<value>
-<id>S_10ce1fc3f90da6b8d62346f23604c7</id>
-<text><![CDATA[아이폰5]]></text>
-</value>
-<value>
-<id>S_ecff0aa5d73c8fa16a881ef6beb01e</id>
-<text><![CDATA[아이폰6]]></text>
-</value>
-<value>
-<id>S_dbeebb577cca606cf13cb3f649fd0f</id>
-<text><![CDATA[아이폰6 플러스]]></text>
-</value>
-<value>
-<id>S_20635412fe048cfc7cf079a36004db</id>
-<text><![CDATA[아이폰7/8]]></text>
-</value>
-<value>
-<id>S_2708258a94895ba37c8c332e628b7c</id>
-<text><![CDATA[아이폰7/8 플러스]]></text>
-</value>
-<value>
-<id>S_312036a484b01fd161199641289f7a</id>
-<text><![CDATA[아이폰X/XS]]></text>
-</value>
-<value>
-<id>S_9ea44ad5751c56c5e3832e51bb5793</id>
-<text><![CDATA[아이폰 XR]]></text>
-</value>
-<value>
-<id>S_4676429e41441760261b55a0eb1b6b</id>
-<text><![CDATA[아이폰 XS MAX]]></text>
-</value>
-<value>
-<id>S_ba236bd8d6c3e77937adbdfd11019b</id>
-<text><![CDATA[갤럭시 A5(A520) 2017]]></text>
-</value>
-<value>
-<id>S_be8dc834aa20127f4f66f862f6d82a</id>
-<text><![CDATA[갤럭시 A7(A720) 2017]]></text>
-</value>
-<value>
-<id>S_08ccb73f3bc4a21e67bed0c1b2ee2f</id>
-<text><![CDATA[갤럭시 A8(A810) 2016]]></text>
-</value>
-<value>
-<id>S_f4d33718bdec9d1d07f5418e035dcc</id>
-<text><![CDATA[갤럭시 A8(A530)2018]]></text>
-</value>
-<value>
-<id>S_72575f9360e9d2f1ec8defac42a29b</id>
-<text><![CDATA[갤럭시 ON7(G610) 2016]]></text>
-</value>
-<value>
-<id>S_cddeec1a362c214ecdb042d5258a40</id>
-<text><![CDATA[갤럭시 그랜드 맥스 (G720)]]></text>
-</value>
-<value>
-<id>S_b5554c59bdc6b738d655692a02cdb6</id>
-<text><![CDATA[갤럭시 A6(A600) 2018]]></text>
-</value>
-<value>
-<id>S_0ab4c03bbcb5cad721407b3b581aff</id>
-<text><![CDATA[갤럭시 A6+(A605) 2018]]></text>
-</value>
-<value>
-<id>S_d472f304ccff532e3ea29b4137bad7</id>
-<text><![CDATA[갤럭시 S6 EDGE (G925)]]></text>
-</value>
-<value>
-<id>S_3924ec7aa2bca0d4c0b3ad50f25411</id>
-<text><![CDATA[갤럭시 S6 EDGE 플러스(G928)]]></text>
-</value>
-<value>
-<id>S_59ed190e9099bc6a68694c636dbb5c</id>
-<text><![CDATA[갤럭시 S7(G930)]]></text>
-</value>
-<value>
-<id>S_8712a2c574628ceb308871d03a5dd0</id>
-<text><![CDATA[갤럭시 S7 EDGE(G935)]]></text>
-</value>
-<value>
-<id>S_eb64ec8e6a28e4cc228e29919101eb</id>
-<text><![CDATA[갤럭시 S8(G950)]]></text>
-</value>
-<value>
-<id>S_3705637b8deedffd2b8117c99e8a95</id>
-<text><![CDATA[갤럭시 S8 플러스(G955)]]></text>
-</value>
-<value>
-<id>S_504022c8bcb9bf3d40955840094da3</id>
-<text><![CDATA[갤럭시 S9(G960)]]></text>
-</value>
-<value>
-<id>S_2b6b8204899b529a33849275bb570f</id>
-<text><![CDATA[갤럭시 S9 PLUS(G965)]]></text>
-</value>
-<value>
-<id>S_6c83fb20b0941d12c33e320c467cbb</id>
-<text><![CDATA[갤럭시 A8 스타(G885) 2016]]></text>
-</value>
-<value>
-<id>S_754b6e93b51910136de3515d58ce19</id>
-<text><![CDATA[갤러시 J3(J320) 2016]]></text>
-</value>
-<value>
-<id>S_d1fd7188036f8f0386a873764ff695</id>
-<text><![CDATA[갤러시 J3(J330) 2017]]></text>
-</value>
-<value>
-<id>S_d511fb80208635374e340eac05093a</id>
-<text><![CDATA[갤럭시 J5(J510) 2016]]></text>
-</value>
-<value>
-<id>S_478d6b8c6029df671656d3d0567df0</id>
-<text><![CDATA[갤럭시 J5(J530) 2017]]></text>
-</value>
-<value>
-<id>S_7d9d68f0b2bfcbb0d5492d3adda738</id>
-<text><![CDATA[갤럭시 J7(J730) 2017]]></text>
-</value>
-<value>
-<id>S_91d3c02d648602912a200ab0e58c0e</id>
-<text><![CDATA[갤럭시 J7(J710) 2016]]></text>
-</value>
-<value>
-<id>S_8c29c63e9ff6d1e1c454d3de819ed0</id>
-<text><![CDATA[갤럭시 와이드2(J727)]]></text>
-</value>
-<value>
-<id>S_3169879b29250c662dd62f48eb5319</id>
-<text><![CDATA[갤럭시 와이드3(J737)]]></text>
-</value>
-<value>
-<id>S_aa8b09910659a8f777cd50db7b29ac</id>
-<text><![CDATA[갤럭시 J6(J600)]]></text>
-</value>
-<value>
-<id>S_cc1a20c95c53f5de0d9c37daea0702</id>
-<text><![CDATA[갤럭시 노트4(N910)]]></text>
-</value>
-<value>
-<id>S_f5326a8220a6a4cb8cb199ea7232e6</id>
-<text><![CDATA[갤럭시 노트5(N920)]]></text>
-</value>
-<value>
-<id>S_857ca4c08503f6b4e787dffa4ae167</id>
-<text><![CDATA[갤럭시 노트FE(N925)]]></text>
-</value>
-<value>
-<id>S_0c04ca309e1e36989e1c508e59d725</id>
-<text><![CDATA[갤럭시 노트8(N950)]]></text>
-</value>
-<value>
-<id>S_b7800e7e30b4d3c121324a828e39ae</id>
-<text><![CDATA[갤럭시 노트9(N960)]]></text>
-</value>
-<value>
-<id>S_da7c582fbdc8913544829588346e59</id>
-<text><![CDATA[LG G5]]></text>
-</value>
-<value>
-<id>S_7a6ee2058e214ad55bf09bca814c44</id>
-<text><![CDATA[LG G6]]></text>
-</value>
-<value>
-<id>S_582c8ff9b766bd686f3e6be458da39</id>
-<text><![CDATA[LG G7]]></text>
-</value>
-<value>
-<id>S_26a03af17c02a284424a71475c35cf</id>
-<text><![CDATA[LG V20]]></text>
-</value>
-<value>
-<id>S_c02bc20eb456f45375b6ca048b3796</id>
-<text><![CDATA[LG V30]]></text>
-</value>
-<value>
-<id>S_31d7fdc987f39d12ef02d6196d2306</id>
-<text><![CDATA[LG V40]]></text>
-</value>
-<value>
-<id>S_224b76c51b9a6abaee4c8e42ca59d8</id>
-<text><![CDATA[LG X4+]]></text>
-</value>
-<value>
-<id>S_ecff0aa5d73c8fa16a881ef6beb01e</id>
-<text><![CDATA[아이폰 6]]></text>
-</value>
-<value>
-<id>S_dbeebb577cca606cf13cb3f649fd0f</id>
-<text><![CDATA[아이폰 6 플러스]]></text>
-</value>
-<value>
-<id>S_20635412fe048cfc7cf079a36004db</id>
-<text><![CDATA[아이폰 7/8]]></text>
-</value>
-<value>
-<id>S_2708258a94895ba37c8c332e628b7c</id>
-<text><![CDATA[아이폰 7/8 플러스]]></text>
-</value>
-<value>
-<id>S_312036a484b01fd161199641289f7a</id>
-<text><![CDATA[아이폰 X/XS]]></text>
-</value>
-<value>
-<id>S_c45c7acceed4ecc5f63030496f38b1</id>
-<text><![CDATA[갤럭시 A5(A510) 2016]]></text>
-</value>
-<value>
-<id>S_8e6c404085445b56e3ac324c086f70</id>
-<text><![CDATA[갤럭시 A7(A710) 2016]]></text>
-</value>
-<value>
-<id>S_9cb29bcc1581cdee852f2cb1638c57</id>
-<text><![CDATA[갤럭시 S6]]></text>
-</value>
-<value>
-<id>S_ac97116e4f6bc9ab58ce09a1a19445</id>
-<text><![CDATA[갤럭시 노트7]]></text>
-</value>
-</optionItem>
-<optionItem>
-<type>INPUT</type>
-<name><![CDATA[글씨필요시 추가 쓰고 톡주세요]]></name>
-</optionItem>
-<optionItem>
-<type>INPUT</type>
-<name><![CDATA[없을시 공란으로 남겨주세요]]></name>
-</optionItem>
-<combination>
-<manageCode>option10944</manageCode>
-<stockQuantity>999</stockQuantity>
-<options>
-<name><![CDATA[디자인]]></name>
-<id>S_8ba96b33b15fa2e6c1b6b3ea63f6cb</id>
-</options>
-<options>
-<name><![CDATA[재질]]></name>
-<id>S_1a0bebed1fa6ce3f533fb18d22acb1</id>
-</options>
-<options>
-<name><![CDATA[기종]]></name>
-<id>S_10ce1fc3f90da6b8d62346f23604c7</id>
-</options>
-<options>
-<name><![CDATA[글씨필요시 추가 쓰고 톡주세요]]></name>
-<id>T27</id>
-</options>
-<options>
-<name><![CDATA[없을시 공란으로 남겨주세요]]></name>
-<id>T28</id>
-</options>
-<price>0</price>
-</combination>
-</option>
-</product>
+  <product>
+    <id>196</id>
+    <name>
+      <![CDATA[2ml mini oil ; 악어포켓]]>
+    </name>
+    <taxType>TAX</taxType>
+    <infoUrl>
+      <![CDATA[http://verde.imweb.me/19/?idx=196]]>
+    </infoUrl>
+    <imageUrl>
+      <![CDATA[http://cdn.imweb.me/upload/S201711125a078d130f9df/5c73c7f048ff6.jpeg]]>
+    </imageUrl>
+    <status>ON_SALE</status>
+    <optionSupport>true</optionSupport>
+    <option>
+      <optionItem>
+        <type>SELECT</type>
+        <name>
+          <![CDATA[2ml미니오일병]]>
+        </name>
+        <value>
+          <id>
+            <![CDATA[O201902255c73c87c4916c]]>
+          </id>
+          <text>
+            <![CDATA[10개]]>
+          </text>
+          <status>true</status>
+        </value>
+      </optionItem>
+    </option>
+
+
+    <shippingPolicy>
+      <groupId>
+        <![CDATA[d201808305b8707dd074a6]]>
+      </groupId>
+      <method>DELIVERY</method>
+      <feeType>CONDITIONAL_FREE</feeType>
+      <feePayType>PREPAYED</feePayType>
+      <feePrice>2500</feePrice>
+      <conditionalFree>
+        <basePrice>50000</basePrice>
+      </conditionalFree>
+      <surchargeByArea>
+        <apiSupport>false</apiSupport>
+        <splitUnit>2</splitUnit>
+        <area2Price>3000</area2Price>
+        <area3Price>3000</area3Price>
+      </surchargeByArea>
+    </shippingPolicy>
+  </product>
 </products>
