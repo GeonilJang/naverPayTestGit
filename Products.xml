@@ -1,48 +1,61 @@
 <?xml version='1.0' encoding='utf-8'?>
 <products>
   <product>
-    <id>196</id>
-    <name><![CDATA[2ml mini oil ; 악어포켓]]></name>
+    <id>461</id>
+    <name>
+      <![CDATA[나삥상하세트(-17호까지)]]>
+    </name>
     <taxType>TAX</taxType>
-    <infoUrl><![CDATA[http://verde.imweb.me/19/?idx=196]]></infoUrl>
-    <imageUrl><![CDATA[http://cdn.imweb.me/upload/S201711125a078d130f9df/5c73c7f048ff6.jpeg]]></imageUrl>
+    <infoUrl>
+      <![CDATA[http://nunuozang.imweb.me/72/?idx=461]]>
+    </infoUrl>
+    <imageUrl>
+      <![CDATA[http://cdn.imweb.me/upload/S201802265a935dcf289b3/5c7f693774a79.jpg]]>
+    </imageUrl>
     <status>ON_SALE</status>
     <optionSupport>true</optionSupport>
     <option>
       <optionItem>
         <type>SELECT</type>
-        <name><![CDATA[2ml미니오일병]]></name>
+        <name><![CDATA[색상]]></name>
         <value>
-          <id><![CDATA[O201902255c73c87c4916c]]></id>
-          <text><![CDATA[10개]]></text>
+          <id><![CDATA[O201903065c7f6996eb751]]></id>
+          <text><![CDATA[퍼플]]></text>
+          <status>true</status>
         </value>
       </optionItem>
-
+      <optionItem>
+        <type>SELECT</type>
+        <name><![CDATA[사이즈]]></name>
+        <value>
+          <id><![CDATA[O201903065c7f69a655a9d]]></id>
+          <text><![CDATA[9호]]></text>
+          <status>true</status>
+        </value>
+      </optionItem>
       <combination>
-        <manageCode>i201903275c9b0413aac4c</manageCode>
+        <manageCode>i201903275c9b108b5fff6</manageCode>
         <stockQuantity>1000</stockQuantity>
         <options>
-        <name><![CDATA[2ml미니오일병]]></name>
-        <id><![CDATA[O201902255c73c87c4916c]]></id>
+        <name><![CDATA[색상]]></name>
+        <id><![CDATA[O201903065c7f6996eb751]]></id>
+        </options>
+        <options>
+        <name><![CDATA[사이즈]]></name>
+        <id><![CDATA[O201903065c7f69a655a9d]]></id>
         </options>
         <price>0</price>
-        </combination>
+      </combination>
     </option>
     <shippingPolicy>
-      <groupId><![CDATA[d201808305b8707dd074a6]]></groupId>
+      <groupId><![CDATA[d201808305b8707dd6d30a]]></groupId>
       <method>DELIVERY</method>
       <feeType>CONDITIONAL_FREE</feeType>
-      <feePayType>PREPAYED</feePayType>
-      <feePrice>2500</feePrice>
+      <feePayType>FREE</feePayType>
+      <feePrice>3000</feePrice>
       <conditionalFree>
         <basePrice>50000</basePrice>
       </conditionalFree>
-      <surchargeByArea>
-        <apiSupport>false</apiSupport>
-        <splitUnit>2</splitUnit>
-        <area2Price>3000</area2Price>
-        <area3Price>3000</area3Price>
-      </surchargeByArea>
     </shippingPolicy>
   </product>
 </products>
