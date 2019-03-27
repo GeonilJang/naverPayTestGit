@@ -2,41 +2,34 @@
 <products>
   <product>
     <id>196</id>
-    <name>
-      <![CDATA[2ml mini oil ; 악어포켓]]>
-    </name>
+    <name><![CDATA[2ml mini oil ; 악어포켓]]></name>
     <taxType>TAX</taxType>
-    <infoUrl>
-      <![CDATA[http://verde.imweb.me/19/?idx=196]]>
-    </infoUrl>
-    <imageUrl>
-      <![CDATA[http://cdn.imweb.me/upload/S201711125a078d130f9df/5c73c7f048ff6.jpeg]]>
-    </imageUrl>
+    <infoUrl><![CDATA[http://verde.imweb.me/19/?idx=196]]></infoUrl>
+    <imageUrl><![CDATA[http://cdn.imweb.me/upload/S201711125a078d130f9df/5c73c7f048ff6.jpeg]]></imageUrl>
     <status>ON_SALE</status>
     <optionSupport>true</optionSupport>
     <option>
       <optionItem>
         <type>SELECT</type>
-        <name>
-          <![CDATA[2ml미니오일병]]>
-        </name>
+        <name><![CDATA[2ml미니오일병]]></name>
         <value>
-          <id>
-            <![CDATA[O201902255c73c87c4916c]]>
-          </id>
-          <text>
-            <![CDATA[10개]]>
-          </text>
-          <status>true</status>
+          <id><![CDATA[O201902255c73c87c4916c]]></id>
+          <text><![CDATA[10개]]></text>
         </value>
       </optionItem>
+
+      <combination>
+        <manageCode>i201903275c9b0413aac4c</manageCode>
+        <stockQuantity>1000</stockQuantity>
+        <options>
+        <name><![CDATA[2ml미니오일병]]></name>
+        <id><![CDATA[O201902255c73c87c4916c]]></id>
+        </options>
+        <price>0</price>
+        </combination>
     </option>
-
-
     <shippingPolicy>
-      <groupId>
-        <![CDATA[d201808305b8707dd074a6]]>
-      </groupId>
+      <groupId><![CDATA[d201808305b8707dd074a6]]></groupId>
       <method>DELIVERY</method>
       <feeType>CONDITIONAL_FREE</feeType>
       <feePayType>PREPAYED</feePayType>
