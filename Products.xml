@@ -1,17 +1,11 @@
-<?xml version='1.0' encoding='utf-8'?>
 <products>
   <product>
-    <id>461</id>
-    <name>
-      <![CDATA[나삥상하세트(-17호까지)]]>
-    </name>
+    <id>207</id>
+    <name><![CDATA[로우테이블]]></name>
+    <basePrice>450000</basePrice>
     <taxType>TAX</taxType>
-    <infoUrl>
-      <![CDATA[http://nunuozang.imweb.me/72/?idx=461]]>
-    </infoUrl>
-    <imageUrl>
-      <![CDATA[http://cdn.imweb.me/upload/S201802265a935dcf289b3/5c7f693774a79.jpg]]>
-    </imageUrl>
+    <infoUrl><![CDATA[http://obglowsongpa.co.kr/34/?idx=207]]></infoUrl>
+    <imageUrl><![CDATA[http://cdn.imweb.me/upload/S201902105c5fb0230d66e/5c9b20e227189.jpg]]></imageUrl>
     <status>ON_SALE</status>
     <optionSupport>true</optionSupport>
     <option>
@@ -19,43 +13,36 @@
         <type>SELECT</type>
         <name><![CDATA[색상]]></name>
         <value>
-          <id><![CDATA[O201903065c7f6996eb751]]></id>
-          <text><![CDATA[퍼플]]></text>
-          <status>true</status>
-        </value>
-      </optionItem>
-      <optionItem>
-        <type>SELECT</type>
-        <name><![CDATA[사이즈]]></name>
-        <value>
-          <id><![CDATA[O201903065c7f69a655a9d]]></id>
-          <text><![CDATA[9호]]></text>
+          <id><![CDATA[O201903125c87aa619db1e]]></id>
+          <text><![CDATA[화이트(4월배송)]]></text>
           <status>true</status>
         </value>
       </optionItem>
       <combination>
-        <manageCode>i201903275c9b108b5fff6</manageCode>
-        <stockQuantity>1000</stockQuantity>
+        <manageCode>
+          <![CDATA[i201904025ca31c270535c]]>
+        </manageCode>
+        <status>true</status>
         <options>
-        <name><![CDATA[색상]]></name>
-        <id><![CDATA[O201903065c7f6996eb751]]></id>
+          <id><![CDATA[O201903125c87aa619db1e]]>
+          </id>
+          <name><![CDATA[색상]]></name>
         </options>
-        <options>
-        <name><![CDATA[사이즈]]></name>
-        <id><![CDATA[O201903065c7f69a655a9d]]></id>
-        </options>
-        <price>0</price>
       </combination>
     </option>
     <shippingPolicy>
-      <groupId><![CDATA[d201808305b8707dd6d30a]]></groupId>
       <method>DELIVERY</method>
-      <feeType>CONDITIONAL_FREE</feeType>
-      <feePayType>FREE</feePayType>
-      <feePrice>3000</feePrice>
-      <conditionalFree>
-        <basePrice>50000</basePrice>
-      </conditionalFree>
+      <feeType>CHARGE_BY_QUANTITY</feeType>
+      <feePayType>PREPAYED</feePayType>
+      <feePrice>20000</feePrice>
+      <chargeByQuantity>
+        <type>RANGE</type>
+        <range>
+          <type>2</type>
+          <range2From></range2From>
+          <range2FeePrice>-20000</range2FeePrice>
+        </range>
+      </chargeByQuantity>
     </shippingPolicy>
   </product>
 </products>
