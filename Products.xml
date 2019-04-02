@@ -36,8 +36,8 @@
         <type>RANGE</type>
         <range>
           <type>2</type>
-          <range2From></range2From>
-          <range2FeePrice>-20000</range2FeePrice>
+          <range2From>2</range2From>
+          <range2FeePrice>20000</range2FeePrice>
         </range>
       </chargeByQuantity>
     </shippingPolicy>
