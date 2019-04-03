@@ -1,45 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
 <products>
-  <product>
-    <id>207</id>
-    <name><![CDATA[로우테이블]]></name>
-    <basePrice>450000</basePrice>
-    <taxType>TAX</taxType>
-    <infoUrl><![CDATA[http://obglowsongpa.co.kr/34/?idx=207]]></infoUrl>
-    <imageUrl><![CDATA[http://cdn.imweb.me/upload/S201902105c5fb0230d66e/5c9b20e227189.jpg]]></imageUrl>
-    <status>ON_SALE</status>
-    <optionSupport>true</optionSupport>
-    <option>
-      <optionItem>
-        <type>SELECT</type>
-        <name><![CDATA[색상]]></name>
-        <value>
-          <id><![CDATA[O201903125c87aa619db1e]]></id>
-          <text><![CDATA[화이트(4월배송)]]></text>
-          <status>true</status>
-        </value>
-      </optionItem>
-      <combination>
-        <manageCode><![CDATA[i201904025ca31c270535c]]></manageCode>
-        <status>true</status>
-        <options>
-          <id><![CDATA[O201903125c87aa619db1e]]></id>
-          <name><![CDATA[색상]]></name>
-        </options>
-      </combination>
-    </option>
-    <shippingPolicy>
-      <method>DELIVERY</method>
-      <feeType>CHARGE_BY_QUANTITY</feeType>
-      <feePayType>PREPAYED</feePayType>
-      <feePrice>20000</feePrice>
-      <chargeByQuantity>
-        <type>RANGE</type>
-        <range>
-          <type>2</type>
-          <range2From></range2From>
-          <range2FeePrice>-20000</range2FeePrice>
-        </range>
-      </chargeByQuantity>
-    </shippingPolicy>
-  </product>
+<product>
+<id>1000003283</id>
+<ecMallProductId>1000003283</ecMallProductId>
+<name><![CDATA[그라데이션 메탈현판<br>매력적인 컬러<br>고급스러운 현판]]></name>
+<basePrice>46500</basePrice>
+<taxType>TAX</taxType>
+<infoUrl><![CDATA[http://acrylfarm.co.kr/goods/goods_view.php?inflow=naverPay&goodsNo=1000003283]]></infoUrl>
+<imageUrl><![CDATA[http://www.acrylfarm.co.kr/data/goods/18/10/41/1000003283/1000003283_main_064.jpg]]></imageUrl>
+<status>ON_SALE</status>
+<supplementSupport>false</supplementSupport>
+<optionSupport>true</optionSupport>
+<returnShippingFee>3000</returnShippingFee>
+<exchangeShippingFee>6000</exchangeShippingFee>
+<shippingPolicy>
+<method>DELIVERY</method>
+<groupId>1</groupId>
+<feePayType>PREPAYED</feePayType>
+<feePrice>3000</feePrice>
+<feeType>CHARGE</feeType>
+<surchargeByArea>
+<splitUnit>3</splitUnit>
+<area2Price>3500</area2Price>
+<area3Price>4000</area3Price>
+</surchargeByArea>
+</shippingPolicy>
+<option>
+<optionItem>
+<type>SELECT</type>
+<name><![CDATA[그라데이션 컬러]]></name>
+<value>
+<id>S_dcd91411b4a7c6cc0ffc7bbd236347</id>
+<text><![CDATA[퍼플핑크]]></text>
+</value>
+<value>
+<id>S_f328f1ab9fe09de3435aadca187075</id>
+<text><![CDATA[옐로우그린]]></text>
+</value>
+<value>
+<id>S_2d1ecb3426b80cba68869e531f19c8</id>
+<text><![CDATA[스카이블루]]></text>
+</value>
+</optionItem>
+<optionItem>
+<type>INPUT</type>
+<name><![CDATA[큰 글씨]]></name>
+</optionItem>
+<optionItem>
+<type>INPUT</type>
+<name><![CDATA[작은 글씨]]></name>
+</optionItem>
+<combination>
+<manageCode>option6724</manageCode>
+<options>
+<name><![CDATA[그라데이션 컬러]]></name>
+<id>S_dcd91411b4a7c6cc0ffc7bbd236347</id>
+</options>
+<options>
+<name><![CDATA[큰 글씨]]></name>
+<id>T214</id>
+</options>
+<options>
+<name><![CDATA[작은 글씨]]></name>
+<id>T215</id>
+</options>
+<price>0</price>
+</combination>
+</option>
+</product>
 </products>
