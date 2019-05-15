@@ -1,68 +1,53 @@
-<?xml version="1.0" encoding="utf-8"?>
 <products>
 <product>
-<id>1000003283</id>
-<ecMallProductId>1000003283</ecMallProductId>
-<name><![CDATA[그라데이션 메탈현판<br>매력적인 컬러<br>고급스러운 현판]]></name>
-<basePrice>46500</basePrice>
+<id>1002071626</id>
+<ecMallProductId>1002071626</ecMallProductId>
+<name><![CDATA[에이덕(A duck) 마스크(입마개) - 엑스라지 애완용품]]></name>
+<basePrice>18575</basePrice>
 <taxType>TAX</taxType>
-<infoUrl><![CDATA[http://acrylfarm.co.kr/goods/goods_view.php?inflow=naverPay&goodsNo=1000003283]]></infoUrl>
-<imageUrl><![CDATA[http://www.acrylfarm.co.kr/data/goods/18/10/41/1000003283/1000003283_main_064.jpg]]></imageUrl>
+<infoUrl><![CDATA[http://aboutshopping.co.kr/goods/goods_view.php?inflow=naverPay&goodsNo=1002071626]]></infoUrl>
+<imageUrl><![CDATA[http://cdn.ownerclan.com/AW4wDGjOcPyBkcb68uC46GBUdlB8pS4qd8g4ZHfexLA/marketize/auto/as/v1.jpg]]></imageUrl>
 <status>ON_SALE</status>
 <supplementSupport>false</supplementSupport>
 <optionSupport>true</optionSupport>
-<returnShippingFee>3000</returnShippingFee>
-<exchangeShippingFee>6000</exchangeShippingFee>
+<returnShippingFee>2500</returnShippingFee>
+<exchangeShippingFee>5000</exchangeShippingFee>
 <shippingPolicy>
-<method>DELIVERY</method>
-<groupId>1</groupId>
+<groupId>6_1002071626</groupId>
 <feePayType>PREPAYED</feePayType>
-<feePrice>3000</feePrice>
+<feePrice>2500</feePrice>
 <feeType>CHARGE</feeType>
 <surchargeByArea>
 <splitUnit>3</splitUnit>
 <area2Price>3500</area2Price>
-<area3Price>4000</area3Price>
+<area3Price>6000</area3Price>
 </surchargeByArea>
 </shippingPolicy>
+
 <option>
 <optionItem>
 <type>SELECT</type>
-<name><![CDATA[그라데이션 컬러]]></name>
+<name><![CDATA[옵션]]></name>
 <value>
-<id>S_dcd91411b4a7c6cc0ffc7bbd236347</id>
-<text><![CDATA[퍼플핑크]]></text>
+<id>S_f2ba115498dd0b3d2623ccc41d2d80</id>
+<text><![CDATA[블루]]></text>
 </value>
 <value>
-<id>S_f328f1ab9fe09de3435aadca187075</id>
-<text><![CDATA[옐로우그린]]></text>
+<id>S_c3a5eaa8e80aaa3b6443d405a1aef1</id>
+<text><![CDATA[옐로우]]></text>
 </value>
 <value>
-<id>S_2d1ecb3426b80cba68869e531f19c8</id>
-<text><![CDATA[스카이블루]]></text>
+<id>S_8599b528d9c9fc1fd9a3b3e3c58f37</id>
+<text><![CDATA[핑크]]></text>
 </value>
 </optionItem>
-<optionItem>
-<type>INPUT</type>
-<name><![CDATA[큰 글씨]]></name>
-</optionItem>
-<optionItem>
-<type>INPUT</type>
-<name><![CDATA[작은 글씨]]></name>
-</optionItem>
+
+
 <combination>
-<manageCode>option6724</manageCode>
+<manageCode>option5476201</manageCode>
 <options>
-<name><![CDATA[그라데이션 컬러]]></name>
-<id>S_dcd91411b4a7c6cc0ffc7bbd236347</id>
-</options>
-<options>
-<name><![CDATA[큰 글씨]]></name>
-<id>T214</id>
-</options>
-<options>
-<name><![CDATA[작은 글씨]]></name>
-<id>T215</id>
+<name><![CDATA[옵션]]></name>
+<id>S_c3a5eaa8e80aaa3b6443d405a1aef1</id>
 </options>
 <price>0</price>
 </combination>
