@@ -4,17 +4,13 @@
 		<name><![CDATA[10부이상/ 출력&제본 주문/흑백출력 / 양면/80g / 백색 모조지 /B5 : 182mm x 257(mm)]]></name>
 		<url><![CDATA[http://hitechprinter.kr/shop/prd_order.php?catcode=101010]]></url>
 		<description><![CDATA[]]></description>
-
 		<image><![CDATA[http://hitechprinter.kr/images/noimg_L.gif]]></image>
 		<thumb><![CDATA[http://hitechprinter.kr/images/noimg_S.gif]]></thumb>
-
 		<price>403400</price>
 		<quantity>1</quantity>
-
 		<category>
-			<first id="MJ01">B5 : 182mm x 257(mm)</first>
+			<first id="MJ01">B5 : 182mm x 257(mdm)</first>
 		</category>
-
 		<options>
         <option name="페이지"><select><![CDATA[0]]></select></option>
     		<option name="권수"><select><![CDATA[0]]></select></option>
