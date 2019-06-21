@@ -1,26 +1,16 @@
-<?xml version="1.0" encoding="euc-kr"?><response>
-
-	<item id="101010">
-		<name><![CDATA[10부이상/ 출력&제본 주문/흑백출력 / 양면/80g / 백색 모조지 /B5 : 182mm x 257(mm)]]></name>
-		<url><![CDATA[http://hitechprinter.kr/shop/prd_order.php?catcode=101010]]></url>
-		<description><![CDATA[]]></description>
-
-		<image><![CDATA[http://hitechprinter.kr/images/noimg_L.gif]]></image>
-		<thumb><![CDATA[http://hitechprinter.kr/images/noimg_S.gif]]></thumb>
-
-		<price>403400</price>
-		<quantity>1</quantity>
-
-		<category>
-			<first id="MJ01">B5 : 182mm x 257(mm)</first>
-		</category>
-
-		<options>
-        <option name="페이지"><select><![CDATA[0]]></select></option>
-    		<option name="권수"><select><![CDATA[0]]></select></option>
-        <option name="무선제본(A4 / 200g/ 스노우지 / 기성표지)"><select><![CDATA[1]]></select></option>
-							<option name="와이어제본(A4 / 230g / 레자크 필림)"><select><![CDATA[1]]></select></option>
-							<option name="크리스탈코일링제본(A4 / 230g / 레자크 필림)"><select><![CDATA[222]]></select></option>
-		</options>
-	</item>
-</response>
+<products>
+<product>
+<id>1</id>
+<name><![CDATA[ 공빚단 - 기본(15포) ]]></name>
+<basePrice>144000</basePrice>
+<infoUrl><![CDATA[ https://chosunboutique.com/shop/detail ]]></infoUrl>
+<imageUrl><![CDATA[https://chosunboutique.com/static/assets/images/gongbitdan_mockup.png]]></imageUrl>
+<status>ON_SALE</status>
+<shippingPolicy>
+<method>DELIVERY</method>
+<feeType>FREE</feeType>
+<feePayType>FREE</feePayType>
+<feePrice>0</feePrice>
+</shippingPolicy>
+</product>
+</products>
