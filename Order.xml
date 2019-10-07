@@ -1,19 +1,21 @@
-<returnInfo>
-  <zipcode>
-    <![CDATA[ 123-456 ]]>
-  </zipcode>
-  <address1>
-    <![CDATA[ 경북 의성군 금성면 대리리 216-1 ]]>
-  </address1>
-  <address2>
-    <![CDATA[ ]]>
-  </address2>
-  <sellername>
-    <![CDATA[ SJ헬스케어 ]]>
-  </sellername>
-  <contact1>
-    <![CDATA[ 01036367939 ]]>
-  </contact1>
-</returnInfo>asdasd
-asdasdasd
-as
+SHOP_ID=np_azkzo645820
+CERTI_KEY=86DC7EC9-5D3D-4525-83A2-B20023A70402
+SHIPPING_TYPE=PAYED
+SHIPPING_PRICE=10000
+RESERVE1=
+RESERVE2=
+RESERVE3=
+RESERVE4=
+RESERVE5=
+BACK_URL=http://www.anabolickorea.com/shop/goods/goods_view.php?inflow=naverCheckout&goodsno=1641
+CPA_INFLOW_CODE=
+NAVER_INFLOW_CODE=
+TOTAL_PRICE=53000
+ITEM_ID=1641
+ITEM_NAME=GI Juice
+ITEM_COUNT=1
+ITEM_OPTION=용량.:450g./맛.:Pineapple Banana(기본배송 10,000원)
+ITEM_OPTION_CODE=a:2:{i:0;s:5:"450g.";i:1;s:16:"Pineapple Banana";}
+ITEM_TPRICE=43000
+ITEM_UPRICE=43000
+EC_MALL_PID=1641

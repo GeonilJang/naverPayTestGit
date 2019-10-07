@@ -1,21 +1,27 @@
-<response>
-	<item id="101010">
-		<name><![CDATA[10부이상/출력&제본주문/흑백출력 / 양면/80g / 백색 모조지 /B5 : 182mm x 257(mm)]]></name>
-		<url><![CDATA[http://hitechprinter.kr/shop/prd_order.php?catcode=101010]]></url>
-		<description><![CDATA[]]></description>
-		<image><![CDATA[http://hitechprinter.kr/images/noimg_L.gif]]></image>
-		<thumb><![CDATA[http://hitechprinter.kr/images/noimg_L.gif]]></thumb>
-		<price>403400</price>
-		<quantity>1</quantity>
-		<category>
-			<first id="MJ01">B5 : 182mm x 257(mdm)</first>
-		</category>
-		<options>
-        <option name="페이지"><select><![CDATA[0]]></select></option>
-    		<option name="권수"><select><![CDATA[0]]></select></option>
-        <option name="무선제본(A4 / 200g/ 스노우지 / 기성표지)"><select><![CDATA[1]]></select></option>
-				<option name="와이어제본(A4 / 230g / 레자크 필림)"><select><![CDATA[1]]></select></option>
-				<option name="크리스탈코일링제본(A4 / 230g / 레자크 필림)"><select><![CDATA[222]]></select></option>
-		</options>
-	</item>
-</response>
+<?xml version="1.0" encoding="utf-8"?>
+<products>
+	<product>
+	  <id>22274</id>
+	  <merchantProductId></merchantProductId>
+	  <name><![CDATA[해동조구 카리스마 EVA 2단 줌 롯드거치대 HT-1038 ]]></name>
+	  <basePrice>32000</basePrice>
+	  <infoUrl><![CDATA[http://klfishing.com/shop_item_view.php?ac_id=1111&ai_id=22274]]></infoUrl>
+	  <imageUrl><![CDATA[/img/item_new/2019-09-23/item_300_22155_1569205924.jpg]]></imageUrl>
+	  <returnInfo>
+	  <zipcode>41055</zipcode>
+	  <address1><![CDATA[대구시 동구 부동]]></address1>
+	  <address2><![CDATA[633-1]]></address2>
+	  <sellername><![CDATA[코러낚시]]></sellername>
+	  <contact1>15886366</contact1>
+	  </returnInfo>
+	  <shippingPolicy>
+	  <method>DELIVERY</method>
+	  <feeType>CONDITIONAL_FREE</feeType>
+	  <feePayType>FREE</feePayType>
+	  <feePrice>2500</feePrice>
+	  <conditionalFree>
+	  <basePrice>50000</basePrice>
+	  </conditionalFree>
+	  </shippingPolicy>
+	</product>
+</products>
